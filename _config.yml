@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Rodrigo Ramele"
-  avatar           : "images/watashi.jpeg"
+  avatar           : "watashi.jpeg"
   bio              : "Doctor in Engineering in Brain Computer Interfaces"
   location         : "Buenos Aires, Argentina"
   employer         : Instituto Tecnológico de Buenos Aires
