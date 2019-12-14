@@ -8,7 +8,7 @@ venue: 'Brain Science'
 paperurl: 'https://www.mdpi.com/2076-3425/8/11/199'
 citation: 'Ramele, R. and Villar A.J. and Santos J.M., ”EEG Waveform Analysis of P300 ERP with applications to Brain Computer Interfaces”, MDPI Brain Sciences Journal, Special Issue:”Brain-Computer Interfaces for Human Augmentation”,2018, 8(11), 199.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Methods and techniques to analyze EEG signals by their waveforms.
 
 [Download paper here](https://www.mdpi.com/2076-3425/8/11/199)
 
