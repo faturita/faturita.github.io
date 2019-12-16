@@ -1,6 +1,6 @@
 ---
 title: "Brain Computer Interfaces Projects"
-excerpt: "BCI projects that we are currently working on<br/><img src='/images/SignalWithFullDescriptors3.png'>"
+excerpt: "BCI projects that we are currently working on<br/><img src='/images/SignalWithFullDescriptors3.png' height='200' widht='200'>"
 collection: portfolio
 ---
 
