@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Brain Computer Interfaces Projects"
+excerpt: "BCI projects that we are currently working on<br/><img src='/images/SignalWithFullDescriptors3.png'>"
 collection: portfolio
 ---
 
