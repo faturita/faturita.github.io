@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Analyzing Brainwaves"
+title: "Monostuff"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,12 +10,15 @@ redirect_from:
 
 
 
-Warming up...
-======
-Check the blog to see how everything is going.
-Hardmaru says that if you want to publish a good paper, you should write the paper as a blog post.
+Brain Computer Interfaces and Assistive Robotics
+================================================
+
+[Original Blog](https://monostuff.logdown.com/)
+
+![Neurotronics](neurotronics.png)
 
 
-Edit template
+
+Thank you academic pages....
 ------
 [Here](https://academicpages.github.io/)
