@@ -9,3 +9,7 @@ location: "Buenos Aires, Argentina"
 ---
 
 Theory of Security, Finite Fields, Information Security
+
+[Number Theory intro in Spanish](https://www.youtube.com/watch?v=FcM8RpBvkf4)
+[Euclides Algorithm in Spanish](https://www.youtube.com/watch?v=KgnrX6I_Nd4)
+

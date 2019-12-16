@@ -8,4 +8,6 @@ date: 2019-06-01
 location: "Buenos Aires, Argentina"
 ---
 
-Time Series Analysis. Scientific Python. Spectral Filters. Spatial Filters. Segmentation. Time Series Features. Classification.
+Time Series Analysis. Scientific Python. Spectral Filters. Spatial Filters. Segmentation. Time Series Features. Feature Engineering. Neuro inspiration to Neural Networks. Deep Learning. Classification.
+
+[GitHub Repository](https://github.com/faturita/python-scientific)
