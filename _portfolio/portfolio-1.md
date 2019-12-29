@@ -3,7 +3,7 @@ title: "Proyectos para PFs"
 excerpt: "BCI projects that we are currently working on<br/><img src='/images/SignalWithFullDescriptors3.png' height='200' widht='200'>"
 collection: portfolio
 ---
-)
+
 * ALPIBot: Robot que lleva el tanque de oxigeno para los pacientes con enfisema en Rehabilitación. Es una idea de la gente de ALPI y lo estamos construyendo en colaboración con ellos.
 * EMG/EOG Decoding: Decodificar las señales remanentes de un paciente de ALPI particular, para implementar un protocolo de comunicación básica.
 * Training a Gaming Agent on Brainwaves: Entrenar a un agente para juegos en base a señales obtenidas mediante la detección del potencial de error.
