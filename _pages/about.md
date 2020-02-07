@@ -21,6 +21,4 @@ Although Neurotronics is a very cliche-like word, I feel it makes sense.  BCI sh
 
 
 
-Thank you academic pages....
-------
-[Here](https://academicpages.github.io/)
+Powered by Academic Pages [Here](https://academicpages.github.io/)
