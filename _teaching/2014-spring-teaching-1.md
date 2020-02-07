@@ -9,3 +9,5 @@ location: "Buenos Aires, Argentina"
 ---
 
 From Chomsky to LALR(1) parser.
+
+* [LL(1) Parser in Spanish](https://www.youtube.com/watch?v=0XWcRXnOzLM)
