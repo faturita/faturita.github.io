@@ -1,6 +1,6 @@
 ---
 title: "Assistive Robotics Projects"
-excerpt: "Robotics will be healthcare<br/><img src='/images/alpibot.png'  height='200' widht='200'>"
+excerpt: "Robotics will be healthcare<br/><img src='/images/alpibot.png'  height='100' widht='100'>"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Proyectos para PFs"
-excerpt: "BCI projects that we are currently working on<br/><img src='/images/SignalWithFullDescriptors3.png' height='200' widht='200'>"
+excerpt: "BCI projects that we are currently working on<br/><img src='/images/SignalWithFullDescriptors3.png' height='100' widht='100'>"
 collection: portfolio
 ---
 
@@ -16,3 +16,4 @@ collection: portfolio
 * KComplex: detección automática de complejos K.
 * Face Generation based on GANs: generación de caras artificiales basado en redes GAN.
 
+![Neurotronics](images/neurotronics.png){:height="450px" width="300px"}
