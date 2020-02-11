@@ -11,8 +11,8 @@ collection: portfolio
 * *Scope*: we need to change the spelling matrix to RSVP paradigm.
 
 Code 
-* (https://github.com/faturita/BciSift)
-* (https://github.com/faturita/GuessMe)
+* <https://github.com/faturita/BciSift>
+* <https://github.com/faturita/GuessMe>
 
 
 
