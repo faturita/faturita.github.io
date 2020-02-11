@@ -11,5 +11,5 @@ collection: portfolio
 * *Scope*: Although the decoding of blinkings and basic face EMG signals is implemented, all the rest is missing.
 
 Code 
-* [https://github.com/faturita/python-mindwave]
+* <https://github.com/faturita/python-mindwave>
 
