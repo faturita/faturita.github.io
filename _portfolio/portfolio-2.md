@@ -4,8 +4,6 @@ excerpt: "EMG/EOG Decoder"
 collection: portfolio
 ---
 
-![Descriptor](/images/SignalWithFullDescriptors3.png){:height="450px" width="300px"}
-
 * *Description*: This project aims to implement an EMG decoder for a very special ALPI patient using NeuroSky.  
 
 * *Scope*: Although the decoding of blinkings and basic face EMG signals is implemented, all the rest is missing.
