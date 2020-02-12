@@ -4,15 +4,14 @@ excerpt: "Robotic Platform for Gerontology"
 collection: portfolio
 ---
 
-![Descriptor](/images/SignalWithFullDescriptors3.png){:height="450px" width="300px"}
+![Descriptor](/images/qbo.png){:height="450px" width="300px"}
 
-* *Description*: Elderly companion.
+* *Description*: This is a Social Assistive Robot built on the QBo project based on RPi and Arduino.  It implements Google Assistant as voice recognition and text to speech synthesis.  
 
 * *Scope*: fix and implement the new method. Integrate with the arm.
 
 Code 
-* <https://github.com/faturita/BciSift>
-* <https://github.com/faturita/GuessMe>
+* <https://github.com/faturita/QBOscratch>
 
 
 

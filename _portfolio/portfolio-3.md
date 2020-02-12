@@ -4,16 +4,14 @@ excerpt: "Mobile Robotic Platform to carry the Oxygen Tank"
 collection: portfolio
 ---
 
-* ALPIBot: Robot que lleva el tanque de oxigeno para los pacientes con enfisema en Rehabilitación. Es una idea de la gente de ALPI y lo estamos construyendo en colaboración con ellos.
+![ALPI Bot](/images/alpibot1.jpg){:height="450px" width="300px"}![ALPI Bot](/images/alpibot2.jpg){:height="450px" width="300px"} ![ALPI Bot](/images/alpibot3.jpg){:height="450px" width="300px"}![ALPI Bot](/images/alpibot.png){:height="450px" width="300px"}
 
 
-![ALPI Bot](/images/alpibot1.jpg){:height="450px" width="300px"}![ALPI Bot](/images/alpibot2.jpg){:height="450px" width="300px"} ![ALPI Bot](/images/alpibot3.jpg){:height="450px" width="300px"}
+* *Description*: This is a basic robotic prototype that can carry the oxygen tank of an enphisema patient.  It is designed to be used for Pulmonary Rehabilitation protocols that are performed in ALPI.  The robot works by following the tethers and adjust their velocity based on the length difference.  It uses the hardware, electronics, and software that we created as a IoRT platform.
 
-
-* *Description*: This is a robotic platform that can carry the oxygen tank of an enphisema patient.
-
-* *Scope*: We just iterated once.  We need to keep going.
+* *Scope*: We just iterated once.  We need to keep going.  There is a lot of things to do ahead of us.
 
 Code 
 * <https://github.com/Lucianobianchi/ALPI-bot>
+* <https://github.com/faturita/ShinkeyBot>
 

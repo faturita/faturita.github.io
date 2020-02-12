@@ -4,15 +4,15 @@ excerpt: "Redesign of a platform based on OpenBCI"
 collection: portfolio
 ---
 
-![Descriptor](/images/headset.jpg){:height="450px" width="300px"}
+![Descriptor](/images/openbci.jpg){:height="450px" width="300px"}
 
-* *Description*: The system is composed of two parts.  The first on is the platform on OpenVibe which generates stimulations for a P300-Based Speller using the standard 6x6 Farwell and Donchin spelling matrix.  The other part is a program in C++ which reads messages from LSL protocol, process each stimulus, averages signal and sends the selected letter back to the OpenVibe platform.
+* *Description*: any kind of BCI solution requires a capturing device, likely based on noninvasive EEG.  Hence the costs associated with the device should be reduced.  This projects is our own implementation of an EEG device based on DIY and Open Hardware, particulary OpenBCI.
 
-* *Scope*: we need to change the spelling matrix to RSVP paradigm.
+* *Scope*: we 3D printed the UltraCortex headset but it is very unconfortable to wear. Additionally, cable movement induces a lot of noise in the signals.  The headset should be ergonomic and it must be able to wear at night while sleeping (for sleep research).
 
 Code 
-* <https://github.com/faturita/BciSift>
-* <https://github.com/faturita/GuessMe>
+* <https://github.com/faturita/OpenBCI_PosixC>
+* <https://github.com/faturita/OpenBCI_Processing>
 
 
 
