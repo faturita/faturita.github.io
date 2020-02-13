@@ -11,6 +11,8 @@ collection: portfolio
 
 * *Scope*: We just iterated once.  We need to keep going.  There is a lot of things to do ahead of us.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/skpeedcbvqk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Code 
 * <https://github.com/Lucianobianchi/ALPI-bot>
 * <https://github.com/faturita/ShinkeyBot>
