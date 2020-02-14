@@ -13,7 +13,7 @@ redirect_from:
 Brain Computer Interfaces and Assistive Robotics
 ================================================
 
-[Blog](https://monostuff.logdown.com/)
+[Blog](http://monostuff.logdown.com/posts/253892-brain-computer-interfaces-all-you-need-to-know)
 
 ![Neurotronics](images/neurotronics.png){:height="450px" width="300px"}
 
