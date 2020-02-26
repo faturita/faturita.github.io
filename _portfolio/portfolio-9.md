@@ -8,6 +8,8 @@ collection: portfolio
 
 * *Description*: This is a Social Assistive Robot built on the QBo project based on RPi and Arduino.  It implements Google Assistant as voice recognition and text to speech synthesis.  
 
+* *Project*: This robot has two cameras that can be properly aligned to implement stereo vision.  One of the goals is to recognize particular objects from both cameras, locate them in the space and grab them them with the arm.  This is a basic benchmark that is great to pass it.
+
 * *Scope*: fix and implement the new method. Integrate with the arm.
 
 Code 
