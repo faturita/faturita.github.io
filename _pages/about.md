@@ -13,11 +13,11 @@ redirect_from:
 Brain Computer Interfaces and Assistive Robotics
 ================================================
 
-[Blog](http://monostuff.logdown.com/posts/253892-brain-computer-interfaces-all-you-need-to-know)
+[BCI Blog - Everything you need to know](http://monostuff.logdown.com/posts/253892-brain-computer-interfaces-all-you-need-to-know)
 
 ![Neurotronics](images/neurotronics.png){:height="450px" width="300px"}
 
-Neurotronics, cliche-like word, though it may make sense.  BCI shifts the technological paradigm toward the person, towards their brain.  At the center of this tecnological revolution, a person and their brain are located and everything is around them.
+Neurotronics: BCI shifts the technological paradigm toward the person, towards their brain.  It reminds us that at the center of the tecnological revolution, there is a person, and particularly, their brain.
 
 
 Powered by Academic Pages [Here](https://academicpages.github.io/)

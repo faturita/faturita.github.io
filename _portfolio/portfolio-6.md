@@ -1,6 +1,6 @@
 ---
 title: "KComplex"
-excerpt: "KComplex Detection for Sleep Researxch"
+excerpt: "KComplex Detection for EEG Sleep Research"
 collection: portfolio
 ---
 
@@ -8,7 +8,7 @@ collection: portfolio
 
 * *Description*: Identification of KComplex for Sleep Research
 
-* *Scope*: we need to detect more efficiently kComplex from EEG Streams.
+* *Scope*: the method based on the Histogram of Oriented Gradients can be used to detect different trascient signal components, like K-Complexes.  We implemented a method which ended up being too slow but that was very good at matching existing template components against candidates on an EEG Stream.  There is a lot of work ahead to be done.
 
 Code 
 * <https://github.com/faturita/KComplex>
