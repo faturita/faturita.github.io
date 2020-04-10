@@ -1,6 +1,6 @@
 ---
 title: "List of Final Project Proposal for Engineering"
-excerpt: "Mobile Robotic Platform to carry the Oxygen Tank"
+excerpt: "We need you !"
 collection: portfolio
 ---
 
@@ -8,7 +8,7 @@ collection: portfolio
 * EMG/EOG Decoding: Decodificar las señales remanentes de un paciente de ALPI particular, para implementar un protocolo de comunicación básica.
 * Training a Gaming Agent on Brainwaves: Entrenar a un agente para juegos en base a señales obtenidas mediante la detección del potencial de error.
 * SAR Q.bo for Gerontology: implementar en el robot, mecanismos para interactuar con adultos mayores.
-* OpenBCI/Ganglion Headset: se requiere implementar la vincha y detectar las ondas delta.  Cada vez que se produce un pico de onda delta hay que generar un audio sincronizado.  Se hace en conjunto con el laboratorio de sueño de la Doctora Focatto.
+* OpenBCI/Ganglion Headset: se requiere implementar la vincha y poder detectar patrones en las señales.
 * P300-Based BCI Speller based on RSVP: modificar OpenVibe para que permita comunicación de P300 usando RSVP.
 * 惑星防寒 OpenGL/ODE Engine: continuar el motor de videojuegos basado en ODE y OpenGL.
 * Gsync: proyecto de investigación para incluir un protocolo para sincronizar señales.
