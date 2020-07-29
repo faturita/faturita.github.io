@@ -28,3 +28,11 @@ El CiC cuenta con el siguiente equipamiento:
 * *Additional devices*: Sipp-and-Puff air volumetric sensors, SpO2, swtich buttons.
 * *Robot Prototyping*: aluminium rods and beams, CNC, 3D Printer.
 
+Reglas para sacar valor a los PFs
+
+* El documento en Overleaf tiene que estar desde el primer día y hay que usarlo como un repositorio de referencias, tirar texto ahí, poner enlaces.  Hay que ir acumulando y documentando todo el material que se va acumulando, incluso aquel que no prospera.
+* Prolijo con los datos:  El entregable es el dataset completo en Cloud Ocean o IEEE Dataport o Kaggle.  Tiene que estar super claro como acceder a los datos, que es lo que contienen y el speech de como fuero tomados.  Solicitar al comite de etica
+aprobación.
+* Armar scripts basados en esos datos para poder regenerarlos todos.  Los gráficos tienen que tener los ejes bien marcados y en tamaños grandes bien visibles, generalmente sin títulos.  Todos los gráficos tienen que ser en formato EPS.
+* Armar un apartado que resuma las contribuciones del trabajo, explicitadas una a una.
+* Las fotos tienen que tener la cara tapada, buena iluminación, mostrar los elementos importantes destacados de forma que se visualicen de manera correcta.
