@@ -13,8 +13,8 @@ collection: portfolio
 * *Scope*: fix and implement the new method. Integrate with the arm.  Embodied Conversational Agents (ECAs).  There is a chance that this project is conducted jointly with the company https://www.deep-talk.ai/.  This company provides software that can handle and extract meaningful information from chats, and provide meaningful chatbots and chat flow managers.
 
 * Bibliograpy:
-   * https://www.mdpi.com/2227-9032/8/2/73/pdf
-   * http://cs.unh.edu/~tg1034/publication/shr_sajay.pdf
+   * <https://www.mdpi.com/2227-9032/8/2/73/pdf>
+   * <http://cs.unh.edu/~tg1034/publication/shr_sajay.pdf>
 
 Code 
 * <https://github.com/faturita/QBOscratch>
