@@ -36,3 +36,9 @@ aprobación.
 * Armar scripts basados en esos datos para poder regenerarlos todos.  Los gráficos tienen que tener los ejes bien marcados y en tamaños grandes bien visibles, generalmente sin títulos.  Todos los gráficos tienen que ser en formato EPS.
 * Armar un apartado que resuma las contribuciones del trabajo, explicitadas una a una.
 * Las fotos tienen que tener la cara tapada, buena iluminación, mostrar los elementos importantes destacados de forma que se visualicen de manera correcta.
+
+En relación al Informe
+* Introducción: va desde lo general, desde los problemas de la humanidad, haciendose cada vez más específico hasta plantear el problema que existe, que no fue resuelto por nadie, y que este trabajo viene a solucionar.  Luego requiere poner contribuciones/objetivos.  Después un walkthrough que detalle que es lo que hay en cada parte.
+* Cada vez que se pone un gráfico hay que explicarlo y tiene que tener una razón para estar ahí.  Gráficos de relleno no sirven para nada.  No está bueno poner capturas de salidas de pantalla, a no ser que sea estrictamente importante.
+* Cada vez que se menciona algo que existe, hay que citarlo.
+* En el informe no van las actividades que se hicieron para construir el informe.
