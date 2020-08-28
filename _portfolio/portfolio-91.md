@@ -4,7 +4,7 @@ excerpt: "BCI RSVP paradigm into OpenVibe"
 collection: portfolio
 ---
 
-![Descriptor](/images/mgac-ok.png){:height="450px" width="300px"}
+![Descriptor](/images/rsvp.jpg){:height="450px" width="300px"}
 
 * *Description*:Cambiar el paradigma actual de 6x6 Matrix a RSVP
 
