@@ -42,3 +42,5 @@ En relación al Informe
 * Cada vez que se pone un gráfico hay que explicarlo y tiene que tener una razón para estar ahí.  Gráficos de relleno no sirven para nada.  No está bueno poner capturas de salidas de pantalla, a no ser que sea estrictamente importante.
 * Cada vez que se menciona algo que existe, hay que citarlo.
 * En el informe no van las actividades que se hicieron para construir el informe.
+* VERIFICAR la ortografía !!!!!!
+* Verificar bien las secciones.  Intro, Materials and Methods, Results, Discussion, Conclussion, Future Work
