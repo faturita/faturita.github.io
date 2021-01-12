@@ -38,7 +38,16 @@ aprobación.
 * Las fotos tienen que tener la cara tapada, buena iluminación, mostrar los elementos importantes destacados de forma que se visualicen de manera correcta.
 
 En relación al Informe
-* Introducción: va desde lo general, desde los problemas de la humanidad, haciendose cada vez más específico hasta plantear el problema que existe, que no fue resuelto por nadie, y que este trabajo viene a solucionar.  Luego requiere poner contribuciones/objetivos.  Después un walkthrough que detalle que es lo que hay en cada parte.
+* El informe NO ES el Research Proposal que es la propuesta de trabajo.  Es un documento totalmente independiente. Idealmente un buen informe, tiene un título, y el informe habla de ese título y del tema, y el hecho de que se haya usado como una tesis, proyecto final o similar apenas se menciona al principio y nunca más.  Los temas epistemológicos no tienen que estar en el Informe.
+* Secciones:
+** Abstract
+** Introducción
+** Materials and Methods: Esta sección, generalmente en capítulos describen el meollo de la solución.  Cómo se intenta responder a las preguntas establecidas en la introducción.  Si hay experimentos, se describen los mismos.  Cuanto más reproducible sea la descripción, en general se considera más formal.
+** Results: Se muestran los resultados obtenidos.
+** Discussion: Se discuten y se explican los resultados obtenidos.  Esta sección suele estar mezclada con la anterior en una sola.
+** Conclussions: Se detallan las conclusiones en base a información aportada por este trabajo.
+** Future Work: Se detalla como se continuaría el trabajo de contar con tiempo infinito.
+* Introducción: va desde lo general, desde los problemas de la humanidad, haciendose cada vez más específico hasta plantear el problema que existe, que no fue resuelto por nadie, y que este trabajo viene a solucionar.  Al final requiere poner contribuciones/objetivos.  Después un walkthrough que detalle que es lo que hay en cada parte del propio informe.
 * Cada vez que se pone un gráfico hay que explicarlo y tiene que tener una razón para estar ahí.  Gráficos de relleno no sirven para nada.  No está bueno poner capturas de salidas de pantalla, a no ser que sea estrictamente importante.
 * Cada vez que se menciona algo que existe, hay que citarlo.
 * En el informe no van las actividades que se hicieron para construir el informe.
