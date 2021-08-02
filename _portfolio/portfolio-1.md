@@ -10,6 +10,8 @@ collection: portfolio
 
 * *Scope*: we need to change review the online speller for ALPI
 
+* *Technologies*: LUA, UI, Accessibility, C++, MATLAB, Python
+
 
 Code 
 * [Code Ocean Online Platform](https://codeocean.com/capsule/5299343/tree/v2)

@@ -8,8 +8,8 @@ collection: portfolio
 
 * *Scope*: The training of the agent was performed offline.  The next step is to perform it online.  Additionally, we want to verify other gaming strategies (the game is the simplest thing that we could found that triggered the ErrP signal)
 
-Paper Preprint: <https://github.com/faturita/ErrP-IEEELatam/raw/master/ErrP.pdf>
-* This paper has been submitted to IEEE Transactions on Games. We are waiting for reviewers' feedback.
+Published paper on IEEE Transactions on Games: <https://ieeexplore.ieee.org/document/9285187>
+
 
 
 
