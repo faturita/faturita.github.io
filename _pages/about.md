@@ -16,7 +16,7 @@ Brain Computer Interfaces and Assistive Robotics
 
 ![Neurotronics](images/neurotronics.png){:height="450px" width="300px"}
 
-= Neurotronics =
+*Neurotronics*
 
 Advancements in neuroscience and the inception of neuro wearable headsets are allowing to incorporate brain signals, or biosignal information, directly into smart mechatronical systems.  These signals are obtained from the body of the wearer, and this information that can be used to provide a more effective control of our digital gadgets, or to incorporate more context awareness into our smart digital products.  This also changes the paradigm, and by incorporating neuroscience inside the control loop, naturally, there is shift  and the persons stays at the center of the problem.  It becomes neural mechatronics for real persons.
 
