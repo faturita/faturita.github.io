@@ -13,11 +13,13 @@ redirect_from:
 Brain Computer Interfaces and Assistive Robotics
 ================================================
 
-[BCI Blog - Everything you need to know](http://monostuff.logdown.com/posts/253892-brain-computer-interfaces-all-you-need-to-know)
 
 ![Neurotronics](images/neurotronics.png){:height="450px" width="300px"}
 
-Neurotronics: BCI shifts the technological paradigm toward the person, towards their brain.  It reminds us that at the center of the tecnological revolution, there is a person, and particularly, their brain.
+= Neurotronics =
 
+Advancements in neuroscience and the inception of neuro wearable headsets are allowing to incorporate brain signals, or biosignal information, directly into smart mechatronical systems.  These signals are obtained from the body of the wearer, and this information that can be used to provide a more effective control of our digital gadgets, or to incorporate more context awareness into our smart digital products.  This also changes the paradigm, and by incorporating neuroscience inside the control loop, naturally, there is shift  and the persons stays at the center of the problem.  It becomes neural mechatronics for real persons.
 
-Powered by Academic Pages [Here](https://academicpages.github.io/)
+[BCI Blog - Everything you need to know](http://monostuff.logdown.com/posts/253892-brain-computer-interfaces-all-you-need-to-know)
+
+<sub><sup>Powered by Academic Pages [Here](https://academicpages.github.io/)</sub></sup>
