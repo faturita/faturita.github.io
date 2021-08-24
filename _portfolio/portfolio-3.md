@@ -21,6 +21,18 @@ collection: portfolio
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TkUEmMHQrIw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+Media:
+
+* https://tn.com.ar/salud/noticias/2021/08/11/crearon-un-robot-para-ayudar-a-los-pacientes-en-rehabilitacion-pulmonar/
+* https://www.youtube.com/watch?v=_1rzOGQBSo4
+* https://zh-cn.facebook.com/itbauniversidad/videos/ideas-en-marcha-alpibot/303687884870219/
+* https://www.itba.edu.ar/un-robot-que-ayuda-a-respirar/
+* https://www.cronica.com.ar/salud/Crean-un-robot-que-ayuda-a-respirar-a-pacientes-recuperados-de-Covid-19-y-con-patologias-pulmonares--20210810-0239.html
+* https://www.noticiasde.com.ar/sociedad/disenan-un-vehiculo-autonomo-que-permite-auxiliar-a-personas-en-su-rehabiltacion-pulmonar-263988
+
+
+
 Code 
 * <https://github.com/Lucianobianchi/ALPI-bot>
 * <https://github.com/faturita/ShinkeyBot>
