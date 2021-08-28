@@ -24,6 +24,7 @@ collection: portfolio
 
 Media:
 
+* https://www.youtube.com/watch?v=BZTxHlfgG18 Vorterix
 * https://tn.com.ar/salud/noticias/2021/08/11/crearon-un-robot-para-ayudar-a-los-pacientes-en-rehabilitacion-pulmonar/
 * https://www.youtube.com/watch?v=_1rzOGQBSo4
 * https://zh-cn.facebook.com/itbauniversidad/videos/ideas-en-marcha-alpibot/303687884870219/
