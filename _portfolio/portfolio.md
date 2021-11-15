@@ -33,3 +33,11 @@ En relación al Informe
 * En el informe no van las actividades que se hicieron para construir el informe.
 * VERIFICAR la ortografía !!!!!!
 * Verificar bien las secciones.  Intro, Materials and Methods, Results, Discussion, Conclussion, Future Work
+
+En relación a la propia DEFENSA
+* La presentación es con slides y se muestra en el dia de la defensa.   
+* Una presentación de 40 minutos es siempre más que suficiente.
+* Es importante que sea concreta, acotada al tiempo (super importante), que sean claros con el mensaje que dan.  Que muestren el trabajo que hicieron, el esfuerzo y las decisiones de ingeniería que tomaron.   
+* Todo lo que es SUBJETIVO no lo tienen que decir ni poner.   Por ejemplo, "Elegimos este método porque nos pareció el MEJOR", No.  Tiene que decir que eligieron ese método porque hicieron experimentos y en la tabla figura con los mejores resultados (decisiones informadas).  O en todo caso porque tienen una referencia de alguién que lo hizo así.   Todo lo superlativo tienen que eliminarlo (adjetivos como bueno, lindo, copado, etc).   Las decisiones que toman tienen que ser en base a los datos que tuvieron ustedes o que pueden soportarla con referencias.
+* La presentación es una especie de show donde muestran su trabajo, es un "show educado".  Tiene que tener un nudo, donde plantean el problema mundial que motiva esto.  Luego plantean las soluciones existentes y van especificando la problemática hasta que llegan a un problema donde lo que ustedes hicieron es la solución.    Luego plantean el meollo de la cuestión, siempre jugando con que las cosas no salen no salen, hasta que cuentan cómo resolvieron algo, presentan la problemática y cómo lo resolvieron, los detalles de la plataforma online que armaron , que es lo que ustedes aportaron.   Tienen que incluir al principio muy bien lo que ustedes creen que son sus contribuciones.  Y esto enfatizarlo también en las conclusiones.
+* Traten de hablar todos, pero estar todos al tanto de lo que resolvieron.  Es interesante que den su perspectiva sobre los problemas que tuvieron también y como le encontraron la vuelta desde el lado de la ingeniería.
