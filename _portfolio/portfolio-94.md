@@ -10,7 +10,9 @@ collection: portfolio
 
 * *Scope*: Implement the program that can generate the faces offline.
 
-* ITBA Students: Maite Herran mherran@itba.edu.ar and Jimena Lozano jilozano@itba.edu.ar.
+* ITBA Students: 
+** Maite Herran mherran@itba.edu.ar
+** Jimena Lozano jilozano@itba.edu.ar
 
 
 
