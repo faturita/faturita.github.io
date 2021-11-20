@@ -4,11 +4,11 @@ excerpt: "Respect me"
 collection: portfolio
 ---
 
-# La Clave
+## La Clave
 
 * La clave está en definir un scope realista del proyecto lo más acotado posible.  Porque una vez que se define un scope, todo lo que queda adentro hay que hacerlo bien.
 
-# Reglas para sacar valor al PF
+## Tips
 
 * El documento en Overleaf/Latex tiene que estar desde el primer día y hay que usarlo como un repositorio de referencias, tirar texto ahí, poner enlaces.  Hay que ir acumulando y documentando todo el material que se va juntando, incluso aquel que no prospera.
 * Prolijo con los datos:  Un entregable de valor en un PF es el/los dataset completo en Cloud Ocean o IEEE Dataport o Kaggle.  Tiene que estar super claro como acceder a los datos, que es lo que contienen y el speech de como fueron tomados.  Esto puede incluir la solicitud al Comité de Etica del Departamento de Investigación y Doctorado de la Universidad, con la aprobación.
@@ -17,7 +17,7 @@ collection: portfolio
 * Armar un apartado que resuma las contribuciones del trabajo, explicitadas una a una.
 * Las fotos tienen que tener la cara tapada, buena iluminación, mostrar los elementos importantes destacados de forma que se visualicen de manera correcta.
 
-# En relación al Informe
+## En relación al Informe
 * El informe NO ES el Research Proposal que es la propuesta de trabajo.  Es un documento totalmente independiente. Idealmente un buen informe, tiene un título, y el informe habla de ese título y del tema, y el hecho de que se haya usado como una tesis, proyecto final o similar apenas se menciona al principio y nunca más.  Los temas epistemológicos no tienen que estar en el Informe.
 * Secciones:
     * Abstract
@@ -34,7 +34,7 @@ collection: portfolio
 * VERIFICAR la ortografía !!!!!!
 * Verificar bien las secciones.  Intro, Materials and Methods, Results, Discussion, Conclussion, Future Work
 
-# En relación a la propia DEFENSA 
+## En relación a la propia DEFENSA 
 * La presentación es con slides y se muestra en el dia de la defensa.   
 * Una presentación de 40 minutos es siempre más que suficiente.
 * Es importante que sea concreta, acotada al tiempo (super importante), que sean claros con el mensaje que dan.  Que muestren el trabajo que hicieron, que muestre el esfuerzo.
@@ -45,6 +45,6 @@ collection: portfolio
 * El ESTILO de la presentación de la defensa es PROPIO de cada grup, de cada persona.  Es preferible algo que sale mal con el estilo propio que algo que sale más o menos con un estilo impuesto (que siempre es aburrido y pobre).
 * Traten de hablar todos, pero estar todos al tanto de lo que resolvieron.  Es interesante que den su perspectiva sobre los problemas que tuvieron también y como le encontraron la vuelta desde el lado de la ingeniería.
 * Super importante: Demuestren confianza en su trabajo y en su conocimiento de la materia.  Siempre hay alguién que sabe más, siempre hay más tema para aprender.  Ustedes estudiaron y trabajaron muchísimo, y sobre ese tema, más que nadie en toda la defensa seguramente.   Por lo tanto, sientanse con total confianza en su conocimiento sobre el tema.  Si llegan a la defensa es porque ya son expertos.  Defiendanlo así.  Por ejemplo
-** Jurado malvado: "Creen ustedes que este método que están proponiendo puede llegar a utilizarse o que es relevante en el estado del arte sobre este tema?".
-** ❌: "El tema es muy complejo, nosotros no sabemos muchos, somos solo estudiantes, no sabemos si puede utilizarse o no, hay cosas muy avanzadas."
-** ✅: "Dentro del marco de las limitaciones que nosotros especificamos en nuestro informe y en esta defensa, este método puede utilizarse de manera adecuada y puede ser útil para solucionar el problema en cuestión."
+    * Jurado malvado: "Creen ustedes que este método que están proponiendo puede llegar a utilizarse o que es relevante en el estado del arte sobre este tema?".
+    * ❌: "El tema es muy complejo, nosotros no sabemos muchos, somos solo estudiantes, no sabemos si puede utilizarse o no, hay cosas muy avanzadas."
+    * ✅: "Dentro del marco de las limitaciones que nosotros especificamos en nuestro informe y en esta defensa, este método puede utilizarse de manera adecuada y puede ser útil para solucionar el problema en cuestión."
