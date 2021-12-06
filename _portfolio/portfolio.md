@@ -34,6 +34,14 @@ collection: portfolio
 * VERIFICAR la ortografía !!!!!!
 * Verificar bien las secciones.  Intro, Materials and Methods, Results, Discussion, Conclussion, Future Work
 
+
+## Las devoluciones de los jurados
+Las devoluciones de los jurados/revisores hay que usarlas a favor, siempre, al igual que se hace en el Aikido donde la energia del contrincante se usa para nuestro propio beneficio.  Acá es igual, porque detrás de cualquier crítica siempre hay espacio para generar una mejora.
+Para hacer el abordaje es necesario tener presente el scope del proyecto: que va y que no.  Las críticas sobre lo que está dentro son siempre las más jugosas.
+
+En general se suele seguir un modelo de respuestas similar a este: ![Template Response Letter](/files/response.letter.sample.tex)
+
+
 ## En relación a la propia DEFENSA 
 * La presentación es con slides y se muestra en el dia de la defensa.   
 * Una presentación de 40 minutos es siempre más que suficiente.
