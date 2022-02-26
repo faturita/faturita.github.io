@@ -34,6 +34,13 @@ collection: portfolio
 * VERIFICAR la ortografía !!!!!!
 * Verificar bien las secciones.  Intro, Materials and Methods, Results, Discussion, Conclussion, Future Work
 
+## En relación a la propia escritura
+El informe no tiene que ser ni largo ni corto.  Tiene que
+* Consistente: tiene que introducir adecuadamente los términos, conceptos que utiliza ANTES de utilizarlos.  Por ejemplo, si detalla un método de procesar señales, antes tiene que hablar de qué son esas señales.
+* Autocontenido: que puede leerse de principio a fin dejando claro el mensaje que intenta transmitir sin tener que forzar al lector obligatoriamente a leer otra cosa.  Por ejemplo, si el mensaje es sobre un nuevo método para resolver un problema de optimización, entonces los problemas de optimización merecen bastante lugar dentro del informe, no se pueden explicar en una linea.
+* Reproducible: que todo explicado con el detalle SUFICIENTE como para poder reproducirlo desde cero.  Cuánto es suficiente?  Una buena medida es en general hasta las librerías.  Si es algo de software y es una librería, puedo poner la referencia al paper y no explicar en super detalle el método que está explicado en la librería.
+* Resonante: que se encuentre pertinente en el tiempo y en el espacio donde se crea, que aborde los problemas actuales y relevantes.
+
 
 ## Las devoluciones de los jurados
 Las devoluciones de los jurados/revisores hay que usarlas a favor, siempre, al igual que se hace en el Aikido donde la energia del contrincante se usa para nuestro propio beneficio.  Acá es igual, porque detrás de cualquier crítica siempre hay espacio para generar una mejora.
@@ -41,6 +48,9 @@ Para hacer el abordaje es necesario tener presente el scope del proyecto: que va
 
 En general se suele seguir un modelo de respuestas similar a este: ![Template Response Letter](/files/response.letter.sample.tex)
 
+## Algunas herramientas
+
+* https://github.com/HarisIqbal88/PlotNeuralNet: Para hacer gráficos de arquitecturas de redes neuronales.
 
 ## En relación a la propia DEFENSA 
 * La presentación es con slides y se muestra en el dia de la defensa.   
