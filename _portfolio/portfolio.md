@@ -12,10 +12,17 @@ collection: portfolio
 
 * El documento en Overleaf/Latex tiene que estar desde el primer día y hay que usarlo como un repositorio de referencias, tirar texto ahí, poner enlaces.  Hay que ir acumulando y documentando todo el material que se va juntando, incluso aquel que no prospera.
 * Prolijo con los datos:  Un entregable de valor en un PF es el/los dataset completo en Cloud Ocean o IEEE Dataport o Kaggle.  Tiene que estar super claro como acceder a los datos, que es lo que contienen y el speech de como fueron tomados.  Esto puede incluir la solicitud al Comité de Etica del Departamento de Investigación y Doctorado de la Universidad, con la aprobación.
-* Armar scripts basados en esos datos para poder regenerarlos todos los gráficos.
+* Armar scripts basados en esos datos para poder regenerar todos los gráficos.
 * Los gráficos tienen que tener los ejes bien marcados y en tamaños grandes bien visibles, generalmente sin títulos.  Todos los gráficos tienen que ser en formato EPS.
 * Armar un apartado que resuma las contribuciones del trabajo, explicitadas una a una.
 * Las fotos tienen que tener la cara tapada, buena iluminación, mostrar los elementos importantes destacados de forma que se visualicen de manera correcta.
+
+## En relación al Trabajo
+* Cuatro palabras: Rigor, reliability, robustness, and transparency
+* Rigor: Se refiere a que el trabajo no saltee paso, no corner-cut (o si lo hace que lo aclare como limitación).
+* Reliability: Que los resultados o el funcionamiento se sostenga y que no sea producto de azar puro.
+* Robustness: Que ese funcionamiento o resultados permitan tolerar argumentos que lo debatan, o en el caso de desarrollos que permitan tolerar pequeñas variaciones en su uso DENTRO del propio alcance.  Por ejemplo, un auto que se detiene repentinamente a los 20 km por hora no es robusto.
+* Transparency: que toda la información esté visible, accesible.
 
 ## En relación al Informe
 * El informe NO ES el Research Proposal que es la propuesta de trabajo.  Es un documento totalmente independiente. Idealmente un buen informe, tiene un título, y el informe habla de ese título y del tema, y el hecho de que se haya usado como una tesis, proyecto final o similar apenas se menciona al principio y nunca más.  Los temas epistemológicos no tienen que estar en el Informe.
@@ -35,20 +42,20 @@ collection: portfolio
 * Verificar bien las secciones.  Intro, Materials and Methods, Results, Discussion, Conclussion, Future Work
 
 ## En relación a la propia escritura
-El informe no tiene que ser ni largo ni corto.  Tiene que
+El informe no tiene que ser ni largo ni corto.  Tiene que ser:
 * Consistente: tiene que introducir adecuadamente los términos, conceptos que utiliza ANTES de utilizarlos.  Por ejemplo, si detalla un método de procesar señales, antes tiene que hablar de qué son esas señales.
 * Autocontenido: que puede leerse de principio a fin dejando claro el mensaje que intenta transmitir sin tener que forzar al lector obligatoriamente a leer otra cosa.  Por ejemplo, si el mensaje es sobre un nuevo método para resolver un problema de optimización, entonces los problemas de optimización merecen bastante lugar dentro del informe, no se pueden explicar en una linea.
 * Reproducible: que todo explicado con el detalle SUFICIENTE como para poder reproducirlo desde cero.  Cuánto es suficiente?  Una buena medida es en general hasta las librerías.  Si es algo de software y es una librería, puedo poner la referencia al paper y no explicar en super detalle el método que está explicado en la librería.
 * Resonante: que se encuentre pertinente en el tiempo y en el espacio donde se crea, que aborde los problemas actuales y relevantes.
 
 
-## Las devoluciones de los jurados
+## En relación a las devoluciones de los jurados
 Las devoluciones de los jurados/revisores hay que usarlas a favor, siempre, al igual que se hace en el Aikido donde la energia del contrincante se usa para nuestro propio beneficio.  Acá es igual, porque detrás de cualquier crítica siempre hay espacio para generar una mejora.
 Para hacer el abordaje es necesario tener presente el scope del proyecto: que va y que no.  Las críticas sobre lo que está dentro son siempre las más jugosas.
 
 En general se suele seguir un modelo de respuestas similar a este: ![Template Response Letter](/files/response.letter.sample.tex)
 
-## Algunas herramientas
+## En relación a algunas herramientas
 
 * https://github.com/HarisIqbal88/PlotNeuralNet: Para hacer gráficos de arquitecturas de redes neuronales.
 
