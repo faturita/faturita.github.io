@@ -69,7 +69,23 @@ En general se suele seguir un modelo de respuestas similar a este: ![Template Re
 * La presentación es una especie de show donde muestran su trabajo, es un "show educado".  Tiene que tener un nudo, donde plantean el problema mundial que motiva esto.  Luego plantean las soluciones existentes y van especificando la problemática hasta que llegan a un problema donde lo que ustedes hicieron es la solución.    Luego plantean el meollo de la cuestión, siempre jugando con que las cosas no salen no salen, hasta que cuentan cómo resolvieron algo, presentan la problemática y cómo lo resolvieron.   Tienen que incluir al principio muy bien lo que ustedes creen que son sus contribuciones.  Y esto enfatizarlo también en las conclusiones.
 * El ESTILO de la presentación de la defensa es PROPIO de cada grup, de cada persona.  Es preferible algo que sale mal con el estilo propio que algo que sale más o menos con un estilo impuesto (que siempre es aburrido y pobre).
 * Traten de hablar todos, pero estar todos al tanto de lo que resolvieron.  Es interesante que den su perspectiva sobre los problemas que tuvieron también y como le encontraron la vuelta desde el lado de la ingeniería.
+* 3/4 del tiempo es contar los aportes, el nudo del trabajo. En el otro 1/4 hay que ofrecer a los interlocutores el material para que entiendan lo que se hizo.
+* Gedankenexperiment:  consiste en lo siguiente: pensár que están en un bar de Berlin con una compañera de trabajo que es técnica, sabe de ciencia, sabe de ciencias de la computación, conoce algo BASICO del tema en cuestión.   Hay que contarle sobre sobre la tesis.  Toman una servilleta y empiezan a poner garabatos que ayudan a la explicación.  Se hace la explicación, utilizando esos garabatos.  Bueno, entonces los slides de la presentación de la defensa, se deberían arrancar desde ahí, desde esos garabatos.  Luego se va para atrás, cuando su compañera dice "¿Cuál es la diferencia entre este tema BASICO acá y este otro tema BASICO (que ustedes están usando)?", entonces se arma un slide para contestar eso, y para adelante cuándo pregunta "Todo muy lindo, ¿pero esto para que mierda sirve?".  Y así.  De hecho si tienen la oportunidad de realmente salir en estos días a un evento social, jueguen a este juego DE VERDAD. Fijense cómo ocurre la magia.
+* Es importante que tengan bien en cuenta quienes son los jurados, a qué se dedican, qué hacen.  Stalkeenlos un poco para ver cuáles son sus especialidades porque justamente las preguntas que hagan van a girar alrededor de eso.
 * Super importante: Demuestren confianza en su trabajo y en su conocimiento de la materia.  Siempre hay alguién que sabe más, siempre hay más tema para aprender.  Ustedes estudiaron y trabajaron muchísimo, y sobre ese tema, más que nadie en toda la defensa seguramente.   Por lo tanto, sientanse con total confianza en su conocimiento sobre el tema.  Si llegan a la defensa es porque ya son expertos.  Defiendanlo así.  Por ejemplo
     * Jurado malvado: "Creen ustedes que este método que están proponiendo puede llegar a utilizarse o que es relevante en el estado del arte sobre este tema?".
     * ❌: "El tema es muy complejo, nosotros no sabemos muchos, somos solo estudiantes, no sabemos si puede utilizarse o no, hay cosas muy avanzadas."
     * ✅: "Dentro del marco de las limitaciones que nosotros especificamos en nuestro informe y en esta defensa, este método puede utilizarse de manera adecuada y puede ser útil para solucionar el problema en cuestión."
+
+
+## En relación al English
+* Particularly when students are interested in broadcasting its work to international companies, it is advised to write their work in English.
+* Keep sentences simple, straightforward.  Try to avoid very complicated indirect speeches, or very complicated subjective sentences.
+* Use synonyms extensively,
+   * BUT: however, although, though, yet, nevertheless
+   * ALSO: besides, likewise, moreover, as well as, furthermore
+   * THEREFORE: hence, thus, as a result, subsequently, for this reason
+   * ESPECIALLY: mainly, notably, above all, principally, exclusively
+* In English, you always need a subject.
+* Keep the same verb form throughout the entire text.
+
