@@ -88,4 +88,11 @@ En general se suele seguir un modelo de respuestas similar a este: ![Template Re
    * ESPECIALLY: mainly, notably, above all, principally, exclusively
 * In English, you always need a subject.
 * Keep the same verb form throughout the entire text.
+* Some common mistakes (From IEEE Class Template's handy guidelines)
+   * The word "data" is plural, not singular.
+   * A graph within a graph is an inset not an insert.
+   * Alternatively not alternately
+   * Do not confuse "imply" to "infer"
+   * Non is not a wod, then it should be joined to the word it modifies without a hyphen (because the hyphen is used to create words based on two or more already existing words).
+   
 
