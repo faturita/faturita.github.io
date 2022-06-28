@@ -10,7 +10,12 @@ collection: portfolio
 
 * *Scope*: The idea of both projects is to build a physical device.
 * This project is performed at: https://www.labsuenoymemoria.com/ directed by PI Dr. Cecilia Forcato.
-* ITBA Students: DANTE KIENIGIEL dkienigiel@itba.edu.ar, Giuli Carbonari gcarbonari@pladema.exa.unicen.edu.ar
+
+* SAM Poster: https://ri.itba.edu.ar/bitstream/handle/123456789/3489/7_CARBONARI_SAN_2020.pdf?sequence=1
+
+* ITBA Students: 
+  * Dante Kienigiel dkienigiel@itba.edu.ar, 
+  * Giuli Carbonari gcarbonari@itba.edu.ar
 
 
 

@@ -10,9 +10,14 @@ collection: portfolio
 
 * *Scope*: Implement the program that can generate the faces offline.
 
+* *Bachellor's Thesis*: https://ri.itba.edu.ar/handle/123456789/3800
+
 * ITBA Students: 
 ** Maite Herran mherran@itba.edu.ar
 ** Jimena Lozano jilozano@itba.edu.ar
+** Nicolás Britos
+** Agustín Roca
+
 
 
 

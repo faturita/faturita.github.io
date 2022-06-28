@@ -1,5 +1,5 @@
 ---
-title: "List of Final Project Proposal for Engineering"
+title: "CiC Equipamiento"
 excerpt: "We need you !"
 collection: portfolio
 ---

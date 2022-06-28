@@ -9,6 +9,9 @@ collection: portfolio
 * *Description*: Review of techniques that are used to eliminate artifacts from EEG signals.
 
 * *Scope*: Create a pseudo-artificial sham EEG signal based on subject 21, and inject blinks along that signal.  Use BSS techniques to eliminates those artifacts and check the performance of different algorithms.
+
+* *Data Science Specialization Thesis*: https://ri.itba.edu.ar/handle/123456789/3431
+
 * ITBA Grad Students: Maggie Tobar maggietobar@gmail.com 
 
 

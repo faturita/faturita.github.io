@@ -1,6 +1,6 @@
 ---
 title: "Liveness Detection"
-excerpt: "This is currently a big deal in banking industry"
+excerpt: "Liveness Detection"
 collection: portfolio
 ---
 

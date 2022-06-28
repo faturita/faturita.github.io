@@ -48,6 +48,9 @@ El informe no tiene que ser ni largo ni corto.  Tiene que ser:
 * Reproducible: que todo explicado con el detalle SUFICIENTE como para poder reproducirlo desde cero.  Cuánto es suficiente?  Una buena medida es en general hasta las librerías.  Si es algo de software y es una librería, puedo poner la referencia al paper y no explicar en super detalle el método que está explicado en la librería.
 * Resonante: que se encuentre pertinente en el tiempo y en el espacio donde se crea, que aborde los problemas actuales y relevantes.
 
+## En relación a cuando está terminado
+"Este es el trabajo final de todo el esfuerzo de toda la carrera.  Se lo quieren sacar de encima, pero que lo que quede en el documento los haga sentir orgullosos y sientan que refleja bien todos estos años de esfuerzo. Una buena manera de pensarlo es si se lo enviarías a un posible empleador en una entrevista, como muestra de cómo podés trabajar. Si esa respuesta es positiva, entonces es porque el trabajo está terminado.
+
 
 ## En relación a las devoluciones de los jurados
 Las devoluciones de los jurados/revisores hay que usarlas a favor, siempre, al igual que se hace en el Aikido donde la energia del contrincante se usa para nuestro propio beneficio.  Acá es igual, porque detrás de cualquier crítica siempre hay espacio para generar una mejora.
