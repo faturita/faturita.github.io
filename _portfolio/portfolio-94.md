@@ -13,10 +13,10 @@ collection: portfolio
 * *Bachellor's Thesis*: https://ri.itba.edu.ar/handle/123456789/3800
 
 * ITBA Students: 
-** Maite Herran mherran@itba.edu.ar
-** Jimena Lozano jilozano@itba.edu.ar
-** Nicolás Britos
-** Agustín Roca
+ * Maite Herran mherran@itba.edu.ar
+ * Jimena Lozano jilozano@itba.edu.ar
+ * Nicolás Britos
+ * Agustín Roca
 
 
 
