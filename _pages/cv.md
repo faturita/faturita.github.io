@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Professional Engineering in Computer Science (B.S.), Universidad Nacional de La Matanza, Bs. As. Argentina, 2001
-* Graduate Specialization in Cryptography, Instituto de Enseñanza Superior Ejercito Argentino, Bs. As., Argentina, 2006.
+* Graduate Specialization in Cryptography, Instituto de Enseñanza Superior Técnica, Bs. As., Argentina, 2006.
 * Graduate Research Student in Robotics and Bioengineering, Tohoku University, Sendai, Japan, 2009
 * Ph.D in Engineering on Brain Computer Interfaces for Assistive Robotics, ITBA University, Bs. As., Argentina, 2018
 
