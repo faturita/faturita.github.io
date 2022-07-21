@@ -36,4 +36,4 @@ Teaching
   
 Maker
 ======
-* I consider myself a mild DIY maker.
+* I consider myself an Engineer, a Programmer, a Researcher and a Maker.
