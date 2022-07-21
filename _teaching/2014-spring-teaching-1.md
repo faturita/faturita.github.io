@@ -10,4 +10,6 @@ location: "Buenos Aires, Argentina"
 
 From Chomsky to LALR(1) parser.
 
-* [LL(1) Parser in Spanish](https://www.youtube.com/watch?v=0XWcRXnOzLM)
+* [Online Clases in Spanish](https://www.youtube.com/playlist?list=PLJHMIS4ekxNQtGTX9RddK2HmetwBtsSdY)
+* [Compiler Project Template](https://github.com/faturita/YetAnotherCompilerClass)
+* [Language Features](https://github.com/faturita/YetAnotherCompilerClass/blob/master/LanguagesAndCompilers.md)
