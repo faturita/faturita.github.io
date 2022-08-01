@@ -1,5 +1,5 @@
 ---
-title: "BCI Sift"
+title: "P300 Speller Device based on EEG Waveforms"
 excerpt: "P300-Based BCI Speller based on the SIFT Method"
 collection: portfolio
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Training a Gaming Agent on Brainwaves"
-excerpt: "ErrP Detection"
+excerpt: "ErrP ERP Detection based on Reinforcement Learning"
 collection: portfolio
 ---
 
