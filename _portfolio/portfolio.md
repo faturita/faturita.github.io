@@ -1,6 +1,6 @@
 ---
 title: "Reglas para sacar valor a los PFs"
-excerpt: "Respect me"
+excerpt: "Epistemología a la carta"
 collection: portfolio
 ---
 
