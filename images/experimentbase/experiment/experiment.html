@@ -1,0 +1,38 @@
+<html>
+  <head>
+    <title>My experiment</title>
+    <script src="https://unpkg.com/jspsych@7.3.0"></script>
+    <script src="https://unpkg.com/@jspsych/plugin-html-keyboard-response@1.1.1"></script>
+    <script src="https://unpkg.com/@jspsych/plugin-html-keyboard-response@1.0.0"></script>
+	<script src="https://unpkg.com/@jspsych-contrib/plugin-html-vas-response@1.0.0"></script>
+    <link href="https://unpkg.com/jspsych@7.3.0/css/jspsych.css" rel="stylesheet" type="text/css" />
+    
+  </head>
+  <body></body>
+  <script>
+    //const jsPsych = initJsPsych();
+
+    const hello_trial = {
+      type: jsPsychHtmlKeyboardResponse,
+      stimulus: 'Hello world!'
+    }
+
+
+    var jsPsych = initJsPsych({
+        on_finish: function() {
+            jsPsych.data.displayData('csv');
+        }
+    });
+
+    var trial = {
+    type: jsPsychHtmlVasResponse,
+    stimulus: 'Some people have the experience of finding themselves in a place and have no idea how they got there.<br>Select the number to show what percentage of the time this happens to you.',
+    ticks: false,
+    scale_width: 500,
+    scale_colour: 'black',
+    labels: ['0%<br>Never','100%<br>Always']
+    };
+
+    jsPsych.run([trial]);
+  </script>
+</html>
