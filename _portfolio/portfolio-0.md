@@ -1,6 +1,6 @@
 ---
-title: "Vision System for FSAE Simulator"
-excerpt: "Vision System for FSAE Simulator"
+title: "Vision System for SAE International Simulator"
+excerpt: "Vision System for SAE International Simulator"
 collection: portfolio
 ---
 
