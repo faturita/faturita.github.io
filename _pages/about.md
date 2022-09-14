@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "物Stuff"
+title: "Neurotronics"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -22,4 +22,4 @@ Advancements in neuroscience and the inception of neuro wearable headsets are al
 
 [BCI Blog - Everything you need to know](http://monostuff.logdown.com/posts/253892-brain-computer-interfaces-all-you-need-to-know)
 
-<sub><sup>Powered by Academic Pages [Here](https://academicpages.github.io/)</sub></sup>
+<sub>Powered by Academic Pages [Here](https://academicpages.github.io/)</sub>
