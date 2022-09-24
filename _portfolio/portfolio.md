@@ -48,6 +48,16 @@ El informe no tiene que ser ni largo ni corto.  Tiene que ser:
 * Reproducible: que todo explicado con el detalle SUFICIENTE como para poder reproducirlo desde cero.  Cuánto es suficiente?  Una buena medida es en general hasta las librerías.  Si es algo de software y es una librería, puedo poner la referencia al paper y no explicar en super detalle el método que está explicado en la librería.
 * Resonante: que se encuentre pertinente en el tiempo y en el espacio donde se crea, que aborde los problemas actuales y relevantes.
 
+## En relación al contenido
+En la cabeza del lector del Informe, van a aparecer estas preguntas, por lo que el informe tiene que en algún punto abordar alguna respuesta.
+* ¿De qué se trata el trabajo? ¿Qué es lo que puntualmente quieren resolver, cuál es el problema principal?  Yo no sé NADA de este tema que presentan, denme una mini intro general para que entienda y denme referencias para aprender más o ver el detalle.
+* ¿Cómo es lo que están presentando? ¿De qué se trata el método, algoritmo, solución, etc? ¿O qué es lo que quieren saber que hoy no se sabe?
+* ¿Qué experimentos hicieron o cómo me van a demostrar que lo que hicieron funciona? ¿Qué métrica van a utilizar? ¿Contra que lo van a comparar?
+* ¿Qué limitaciones tiene lo que presentan? ¿En qué casos no anda bien, o como van corrigiendo o aplicando mejoras para lidear con cada una de esas limitaciones?
+* ¿Cómo sigue la cosa después? ¿Qué harían ustedes si tuviesen todo el dinero, tiempo, ganas del mundo para seguir con este proyecto?
+
+
+
 ## En relación a cuando está terminado
 "Este es el trabajo final de todo el esfuerzo de toda la carrera.  Se lo quieren sacar de encima, pero que lo que quede en el documento los haga sentir orgullosos y sientan que refleja bien todos estos años de esfuerzo. Una buena manera de pensarlo es si se lo enviarías a un posible empleador en una entrevista, como muestra de cómo podés trabajar. Si esa respuesta es positiva, entonces es porque el trabajo está terminado.
 
