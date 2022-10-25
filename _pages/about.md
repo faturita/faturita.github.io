@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 
-
 Brain Computer Interfaces and Assistive Robotics
 ================================================
 

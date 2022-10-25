@@ -55,6 +55,7 @@ En la cabeza del lector del Informe, van a aparecer estas preguntas, por lo que 
 * ¿Qué experimentos hicieron o cómo me van a demostrar que lo que hicieron funciona? ¿Qué métrica van a utilizar? ¿Contra que lo van a comparar?
 * ¿Qué limitaciones tiene lo que presentan? ¿En qué casos no anda bien, o como van corrigiendo o aplicando mejoras para lidear con cada una de esas limitaciones?
 * ¿Cómo sigue la cosa después? ¿Qué harían ustedes si tuviesen todo el dinero, tiempo, ganas del mundo para seguir con este proyecto?
+* El título del trabajo, y el alcance, hacen referencia al tema principal que se presenta.  Eso justamente es lo principal y en general es lo que demanda del trabajo mayor atención, reflejada en por ejemplo, cuántas hojas se usan para esa parte.  El resto del contenido está POR Y PARA esa parte.  Por ejemplo, en un trabajo que involucra una implementación de rede neuronales recurrentes para predecir el valor de bitcoin, no tiene sentido en la intro poner 3 carillas de redes convolucionales !
 
 
 
@@ -93,7 +94,7 @@ En general se suele seguir un modelo de respuestas similar a este: ![Template Re
 
 
 ## En relación al English
-* Particularly when students are interested in broadcasting its work to international companies, it is advised to write their work in English.
+* Particularly when students are interested in broadcasting their work to international companies, it is advised to write their PF in English.
 * Keep sentences simple, straightforward.  Try to avoid very complicated indirect speeches, or very complicated subjective sentences.
 * Use synonyms extensively,
    * BUT: however, although, though, yet, nevertheless
