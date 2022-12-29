@@ -69,11 +69,12 @@ En la cabeza del lector del Informe, van a aparecer estas preguntas, por lo que 
 Las devoluciones de los jurados/revisores hay que usarlas a favor, siempre, al igual que se hace en el Aikido donde la energia del contrincante se usa para nuestro propio beneficio.  Acá es igual, porque detrás de cualquier crítica siempre hay espacio para generar una mejora.
 Para hacer el abordaje es necesario tener presente el scope del proyecto: que va y que no.  Las críticas sobre lo que está dentro son siempre las más jugosas.
 
-En general se suele seguir un modelo de respuestas similar a este: ![Template Response Letter](https://faturita.github.io/portfolio/files/response.letter.sample.tex)
+En general se suele seguir un modelo de respuestas similar a este: ![Template Response Letter](https://github.com/faturita/faturita.github.io/blob/master/files/response.letter.sample.tex)
 
 ## En relación a algunas herramientas
 
 * https://github.com/HarisIqbal88/PlotNeuralNet: Para hacer gráficos de arquitecturas de redes neuronales.
+* https://www.mathcha.io/: Excellent tool to get nice latex tikz graphs.
 
 ## En relación a la propia DEFENSA 
 * La presentación es con slides y se muestra en el dia de la defensa.   
