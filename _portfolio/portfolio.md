@@ -26,6 +26,7 @@ collection: portfolio
 
 ## En relación al Informe
 * El informe NO ES el Research Proposal que es la propuesta de trabajo.  Es un documento totalmente independiente. Idealmente un buen informe, tiene un título, y el informe habla de ese título y del tema, y el hecho de que se haya usado como una tesis, proyecto final o similar apenas se menciona al principio y nunca más.  Los temas epistemológicos no tienen que estar en el Informe.
+* Como pensarlo:  una manera es pensar una pregunta e intentar que el informe la responda, en sus propios términos. Así entonces, al informe hay que considerarlo como lo que saldría en google cuando alguién hace esa pregunta.  El informe contesta esa pregunta.
 * Secciones:
     * Abstract
     * Introducción
