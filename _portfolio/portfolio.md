@@ -48,6 +48,7 @@ El informe no tiene que ser ni largo ni corto.  Tiene que ser:
 * Autocontenido: que puede leerse de principio a fin dejando claro el mensaje que intenta transmitir sin tener que forzar al lector obligatoriamente a leer otra cosa.  Por ejemplo, si el mensaje es sobre un nuevo método para resolver un problema de optimización, entonces los problemas de optimización merecen bastante lugar dentro del informe, no se pueden explicar en una linea.
 * Reproducible: que todo explicado con el detalle SUFICIENTE como para poder reproducirlo desde cero.  Cuánto es suficiente?  Una buena medida es en general hasta las librerías.  Si es algo de software y es una librería, puedo poner la referencia al paper y no explicar en super detalle el método que está explicado en la librería.
 * Resonante: que se encuentre pertinente en el tiempo y en el espacio donde se crea, que aborde los problemas actuales y relevantes.
+* Estilo: Todo esto lo pueden tener manteniendo el estilo que ustedes quieran: https://www.lastwordonnothing.com/2015/02/05/ye-olde-scientific-writing/
 
 ## En relación al contenido
 En la cabeza del lector del Informe, van a aparecer estas preguntas, por lo que el informe tiene que en algún punto abordar alguna respuesta.
