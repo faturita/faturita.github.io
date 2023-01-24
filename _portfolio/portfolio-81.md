@@ -84,12 +84,12 @@ Consideramos que este punto es clave más allá de un resultado obtenido con un 
 
 
 
-=== Some links
+# Some links
 * [Servicio RENAPER](https://www.argentina.gob.ar/sid-sistema-de-identidad-digital)
 * [Face++](https://www.faceplusplus.com/face-based-identification/)
 * [Cognitive with Azure](https://docs.microsoft.com/en-us/azure/cognitive-services/face/face-api-how-to-topics/how-to-use-headpose)
 
-=== Papers 
+# Papers 
 * Abbas Ur Rehman, "LiveNet: Improving features generalization for face liveness detection using convolution neural networks", 2018
 * Javier Galbally, "Biometric Antispoofing Methods: A Survey in Face Recognition", 2014
 * Galbally, J., Marcel, S. and Fierrez, J., 2014. Biometric antispoofing methods: A survey in face recognition. IEEE Access, 2, pp.1530-1552.

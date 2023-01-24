@@ -13,7 +13,7 @@ collection: portfolio
 * *Technologies*: LUA, UI, Accessibility, C++, MATLAB, Python
 
 
-Code 
+# Code 
 * [Code Ocean Online Platform](https://codeocean.com/capsule/5299343/tree/v2)
 * <https://github.com/faturita/BciSift>
 * <https://github.com/faturita/GuessMe>
