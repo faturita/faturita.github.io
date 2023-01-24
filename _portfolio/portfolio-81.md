@@ -6,13 +6,25 @@ collection: portfolio
 
 ![Descriptor](/images/liveness.jpg){:height="450px" width="300px"}
 
-* *Description*: Online Banks are claiming for this.  They want to be able to identify that an actual person is behind a mobile phone and is trying to register into a mobile app, to get a banking account, to issue a mortgage and so on.  It is not exactly recognizing who the person is against some previous record based on the picture of the face.  It is understaing that the picture is not fake, and that the person is not wearing a mask.  It is a anti-spoofing approach. 
+* *Description*: Online Banks are claiming for this.  They want to be able to identify that an actual person is behind a mobile phone and is trying to register into a mobile app, to get a banking account, to issue a mortgage and so on.  It is not exactly recognizing who the person is against some previous record based on the picture of the face.  It is understaing that the picture is not fake, that the person is not wearing a mask, that it is there live and breathing.  It is a anti-spoofing approach. 
 
-* *Project*: The idea of this project is first to implement a desktop application that uses the camera from the computer to perform liveness detection.  It is also interesting to use the mobile camera to do the same.  The final scope is to perform all that using only javascript in a web app and do that offline withtout the intervention of any server side component.
+* *Project*: The idea of this project is first to implement a desktop application based on OpenCV/YOLO stack that uses the camera from the computer to perform liveness detection.  It is also interesting to use the mobile camera to do the same.  The final scope is to perform all that using only javascript in a web app and do that offline withtout the intervention of any server side component.
 
 * *Scope*:  the first steps towards the MVP is to have an application running either in a desktop app or in a mobile phone.
 
-* Spanish: Los procesos de registro onboarding inicial, requieren un primer paso donde se realiza una identificación de la persona física contra los registros gubernamentales.  Se intenta verificar que quién está detrás del registro inicial es quien dice ser.  Para eso se busca realizar una validación contra los registros gubernamentales que suele ser mediante un chequeo y validación de consistencia de los datos, y una validación biométrica.
+* Details *
+
+This problem has three sides.  The first one is this, the liveness detection.  This is an anti-spoofing tool that uses all the available transducers to get information that can give an idea that there is a real person on the other side.  This is similar to a captcha.  And this is an arms race.
+
+The second axis is the authentication itself.  This is proving that THAT particular person over there, is the one who actually has some piece of information that can be verified against an internal database where some complementary information is encoded (this is for instance a password verification).  This is a mere authentication problem (with 1, 2, o any number of factors).
+
+The final axis, is the verification that that ALIVE person over there, who has something that was originally registered in our systems, is actually a LEGAL person with a legal name and national id registered in a centralized manner in official government records.  This last part also connects this problem with UBI or worldcoin, which is a decentralized approach based on blockchain to do the same.
+
+
+
+
+*Spanish*
+Los procesos de registro onboarding inicial, requieren un primer paso donde se realiza una identificación de la persona física contra los registros gubernamentales.  Se intenta verificar que quién está detrás del registro inicial es quien dice ser.  Para eso se busca realizar una validación contra los registros gubernamentales que suele ser mediante un chequeo y validación de consistencia de los datos, y una validación biométrica.
 
 A su vez, el avance de los celulares así como también la ubicuidad de las cámaras en tablets y notebooks, empujó para que los mecanismos basados en reconocimiento faciales estén siendo ampliamente utilizados. Después de la identificación dactilar, el reconocimiento facial es el mecanismo actual más usado[1].
 
@@ -75,7 +87,7 @@ Consideramos que este punto es clave más allá de un resultado obtenido con un 
 Some links
 * [Servicio RENAPER](https://www.argentina.gob.ar/sid-sistema-de-identidad-digital)
 * [Face++](https://www.faceplusplus.com/face-based-identification/)
-* [Cognitive with Azure}(https://docs.microsoft.com/en-us/azure/cognitive-services/face/face-api-how-to-topics/how-to-use-headpose)
+* [Cognitive with Azure](https://docs.microsoft.com/en-us/azure/cognitive-services/face/face-api-how-to-topics/how-to-use-headpose)
 Papers 
 * Abbas Ur Rehman, "LiveNet: Improving features generalization for face liveness detection using convolution neural networks", 2018
 * Javier Galbally, "Biometric Antispoofing Methods: A Survey in Face Recognition", 2014
