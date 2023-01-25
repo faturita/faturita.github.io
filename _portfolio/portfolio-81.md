@@ -12,7 +12,7 @@ collection: portfolio
 
 * *Scope*:  the first steps towards the MVP is to have an application running either in a desktop app or in a mobile phone.
 
-== Details 
+# Details 
 
 This problem has three sides.  The first one is this, the liveness detection.  This is an anti-spoofing tool that uses all the available transducers to get information that can give an idea that there is a real person on the other side.  This is similar to a captcha.  And this is an arms race.
 
@@ -23,7 +23,7 @@ The final axis, is the verification that that ALIVE person over there, who has s
 
 
 
-== Spanish
+# Spanish
 Los procesos de registro onboarding inicial, requieren un primer paso donde se realiza una identificación de la persona física contra los registros gubernamentales.  Se intenta verificar que quién está detrás del registro inicial es quien dice ser.  Para eso se busca realizar una validación contra los registros gubernamentales que suele ser mediante un chequeo y validación de consistencia de los datos, y una validación biométrica.
 
 A su vez, el avance de los celulares así como también la ubicuidad de las cámaras en tablets y notebooks, empujó para que los mecanismos basados en reconocimiento faciales estén siendo ampliamente utilizados. Después de la identificación dactilar, el reconocimiento facial es el mecanismo actual más usado[1].
