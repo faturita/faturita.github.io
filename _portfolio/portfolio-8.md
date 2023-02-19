@@ -6,9 +6,13 @@ collection: portfolio
 
 ![Descriptor](/images/waku.png){:height="450px" width="300px"}
 
-* *Description*: Game and Simulation Engine based on OpenGL and Open Dynamics Engine.  This is the remake of an old game.  It is used as a platform to test AI algorithms.
+# Description
 
-* *Scope*: A lot to do.
+Game and Simulation Engine based on OpenGL and Open Dynamics Engine.  This is the remake of an old game.  It is used as a platform to test AI algorithms.
+
+# Scope
+
+A lot to do.
 
 El núcleo y base del proyecto consiste en un Motor Dinámico, es decir, un sistema que resuelve la física de cuerpos.  Esto está hecho con un proyecto que se llama ODE, Open Dynamics Engine, y es lo que permite realizar simulaciones físicas.  La segunda parte linkeada a esto es un motor de juegos básicos con OpenGL en C++: esto son las estructuras de datos para manejar el rendering y el modelo de objetos físicos sumados a un sistema de detección de colisiones. Además tiene un renderización de 3DS con lo cual pueden crear modelos con Blender por ejemplo y cargarlos directamente en el motor.
 
@@ -37,10 +41,12 @@ Etcetera, etcetera, etcetera....
 
 Que necesitan saber o aprender: C++ y mucho. OpenGL, programación gráfica, algebra lineal aplicada.  Shaders, CUDA, Física, métodos numéricos.  Si eligieron esta carrera por temas de juegos, este es un buen proyecto. Creatividad y ganas de explotarla.
 
-Vista previa del vídeo Wakuseibokan, https://github.com/faturita/wakuseibokan de YouTube
+# Videos
+
+* https://github.com/faturita/wakuseibokan de YouTube
 
 
-Code 
+# Code 
 * <https://github.com/faturita/Wakuseibokan>
 
 

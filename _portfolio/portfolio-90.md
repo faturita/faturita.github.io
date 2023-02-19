@@ -8,9 +8,13 @@ collection: portfolio
 
 * *PI*: Dr. Juliana Gambini
 
-* *Description*: Analyze of confocal microscopy image sequence to determine the penetration dynamics of the Topotecan drug in Retinoblastoma cell cultures.
+# Description 
 
-* *Scope*: Active contour, pixel classification, segmentation
+Analyze of confocal microscopy image sequence to determine the penetration dynamics of the Topotecan drug in Retinoblastoma cell cultures.
+
+
+# Scope
+Active contour, pixel classification, segmentation, data augmentation
 
 Papers
 * https://link.springer.com/chapter/10.1007/978-3-030-30648-9_35

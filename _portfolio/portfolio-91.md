@@ -6,9 +6,12 @@ collection: portfolio
 
 ![Descriptor](/images/rsvp.jpg){:height="450px" width="300px"}
 
-* *Description*:Implement the RSVP paradigm into OpenVibe
 
-* *Scope*: C++, Lua, UI
+# Description
+
+Implement the RSVP paradigm into OpenVibe
+
+* *Technologies*: C++, Lua, UI
 
 * ITBA Students: 
   * Martin Grabina              mgrabina@itba.edu.ar,  
