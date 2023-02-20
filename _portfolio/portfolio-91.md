@@ -7,7 +7,7 @@ collection: portfolio
 ![Descriptor](/images/rsvp.jpg){:height="450px" width="300px"}
 
 
-# Description
+## Description
 
 Implement the RSVP paradigm into OpenVibe
 

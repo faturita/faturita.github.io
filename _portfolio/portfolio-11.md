@@ -4,7 +4,7 @@ excerpt: "Use Gambini algorithm to create an alignment algorithm for EEG segment
 collection: portfolio
 ---
 
-# Description
+## Description
 
 La idea de esta propuesta es aplicar el método de Gambini para resolver el problema de la sincronización de los potenciales en EEG como el del P300.  Es algo copadísimo porque es un problema muy rico.  Por ejemplo, tenes tres microfonos que escuchan a tres personas hablar, entonces esas tres fuentes de cada persona se mezcla en cada micrófono.  Eso se puede separar con ICA que es una técnica de BSS.   Pero por el efecto de propagación del sonido, en realidad esas fuentes no están alineadas y haría falta encontrar un método para alinearlas temporalmente.  Ahí entraría otra vez el algoritmo de Gambini.  En el paper  https://www.mdpi.com/2076-3425/8/11/199/htm, este paper tiene el método para realizar la experimentación en base a los registros de EEG pseudo-reales y al armado de sham signals.  De hecho estaríamos usando datos de 3 sujetos (pasivos) de este dataset y la señal de P300 a inyectar es justamente la que surge de esto.
 

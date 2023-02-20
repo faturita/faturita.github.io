@@ -6,11 +6,11 @@ collection: portfolio
 
 ![Descriptor](/images/singlegain.eps){:height="450px" width="300px"}
 
-# Description
+## Description
 
 Review of techniques that are used to eliminate artifacts from EEG signals.
 
-# Scope
+## Scope
 
 Create a pseudo-artificial sham EEG signal based on subject 21, and inject blinks along that signal.  Use BSS techniques to eliminates those artifacts and check the performance of different algorithms.
 

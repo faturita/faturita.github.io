@@ -6,7 +6,7 @@ collection: portfolio
 
 ![Descriptor](/images/liveness.jpg){:height="450px" width="300px"}
 
-# Description
+## Description
 
 Online Banks are claiming for this.  They want to be able to identify that an actual person is behind a mobile phone and is trying to register into a mobile app, to get a banking account, to issue a mortgage and so on.  It is not exactly recognizing who the person is against some previous record based on the picture of the face.  It is understaing that the picture is not fake, that the person is not wearing a mask, that it is there live and breathing.  It is a anti-spoofing approach. 
 
@@ -14,7 +14,7 @@ Online Banks are claiming for this.  They want to be able to identify that an ac
 
 * *Scope*:  the first steps towards the MVP is to have an application running either in a desktop app or in a mobile phone.
 
-# Details 
+## Details 
 
 This problem has three sides.  The first one is this, the liveness detection.  This is an anti-spoofing tool that uses all the available transducers to get information that can give an idea that there is a real person on the other side.  This is similar to a captcha.  And this is an arms race.
 

@@ -6,7 +6,7 @@ collection: portfolio
 
 ![Descriptor](/images/fakeface.jpeg){:height="450px" width="300px"}
 
-# Description
+## Description
 
 We are working on a super interesting project.  Innocent Project (https://innocenceproject.org/) is an international organization that deals worldwide with wrongfully convicted cases.  In several of those cases there is always a line up witness trial procedure that it is either purposely manipulated or it is based on a very wrong procedure in terms of how human memory works.  The "Lab Sueño y Memoria" at ITBA University, Buenos Aires, Argentina (https://www.labsuenoymemoria.com/) works closely with Innocent Project to provide research evidence that is used by this organization to present legal cases.
 
@@ -17,7 +17,7 @@ We need the GPU for this project.
 This is a Bachellor's Dissertation that explains in details the first iteration of this project: https://catalogo.itba.edu.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17919
 This is a video on how to use the currently version of the app:https://www.youtube.com/watch?v=KcqwrXCWKF0
 
-# Scope
+## Scope
 
 Implement the program that can generate the faces offline.
 
