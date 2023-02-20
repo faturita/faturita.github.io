@@ -19,7 +19,7 @@ Implement the RSVP paradigm into OpenVibe
 
 * *Bachellor's Dissertation*: https://ri.itba.edu.ar/handle/123456789/3423
 
-Related Papers 
+## Related Papers 
 * Ramele, R., Villar, A., Santos, J., Ramele, R., Villar, A. J., & Santos, J. M. (2018). EEG Waveform Analysis of P300 ERP with Applications to Brain Computer Interfaces. Brain Sciences, 8(11), 199. https://doi.org/10.3390/brainsci8110199
 * BCI state of the art: Nicolas-Alonso, L. F., & Gomez-Gil, J. (2012). Brain computer interfaces, a review. Sensors, 12(2), 1211–1279. https://doi.org/10.3390/s120201211
 * P300 Speller Usability: Guy, V., Soriani, M.-H., Bruno, M., Papadopoulo, T., Desnuelle, C., & Clerc, M. (2018). Brain computer interface with the P300 speller: Usability for disabled people with amyotrophic lateral sclerosis. Annals of Physical and Rehabilitation Medicine, 61(1), 5–11. https://doi.org/10.1016/j.rehab.2017.09.004
