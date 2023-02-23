@@ -8,46 +8,46 @@ collection: portfolio
 
 ## Description
 
-Game and Simulation Engine based on OpenGL and Open Dynamics Engine.  This is the remake of an old game.  It is used as a platform to test AI algorithms.
+Game and Simulation Engine based on OpenGL and Open Dynamics Engine (ODE).  This is the remake of an old game.  It is used as a platform to test AI algorithms, Robotics, Dynamics, and so on.
 
 ## Scope
 
 A lot to do.
 
-El núcleo y base del proyecto consiste en un Motor Dinámico, es decir, un sistema que resuelve la física de cuerpos.  Esto está hecho con un proyecto que se llama ODE, Open Dynamics Engine, y es lo que permite realizar simulaciones físicas.  La segunda parte linkeada a esto es un motor de juegos básicos con OpenGL en C++: esto son las estructuras de datos para manejar el rendering y el modelo de objetos físicos sumados a un sistema de detección de colisiones. Además tiene un renderización de 3DS con lo cual pueden crear modelos con Blender por ejemplo y cargarlos directamente en el motor.
+This game, and humble, simulation engine was creating on top of OpenGL 1.x (before Shaders).  The good think about this opengl version is that it is used, even currently, as basis of the visual interface of major operating systems like linux (Gnome and KDE) and Mac OSX.  Hence, it is still supported and, and the same time, it is super compatible for all the most important platforms.
 
-¿Qué es lo que se puede hacer con esto y hacia dónde se lo puede llevar?
+Additionally, this version of opengl is super easy to use, and helps to understand better what is actually under the hood of graphics programming (if you want to go even deeper you can try https://machinethink.net/blog/3d-rendering-without-shaders/).
 
-Simulación de física: ODE es un proyecto de simulación física pero hay otros. Los resultados que se pueden obtener son realmente buenísimos, no sólo desde el lado del realismo sino también desde el lado artístico.  Por ejemplo, se puede mejorar el sistema para implementar un simulador de avión realista, por ejemplo, teniendo en cuenta temas de aeronáutica o por ejemplo temas balísticos para representar cómo viaja uno de los cohetes de SpaceX (tipo Kerbal).  
+The other part of the engine is the open dynamics engine.  This allows to perform physical simulations of objects in 3D space.  This engine also has a very extensible collision engine and a fairly good library to process 3DS digital files that can be easily created in Blender.
 
-Simulación de fluidos:  En el juego que está montado hay un efecto de agua muy simple hecho con una Textura dibujada en un piso que es de 1000x1000 y que va dezplazando la textura según el movimiento de la cámara.  Hay que hacer un upgrade de eso, por ejemplo implementado esto: https://fluidenginedevelopment.org/ o http://www.lousodrome.net/opengl/index.html.en#water.  Estaría bárbaro implementar olas realistas.
+### What can be done?
 
-Robótica: es una plataforma genial para probar cosas de robótica, como pueden ser algoritmos de navegación, de SLAM, robots bípedos.  Por ejemplo, vinculandola con esto https://github.com/csiro-robotics/syropod_highlevel_controller.
+* Physics Simulation:  ODE is a physics simulation but there are others.  ODE solves one part of the problem, the rigid body dynamics, but there are much more things that can be fixed.  For instance, ODE has a limited set of connectors that can be extended to have more, and that sometimes are faulty.  Another thing that could be interested to work with is simulation of ballistic scenarios aiming to have something that what Kerbal does with rockets.
 
-Inteligencia Artificial:  es una plataforma para hacer pruebas de sistemas multiagentes que operan en un mundo "Real" para probar algoritmos de IA adversariales o colaborativos (como esto pero más realista https://robocode.sourceforge.io/).   
+* Fluid Mechanics simulations:  It will be super nice to add a new layer to perform fluid dynamics simulations (for the ships, the speeders, the airplanes, everything).  These frameworks can be used to do so https://fluidenginedevelopment.org/ o http://www.lousodrome.net/opengl/index.html.en#water. 
 
-Artístico: Por ejemplo se puede encarar por el lado de simular como es el movimiento del agua, como un barco deja estela. etc.  Abordar temas interesantes de computación gráfica e intentar atacarlos.  Diseños de estructuras 3D y navegación, bounding boxes, colisiones.
+* Robotics: this is an excellent platform to test any kind of robotics problem, like path planning, navigation, SLAM, walking robots, bipedal robots and so on. It can be linked with https://github.com/csiro-robotics/syropod_highlevel_controller.
 
-El proyecto actual lo pueden encontrar acá:  https://github.com/faturita/wakuseibokan, demo https://www.youtube.com/watch?v=_LJj1x4orbU
-Yo lo estuve laburandolo durante la pandemia, ya que encontré algo de espacio para programar.
+* Artificial Intelligence:  this is an excellent platform to test artificial intelligence concepts like multiagents systems coordination that play in a controlled but real-like world. Something in the line of  https://robocode.sourceforge.io/ but extending it a little bit more (like two tanks that need to fight one against the other).
 
-En concreto, algunas puntas por las que se pueden encarar proyectos con esto
+* Art: for instace how the water actually moves, how the wake of a boat is generated.  It can also include computer graphics problems like bounding boxes, colisions, 3D structures.
 
-Emprolijar y construir el motor:  optimizar el código, implementar la posibilidad de usar diferentes motores dinámicos (por ejemplo reemplazar ODE por Bullets).  Otra cosa que hay que hacer es actualizar a una versión más nueva de OpenGL porque está un poco vieja la que está, por ejemplo, hay que ponerle Shaders y mejorar el audio.  Acá hay infinito para hacer pero el proyecto puede ser el armado del motor.
-Mejorar ODE:  ODE es un proyecto Open Source buenísimo que está un poco abandonado.  Pueden trabajar en ese proyecto implementando mejoras y contribuyendo.
-Gaming: pueden usarla como base para construir un juego que quieran.  La base está y si bien hay que mejorarla (programar un juego eficiente es MUY complejo), es algo factible.
 
-Etcetera, etcetera, etcetera....
+Project: https://github.com/faturita/wakuseibokan, 
+Videos: https://www.youtube.com/watch?v=_LJj1x4orbU
 
-Que necesitan saber o aprender: C++ y mucho. OpenGL, programación gráfica, algebra lineal aplicada.  Shaders, CUDA, Física, métodos numéricos.  Si eligieron esta carrera por temas de juegos, este es un buen proyecto. Creatividad y ganas de explotarla.
+
+# Requirements
+
+OpenGL, CUDA, computer graphics, algebra, physics, numerical methods, fluid mechanics, navier-stokes equation (i am joking)
 
 # Videos
 
-* https://github.com/faturita/wakuseibokan de YouTube
+* https://www.youtube.com/playlist?list=PLJHMIS4ekxNSLS422Nw7D2JlJW3En1Vul
 
 
 # Code 
-* <https://github.com/faturita/Wakuseibokan>
+* https://github.com/faturita/Wakuseibokan
 
 
 
