@@ -7,6 +7,9 @@ collection: portfolio
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6826133081758408704" height="879" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1rzOGQBSo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ![ALPI Bot](/images/alpibot1.jpg){:height="450px" width="300px"}![ALPI Bot](/images/alpibot2.jpg){:height="450px" width="300px"} ![ALPI Bot](/images/alpibot3.jpg){:height="450px" width="300px"}![ALPI Bot](/images/alpibot4.png){:height="450px" width="300px"}
 
 
@@ -15,10 +18,10 @@ collection: portfolio
 
 ## Project
 
-* *Description*: This is a basic robotic prototype that can carry the oxygen tank of an enphisema patient.  It is designed to be used for Pulmonary Rehabilitation protocols that are performed at ALPI.  The robot works by following a pair of tethers and adjust their velocity based on the their length difference.  It uses hardware, electronics, and software that we created as a IoRT platform.  Very cheap.
+* *Description*: This is a basic robotic prototype that can carry the oxygen tank of an emphysema patient.  It is designed to be used for Pulmonary Rehabilitation protocols that are performed at rehabilitation clinics, like ALPI in Buenos Aires, Argentina.  The robot works by following a pair of tethers and adjust their velocity based on the their length difference.  It uses hardware, electronics, and software that we created as an IoRT platform.  Cheap and efficient.
 
 ## Scope
-We just iterated once.  We need to keep going.  There is a lot of things to do ahead of us.
+We just iterated once.  We need to keep going.  There is a lot of things to do ahead of us.  We need to increase the size of the robot to be able to incorporate the tank handler.  We also need bigger motors to be able to carry the oxygen tank.  We also need to incorporate obstacle avoidance systems, and cameras.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/skpeedcbvqk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
