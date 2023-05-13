@@ -4,23 +4,22 @@ excerpt: "Phantom head for Electrophysiology"
 collection: portfolio
 ---
 
-![Descriptor](/images/phantomhead.jpg){:height="450px" width="300px"}
+![Descriptor](/images/phantomhead.png){:height="450px" width="300px"}
 
 ## Description
 
-ITBA’s Mechanic Department is currently conducting an important project for the development of an autonomous electric car that can compete in the FSAE category. The project poses challenges of different types and nature, in particular, to provide the car with a sensing system that provides enough information to make the right decisions in terms of steering and acceleration as required by its control system.
-The purpose of this project is to assess the possibility of using one or more video cameras to capture images, which after being processed can provide sufficient information on the state of the environment, and eventually, the creation of maps, required for the vehicle’s self-driving. Our hypotheses points both to the use of specific image processing techniques and to the use of artificial neural networks to achieve the objective proposed.
+The idea is to create a phantom head for electrophysiology, which can be used first to generate artificial signals to feed electrodes and also to test the conductive properties of ballistic gel or a similar material (mimmicking human tissue).  This can also be used to test blind source separation algorithms.
 
 
 ## Details
 
-Stage one involves only working on the Gazebo simulator.
+Stage one involves creating the head from a mannequin, and the more complex part of instrumenting an electronical solution to generate very low power signals.
 
-* *Technologies*: OpenCV, Python
+* *Technologies*: 3D Design and Impression, electronics, electrophysiology
 
 
 Code and Videos
-* https://www.youtube.com/watch?v=SIsskEPiTHQ
+* NA yet
 
 
 
