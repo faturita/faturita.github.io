@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Rodrigo Ramele"
+title: "Bio"
 permalink: /cv/
 author_profile: true
 redirect_from:
