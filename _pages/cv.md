@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Rodrigo Ramele is a Computer Engineering from the Universidad Nacional de La Matanza (Argentina). He holds a Graduate Specialization in Cryptography from the Instituto Enseñanza Superior M.Savio (Argentina) and Graduate Research Specialization in Robotics and Bioengineering from Tohoku University (Japan). He completed his Ph.D in Brain Computer Interfaces at the Instituto Tecnológico de Buenos Aires (Argentina) in 2018, working on the analysis of EEG using Computer Vision techniques. He also worked as Senior Research Officer at the University of Essex on neuralcorrelates of decision making and Human-AI Teams.  His interests encompass Assistive Robotics and Brain Computer Interfaces. He has experience working professionally as a software engineer for several companies and as Assistant Professor in Artificial Intelligence, Computer Vision, Robotics and Signal Processing.
+
 Education
 ======
 * Professional Engineering in Computer Science (B.S.), Universidad Nacional de La Matanza, Bs. As. Argentina, 2001

@@ -4,6 +4,8 @@ excerpt: "A Robotic Vest to aid in Post-Stroke Dynamic Human Balance Rehabilitat
 collection: portfolio
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lDFfJe24jMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Description 
 
 Development of a rehabilitation VEST based on vibrotactile biofeedback to aid in post-stroke neurorehabilitation procedures aimed to restore dynamic balance.

@@ -8,7 +8,7 @@ collection: portfolio
 
 ## La Clave
 
-* La clave está en definir un scope realista del proyecto lo más acotado posible.  Porque una vez que se define un scope, todo lo que queda adentro hay que hacerlo bien.
+* La clave está en definir un scope realista del proyecto lo más acotado posible. Lo que queda afuera no se hace, ni nos preocupa. Pero todo lo que queda adentro hay que hacerlo bien.
 
 ## Tips
 

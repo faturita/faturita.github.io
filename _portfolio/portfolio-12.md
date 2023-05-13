@@ -4,6 +4,8 @@ excerpt: "Vision System for SAE International Simulator"
 collection: portfolio
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SIsskEPiTHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Description
 
 ITBA’s Mechanic Department is currently conducting an important project for the development of an autonomous electric car that can compete in the FSAE category. The project poses challenges of different types and nature, in particular, to provide the car with a sensing system that provides enough information to make the right decisions in terms of steering and acceleration as required by its control system.
