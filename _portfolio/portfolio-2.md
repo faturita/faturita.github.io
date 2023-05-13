@@ -4,7 +4,7 @@ excerpt: "EMG/EOG Decoder"
 collection: portfolio
 ---
 
-# Decription 
+## Decription 
 
 This project aims to implement an EMG decoder for a very special ALPI patient using NeuroSky. This device is very easy to use, and very quickly it can obtain a valid signal from the forehead.   
 

@@ -14,5 +14,5 @@ El CiC cuenta con el siguiente equipamiento:
 * *OpenEEG Olimex*: Good for EKG
 * *Bitalino*: good for EDA and GSK.
 * *Additional devices*: Sipp-and-Puff air volumetric sensors, SpO2, swtich buttons.
-* *Robot Prototyping*: aluminium rods and beams, CNC, 3D Printer.
+* *Robot Prototyping*: aluminium rods and beams, 3D Printer.
 
