@@ -12,10 +12,10 @@ We are working on a super interesting project.  Innocent Project (https://innoce
 
 What are we doing:  The Lab needs to create realistic faces and needs to be able to manipulate them.  Hence, we are working on a modified version of StyleGAN2 from NVIDIA to do three things: (1) we created an app that connects to StyleGAN2 and that can be used by researchers and the legal team to create and manipulate realistic faces. (2) we are modifying certain aspects of StyleGAN to be able to have more concept vector directions on the latent space to be able to manipulate the faces in several ways (for instance, keeping the face frame, the hairline, intact between images). (3) StyleGAN has been trained with FFHQ which is very biased towards European and American faces, and we need to retrain it to be able to generate faces more similar to South Americans.  
 
-We need the GPU for this project.
-
 This is a Bachellor's Dissertation that explains in details the first iteration of this project: https://catalogo.itba.edu.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17919
 This is a video on how to use the currently version of the app:https://www.youtube.com/watch?v=KcqwrXCWKF0
+
+Currently this project involves the manipulation of real faces to force them to have a very specific emotional expression, like given someone's picture, get the same picture but with a person showing affection, an angry face, sadness and so on.  It is the opposite of what a lot of computer vision do, that recognize the affection given a picture.
 
 ## Scope
 

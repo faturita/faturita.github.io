@@ -17,6 +17,7 @@ Analyze of confocal microscopy image sequence to determine the penetration dynam
 Active contour, pixel classification, segmentation, data augmentation
 
 Papers
+* https://ieeexplore.ieee.org/document/10178851
 * https://link.springer.com/chapter/10.1007/978-3-030-30648-9_35
 * https://ieeexplore.ieee.org/abstract/document/8882160
 * https://elcvia.cvc.uab.cat/article/view/1482

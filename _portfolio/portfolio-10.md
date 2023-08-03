@@ -11,9 +11,9 @@ collection: portfolio
 Development of a rehabilitation VEST based on vibrotactile biofeedback to aid in post-stroke neurorehabilitation procedures aimed to restore dynamic balance.
 
 ## Scope
-Stage one involves only creating the VEST and test clinical hypothesis.
+Stage one involves only creating the VEST and test clinical hypothesis.  The second stage is to create a good forecaster of the falling situation.  The third stage involves reading EEG information to deterine the intention of movement directly from the EEG signals.
 
-* *Technologies*: IoRT, IMU
+* *Technologies*: IoRT, IMU, EEG, BCI
 
 Paper: https://arxiv.org/pdf/2301.06528.pdf
 

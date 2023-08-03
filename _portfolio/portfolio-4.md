@@ -6,7 +6,7 @@ collection: portfolio
 
 ## Description
 
-We replicated an amazing experiment performed by Itubarre (Millan and Cheverriaga team) on a differnt settings.  We wanted to verify if we could use ErrP signals to train a very basic gaming agent.  We verified that is possible, even with a very basic and straightforward faulty classificiation pipeline.
+We replicated an amazing experiment performed by Itubarre (Millan and Cheverriaga team) on a different settings.  We wanted to verify if we could use ErrP signals to train a very basic gaming agent.  We verified that is possible, even with a very basic and straightforward faulty classificiation pipeline.
 
 ## Scope
 

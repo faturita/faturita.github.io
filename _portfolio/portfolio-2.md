@@ -1,17 +1,17 @@
 ---
-title: "Assitive Hybrid Interface"
+title: "Hybrid Teams Decision Making"
 excerpt: "EMG/EOG Decoder"
 collection: portfolio
 ---
 
 ## Decription 
 
-This project aims to implement an EMG decoder for a very special ALPI patient using NeuroSky. This device is very easy to use, and very quickly it can obtain a valid signal from the forehead.   
+This project is based on this <https://www.essex.ac.uk/research-projects/adaptive-joint-cognitive-systems> and aims to investigate how metacognitive information can be extracted from EEG signals, and how this information can be used to ease the communication between artificial intelligence agents and humans while making joint decisions.
 
 ## Scope
 
-It is important first to implement a adaptive protocol system that can be adapted quickly to any person.  Once the communication protocol is established, the system must implement a basic communication protocol.  The idea is to complete the code to decode the signals, and once that is completed, put everything into a usable software package.
+The idea is to replicate one of the experiments, where humans and agents make a decision on a pandemic scenario simulation.
 
-Code 
-* <https://github.com/faturita/python-mindwave>
+Dataset
+* <https://openneuro.org/datasets/ds004477>
 

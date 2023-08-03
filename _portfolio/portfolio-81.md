@@ -8,7 +8,7 @@ collection: portfolio
 
 ## Description
 
-Online Banks are claiming for this.  They want to be able to identify that an actual person is behind a mobile phone and is trying to register into a mobile app, to get a banking account, to issue a mortgage and so on.  It is not exactly recognizing who the person is against some previous record based on the picture of the face.  It is understaing that the picture is not fake, that the person is not wearing a mask, that it is there live and breathing.  It is a anti-spoofing approach. 
+Online Banks are claiming for this.  They want to be able to identify that an actual person is behind a mobile phone and is trying to register into a mobile app, to get a banking account, to issue a mortgage and so on.  It is not exactly recognizing who the person is against some previous record based on the picture of the face.  It is understaing that the picture is not fake, that the person is not wearing a mask, that it is there live and breathing.  It is a anti-spoofing approach. This project also connects with international developments like UBI or Worldcoin, because they need the liveness detection to implement their protocols to identify uniquely each person. 
 
 * *Project*: The idea of this project is first to implement a desktop application based on OpenCV/YOLO stack that uses the camera from the computer to perform liveness detection.  It is also interesting to use the mobile camera to do the same.  The final scope is to perform all that using only javascript in a web app and do that offline withtout the intervention of any server side component.
 
