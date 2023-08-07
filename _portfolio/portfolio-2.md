@@ -1,6 +1,6 @@
 ---
 title: "Hybrid Teams Decision Making"
-excerpt: "EMG/EOG Decoder"
+excerpt: "Decoding of metacognition information"
 collection: portfolio
 ---
 
