@@ -4,7 +4,7 @@ excerpt: "Epistemología a la carta"
 collection: portfolio
 ---
 
-> Reglas para sacar valor a los PFs
+> Reglas para sacar valor a los Proyectos Finales de Carrera, los Trabajos Finales Integradores, las Tesinas de Especialización, las Tesis de Maestria y las Tesis de Doctorado.
 
 ## La Clave
 
@@ -84,9 +84,9 @@ En general se suele seguir un modelo de respuestas similar a este: https://raw.g
 * La base es académica y de ingenieria.  Esto implica que lo que se dice se sustenta (o se tiene que sustentar).
 * Ahí es donde juega el OBJETIVO y el ALCANCE del proyecto (que están también plasmados en el informe).  Una vez que se define el objetivo, el alcance se elige, y es lo que limita.  Todo lo que queda adentro, hay que explicarlo, argumentarlo o estar listo para hacerlo.  Lo que queda afuera, no hay problema.  Esto es super importante de entenderlo porque es la clave para una buena defensa.  Por ejemplo, el nombre del proyecto es "Estudio de los métodos de clasificación basados en kNN para datos médicos de Córdoba".  El título implicitamente ya está limitando el alcance, entonces si alguien pregunta "Probaron con un método UMAP?", - "No la verdad que no probamos ese método, nos concentramos en kNN principalmente, pero sería interesante hacerlo en el futuro.".  Listo. 
 * Todo lo que es SUBJETIVO no lo tienen que decir ni poner.   Por ejemplo, "Elegimos este método porque nos pareció el MEJOR", No.  Tiene que decir que eligieron ese método porque hicieron experimentos y en la tabla figura con los mejores resultados (decisiones informadas), o porque tienen una referencia de alguién que lo hizo así.   Todo lo superlativo tienen que eliminarlo (adjetivos como bueno, lindo, copado, etc).   Las decisiones que toman tienen que ser en base a los datos que tuvieron ustedes o que pueden soportarla con referencias.
-* ¿Esto último quiere decir que siempre hay que hacer eso y nunca usar algo simplemente porque nos pareció y funcionó o porque probamos muchas opciones y funcionó?  Por supuesto que no (https://twitter.com/hashtag/overlyhonestmethods?src=hashtag_click).  Lo que sí hay que hacer es cuando la suerte aparece así, que es un componente válido aunque muchos lo nieguen, hay que construir para atrás y hacer todo lo posible para intentar entender y justificar por qué esa fue la mejor decisión, encontrar referencias o justificarla.
+* ¿Esto último quiere decir que siempre hay que hacer eso y nunca usar algo simplemente porque nos pareció y funcionó o porque probamos muchas opciones y funcionó?  La creación de algo requiere de cortar clavos y hacer cosas mundanas siempre, donde el método científico y la correctitud en el procedimiento no siempre pueden seguirse al pie de la letra (sino miren esto https://twitter.com/hashtag/overlyhonestmethods?src=hashtag_click).  Lo que sí hay que hacer es cuando la suerte aparece así, que es un componente válido aunque muchos lo nieguen, hay que construir para atrás y hacer todo lo posible para intentar entender y justificar por qué esa fue la mejor decisión, encontrar referencias o justificarla.
 * https://twitter.com/MemingPhD/status/1562516001006419969/photo/1
-* La presentación es una especie de show donde muestran su trabajo, es un "show educado".  Tiene que tener un nudo, donde plantean el problema mundial que motiva esto.  Luego plantean las soluciones existentes y van especificando la problemática hasta que llegan a un problema donde lo que ustedes hicieron es la solución.    Luego plantean el meollo de la cuestión, siempre jugando con que las cosas no salen no salen, hasta que cuentan cómo resolvieron algo, presentan la problemática y cómo lo resolvieron.   Tienen que incluir al principio muy bien lo que ustedes creen que son sus contribuciones.  Y esto enfatizarlo también en las conclusiones. https://en.wikipedia.org/wiki/Hero%27s_journey
+* La presentación es una especie de show donde muestran su trabajo, es un "show educado".  Tiene que tener un nudo, donde plantean el problema mundial que motiva esto.  Luego plantean las soluciones existentes y van especificando la problemática hasta que llegan a un problema donde lo que ustedes hicieron es la solución.    Luego plantean el meollo de la cuestión, siempre jugando con que las cosas no salen no salen, hasta que cuentan cómo resolvieron algo, presentan la problemática y cómo lo resolvieron.   Tienen que incluir al principio muy bien lo que ustedes creen que son sus contribuciones.  Y esto enfatizarlo también en las conclusiones. https://en.wikipedia.org/wiki/Hero%27s_journey.  Miren esto también explicado por un maestro total del *storytelling*, Kurt Vonnegut, https://twitter.com/Rainmaker1973/status/1694013662837481609?s=20.
 * El ESTILO de la presentación de la defensa es PROPIO de cada grup, de cada persona.  Es preferible algo que sale mal con el estilo propio que algo que sale más o menos con un estilo impuesto (que siempre es aburrido y pobre).
 * Traten de hablar todos, pero estar todos al tanto de lo que resolvieron.  Es interesante que den su perspectiva sobre los problemas que tuvieron también y como le encontraron la vuelta desde el lado de la ingeniería.
 * 3/4 del tiempo es contar los aportes, el nudo del trabajo. En el otro 1/4 hay que ofrecer a los interlocutores el material para que entiendan lo que se hizo.
@@ -115,4 +115,10 @@ En general se suele seguir un modelo de respuestas similar a este: https://raw.g
    * Do not confuse "imply" to "infer"
    * Non is not a word, then it should be joined to the word it modifies without a hyphen (because the hyphen is used to create words based on two or more already existing words).
    
+## Disclaimer Final
 
+Este tipo de proyectos requieren ciertas características en cuánto a las intenciones del equipo de trabajo que lo van a llevar adelante.
+
+* Si lo que quieren es sacarse la materia de encima, NO HAGAN NI SE EMBARQUEN EN ESTOS PROYECTOS.
+* Tienen que tener ganas de hacerlo, les tiene que copar.  Hay que aprender temas nuevos, quizás hasta incluso alejados del área específica de informática.  Por lo tanto, para que funcione eso, es importante que haya una buena motivación para encarar el tema.
+* Es importante que el grupo de trabajo tenga una buena dinámica y empuje el tema por motus propia.  Las tesis o proyectos finales son proyectos de alumnos que requieren que los administren de manera adecuada ejecutandolos.
