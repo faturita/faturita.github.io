@@ -13,10 +13,13 @@ The idea is to create a phantom head for electrophysiology, which can be used to
 
 ## Details
 
-Stage one involves creating the head from a 3d model, fill the head with conductive gel modelling brain tissue.  At the same time we need spetial materials that can mimick bone and skin in terms of conductivity. At the same time, we need to instrument an electronical solution to generate very low power signals.
+Stage one involves creating the head from a 3d model, fill the head with conductive gel modelling brain tissue.  At the same time we need special materials that can mimick bone and skin in terms of conductivity. 
+We need to instrument an electronical solution to generate very low power signals.
+The generation of the signals also allows to study for instance how the firing of electronics that can mimic neurons can generate an EEG-like signal from the scalp.  Is there any way in which these firings can generate some form of cognitive phenomena (Cogntive Computing) ?  Connect this with the Brain Project or the Blue Brain project.
 
 * *Technologies*: 3D Design and Impression, electronics, electrophysiology
 * https://ieeexplore.ieee.org/document/9475461
+* Polyjet synthetic biomaterials: https://www.stratasys.com/en/materials/materials-catalog/polyjet-materials/
 
 
 Code and Videos
