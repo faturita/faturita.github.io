@@ -21,13 +21,18 @@ collection: portfolio
 
 ## En relación al Trabajo
 * Cuatro palabras: Rigor, reliability, robustness, and transparency
-* Rigor: Se refiere a que el trabajo no saltee paso, no corner-cut (o si lo hace que lo aclare como limitación).
-* Reliability: Que los resultados o el funcionamiento se sostenga y que no sea producto de azar puro.
-* Robustness: Que ese funcionamiento o resultados permitan tolerar argumentos que lo debatan, o en el caso de desarrollos que permitan tolerar pequeñas variaciones en su uso DENTRO del propio alcance.  Por ejemplo, un auto que se detiene repentinamente a los 20 km por hora no es robusto.
-* Transparency: que toda la información esté visible, accesible.
+* *Rigor*: Se refiere a que el trabajo no saltee paso, no corner-cut (o si lo hace que lo aclare como limitación).
+* *Reliability*: Que los resultados o el funcionamiento se sostenga y que no sea producto de azar puro.
+* *Robustness*: Que ese funcionamiento o resultados permitan tolerar argumentos que lo debatan, o en el caso de desarrollos que permitan tolerar pequeñas variaciones en su uso DENTRO del propio alcance.  Por ejemplo, un auto que se detiene repentinamente a los 20 km por hora no es robusto.
+* *Transparency*: que toda la información esté visible, accesible.
 
-## En relación al Informe
+## En relación al Informe - ¿Qué cosas NO van?
 * El informe NO ES el Research Proposal que es la propuesta de trabajo.  Es un documento totalmente independiente. Idealmente un buen informe, tiene un título, y el informe habla de ese título y del tema, y el hecho de que se haya usado como una tesis, proyecto final o similar apenas se menciona al principio y nunca más.  Los temas epistemológicos no tienen que estar en el Informe.
+* En el Informe NO SE ESCRIBE SOBRE EL INFORME.  Por ejemplo, el informe no contiene informacion de los pasos que se dieron para construir el propio informe.  Dependiendo del trabajo, se pueden describir lecciones aprendidas, pero se escribe una historia y no el detalle punto a punto de lo que se se fue haciendo.  Por ejemplo, algo asi NO HAY QUE PONERLO: "Para el desarrollo de este informe, primero visitamos un investigador que lamentablemente no nos contestó.  Luego fuimos a ver otro investigador que nos contestó al principio, pero luego no nos contestó mas.  Finalmente hablamos con un tercero que sí nos contestó." 😖
+* En el Informe NO SE HABLA SOBRE LOS ALUMNOS QUE CONSTRUYERON EL INFORME.  Por ejemplo, "Este trabajo me ayudó a comprender cómo llevar adelante un proyecto de investigación." 😒
+
+
+## En relación al Informe - ¿De qué SI se trata?
 * Como pensarlo:  una manera es pensar una pregunta e intentar que el informe la responda, en sus propios términos. Así entonces, al informe hay que considerarlo como lo que saldría en google cuando alguién hace esa pregunta.  El informe contesta esa pregunta.
 * Secciones:
     * Abstract: El abstract se escribe AL FINAL y es un resumen en un párrafo chiquito (no más de 200 palabras) de lo que el trabajo hace, destacando el problema general (porque se hace esto), como se aborda resolver ese problema, y que se concluye al final.
@@ -45,11 +50,11 @@ collection: portfolio
 
 ## En relación a la propia escritura
 El informe no tiene que ser ni largo ni corto.  Tiene que ser:
-* Consistente: tiene que introducir adecuadamente los términos, conceptos que utiliza ANTES de utilizarlos.  Por ejemplo, si detalla un método de procesar señales, antes tiene que hablar de qué son esas señales.
-* Autocontenido: que puede leerse de principio a fin dejando claro el mensaje que intenta transmitir sin tener que forzar al lector obligatoriamente a leer otra cosa.  Por ejemplo, si el mensaje es sobre un nuevo método para resolver un problema de optimización, entonces los problemas de optimización merecen bastante lugar dentro del informe, no se pueden explicar en una linea.
-* Reproducible: que todo explicado con el detalle SUFICIENTE como para poder reproducirlo desde cero.  Cuánto es suficiente?  Una buena medida es en general hasta las librerías.  Si es algo de software y es una librería, puedo poner la referencia al paper y no explicar en super detalle el método que está explicado en la librería.
-* Resonante: que se encuentre pertinente en el tiempo y en el espacio donde se crea, que aborde los problemas actuales y relevantes.
-* Estilo: Todo esto lo pueden tener manteniendo el estilo que ustedes quieran: (https://www.lastwordonnothing.com/2015/02/05/ye-olde-scientific-writing/)
+* *Consistente*: tiene que introducir adecuadamente los términos, conceptos que utiliza ANTES de utilizarlos.  Por ejemplo, si detalla un método de procesar señales, antes tiene que hablar de qué son esas señales.
+* *Autocontenido*: que puede leerse de principio a fin dejando claro el mensaje que intenta transmitir sin tener que forzar al lector obligatoriamente a leer otra cosa.  Por ejemplo, si el mensaje es sobre un nuevo método para resolver un problema de optimización, entonces los problemas de optimización merecen bastante lugar dentro del informe, no se pueden explicar en una linea.
+* *Reproducible*: que todo explicado con el detalle SUFICIENTE como para poder reproducirlo desde cero.  Cuánto es suficiente?  Una buena medida es en general hasta las librerías.  Si es algo de software y es una librería, puedo poner la referencia al paper y no explicar en super detalle el método que está explicado en la librería.
+* *Resonante*: que se encuentre pertinente en el tiempo y en el espacio donde se crea, que aborde los problemas actuales y relevantes.
+* *Estilo*: Todo esto lo pueden tener manteniendo el estilo que ustedes quieran: (https://www.lastwordonnothing.com/2015/02/05/ye-olde-scientific-writing/)
 
 ## En relación al contenido
 En la cabeza del lector del Informe, van a aparecer estas preguntas, por lo que el informe tiene que en algún punto abordar alguna respuesta.
@@ -120,5 +125,5 @@ En general se suele seguir un modelo de respuestas similar a   [este](https://ra
 Este tipo de proyectos requieren ciertas características en cuánto a las intenciones del equipo de trabajo que lo van a llevar adelante.
 
 * Si lo que quieren es sacarse la materia de encima, NO HAGAN NI SE EMBARQUEN EN ESTOS PROYECTOS.
-* Tienen que tener ganas de hacerlo, les tiene que copar.  Hay que aprender temas nuevos, quizás hasta incluso alejados del área específica de informática.  Por lo tanto, para que funcione eso, es importante que haya una buena motivación para encarar el tema.
+* Tienen que tener ganas de hacerlo, les tiene que copar.  Hay que aprender temas nuevos, quizás hasta incluso alejados del área específica de cada uno.  Por lo tanto, para que funcione eso, es importante que haya una buena motivación para encarar el tema.
 * Es importante que el grupo de trabajo tenga una buena dinámica y empuje el tema por motus propia.  Las tesis o proyectos finales son proyectos de alumnos que requieren que los administren de manera adecuada ejecutandolos.
