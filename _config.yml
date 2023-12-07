@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Monostuff"
+title                    : "Neurotronics"
 title_separator          : "-"
 name                     : &name "Faturita"
 description              : &description "personal description"
