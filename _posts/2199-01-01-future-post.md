@@ -6,7 +6,6 @@ tags:
   - BCI
 ---
 
-* [Smart Drone Flying](http://monostuff.logdown.com/posts/386161-smart-flying)
 * [Mind Robot Controller - A Demo](http://monostuff.logdown.com/posts/275370-mindrobotcontroller-a-demo)
 * [Mind Flying](http://monostuff.logdown.com/posts/263140-mind-flying)
 * [SIFT Descriptors](http://monostuff.logdown.com/posts/276825-sift-descriptors)
