@@ -1,7 +1,7 @@
 ---
 title: 'Aprendizaje Modo Maquina'
 date: 2024-01-24
-permalink: /posts/2024/01/bci/
+permalink: /posts/2024/01/modomaquina/
 tags:
   - mobile
 ---
