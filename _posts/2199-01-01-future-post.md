@@ -6,11 +6,6 @@ tags:
   - BCI
 ---
 
-* [Mind Robot Controller - A Demo](http://monostuff.logdown.com/posts/275370-mindrobotcontroller-a-demo)
-* [Mind Flying](http://monostuff.logdown.com/posts/263140-mind-flying)
-* [SIFT Descriptors](http://monostuff.logdown.com/posts/276825-sift-descriptors)
-* [P300 And single trial detection](http://monostuff.logdown.com/posts/276817-p300-detection)
-* [OpenBCI Start your engines](http://monostuff.logdown.com/posts/276089-openbci-start-your-engines)
 * [Medium.com](https://medium.com/@rramele)
 * [超大人口問題](https://medium.com/@rramele/%E8%B6%85%E5%A4%A7%E4%BA%BA%E5%8F%A3%E5%95%8F%E9%A1%8C-a6259da1aebe)
 * [New job’s first informative days](https://medium.com/@rramele/new-jobs-first-informative-days-102d2874b7bc)

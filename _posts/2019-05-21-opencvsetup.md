@@ -82,6 +82,7 @@ Finalmente, hay que agregar todas las DLL al directorio donde queda el ejecutabl
 
 # Referencias
 
+https://gstreamer.freedesktop.org/documentation/installing/on-windows.html
 https://medium.com/@sourabhjigjinni/install-opencv-4-0-0-for-c-windows-7-10-code-blocks-tdm-gcc-64-dff65addf162
 https://cvexplorare.wordpress.com/2016/11/15/opencv-gstreamer-windows/
 https://stackoverflow.com/questions/29388518/libgstreamer-1-0-0-dll-not-found-gstreamer
