@@ -8,7 +8,9 @@ tags:
   - science
 ---
 
-# How to Review: A guide from some amazing research that told me how to do it
+A guide from some amazing research that describes how to perform scientific reviews.
+
+# How to Review
 
 1) Lo primero es buscar en internet que no sea un plagio. Algunas veces los mismos autores publican cosas que ya publicaron haciendo  una mínima variación. Esos los tenés que rechazar de plano diciendo que ya está publicado y si tenés alguna duda tenés que pedirle que explique la diferencia entre los dos papers. Y que lo explique con detalle. La mayoría de las veces no hay explicación, entonces los autores te dan como explicación el título del paper, algo chanta, enseguida te das cuenta. 
 
