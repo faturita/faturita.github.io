@@ -1,6 +1,6 @@
 ---
 title: 'STEAM Argentina'
-date: 2024-01-24
+date: 2024-01-26
 permalink: /posts/2024/01/steamargentina/
 tags:
   - mobile

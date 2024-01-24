@@ -1,6 +1,6 @@
 ---
 title: 'Aprendizaje Modo Maquina'
-date: 2024-01-24
+date: 2024-01-25
 permalink: /posts/2024/01/modomaquina/
 tags:
   - mobile
