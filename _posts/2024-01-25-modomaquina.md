@@ -6,6 +6,10 @@ tags:
   - mobile
 ---
 
+Aprendizaje automático, avance de la frontera digital.
+
+# Aprendizaje Automático
+
 * [El Drive de ML](https://drive.google.com/file/d/1sJvLQwxMyu89t2z4Zf9tD7O7efnbIUyB/view)
 
 

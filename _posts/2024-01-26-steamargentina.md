@@ -5,6 +5,9 @@ permalink: /posts/2024/01/steamargentina/
 tags:
   - mobile
 ---
+
+STEAM, Science Technology Engineering Art and Mathematics
+
 # STEM
 
 STEM, es el nombre general del uso de robótica y discplinas similares para canalizar educación técnica.  Es por el acrónimo de Science Technology Engineering and Mathematics. Últimamente mutó a STEAM donde incluyen también Arte como una disciplina ya que el uso de tecnología también representa una forma de materializar manifestaciones artísticas (artesanos del Siglo 21).  La idea es hacer proyectos de construcción simples, en base a piezas modulares, como bloques que se armen y desarmen, juntar todo, programarlo mediante una computadora, hacer los cálculos matemáticos que hagan falta y aprender sin darse cuenta.  Se vincula de manera directa con Robótica y Mecatrónica porque estas disciplinas justo giran alrededor de esta idea (https://ebot.es/que-es-robotica-educativa/).  Toda esta disciplina forma parte de la 4ta Revolución Industrial y se vincula con la Industria4.0, Internet de las Cosas, Sistemas Embebidos, Inteligencia Artificial.  Adicionalmente, se vincula con la cultura "Makers" y "DIY" de emprendedores donde lleva las capacidades de producción industriales a los hogares (y sobre todo garages) de todo el mundo.
