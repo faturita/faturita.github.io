@@ -53,6 +53,7 @@ Más chequeos:
 
 # Más info
 * https://www.elsevier.com/connect/six-things-to-do-before-writing-your-manuscript 
+* https://www.nature.com/articles/s41562-023-01808-1.epdf?sharing_token=LA3c8n0PpS-qxh8FMX_tk9RgN0jAjWel9jnR3ZoTv0NxZ6TOYJ_6Pk0RjlcKCuM0YqjMsQxstsuFPGRHOQtzX25XWpntwuxFCoA9hyEPilC7Nxtry2jFDITuLjeGaxCDeIcES1SQLrbRisL_iKYEMj1H1_eyyJCV_W_0tEiC4Nc%3D
 
 
 # How to read a paper
@@ -71,3 +72,5 @@ Questions to ask yourself:
 * What were the key elements?
 * What can you use yourself?
 * What other references you would like to follow?
+
+
