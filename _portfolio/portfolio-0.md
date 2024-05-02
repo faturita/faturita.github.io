@@ -49,7 +49,7 @@ collection: portfolio
 * Verificar bien las secciones.  Otra vez:  Intro, Materials and Methods, Results, Discussion, Conclussion, Future Work
 * El siguiente gráfico muestra bien los pasos necesarios para escribir un paper, que son similares a los necesarios para el trabajo
 
-![Neurotronics](images/howtowritepaper.png){:height="450px" width="300px"}
+![Neurotronics](/images/howtowritepaper.png){:height="450px" width="300px"}
 
 ## En relación a la propia escritura
 El informe no tiene que ser ni largo ni corto.  Tiene que ser:
