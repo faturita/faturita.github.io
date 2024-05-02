@@ -47,6 +47,9 @@ collection: portfolio
 * En el informe no van las actividades que se hicieron para construir el informe.
 * VERIFICAR la ortografía !!!!!!
 * Verificar bien las secciones.  Otra vez:  Intro, Materials and Methods, Results, Discussion, Conclussion, Future Work
+* El siguiente gráfico muestra bien los pasos necesarios para escribir un paper, que son similares a los necesarios para el trabajo
+
+![Neurotronics](images/howtowritepaper.png){:height="450px" width="300px"}
 
 ## En relación a la propia escritura
 El informe no tiene que ser ni largo ni corto.  Tiene que ser:
@@ -54,7 +57,7 @@ El informe no tiene que ser ni largo ni corto.  Tiene que ser:
 * *Autocontenido*: que puede leerse de principio a fin dejando claro el mensaje que intenta transmitir sin tener que forzar al lector obligatoriamente a leer otra cosa.  Por ejemplo, si el mensaje es sobre un nuevo método para resolver un problema de optimización, entonces los problemas de optimización merecen bastante lugar dentro del informe, no se pueden explicar en una linea.
 * *Reproducible*: que todo explicado con el detalle SUFICIENTE como para poder reproducirlo desde cero.  Cuánto es suficiente?  Una buena medida es en general hasta las librerías.  Si es algo de software y es una librería, puedo poner la referencia al paper y no explicar en super detalle el método que está explicado en la librería.
 * *Resonante*: que se encuentre pertinente en el tiempo y en el espacio donde se crea, que aborde los problemas actuales y relevantes.
-* *Estilo*: Todo esto lo pueden tener manteniendo el estilo que ustedes quieran: (https://www.lastwordonnothing.com/2015/02/05/ye-olde-scientific-writing/), o esto https://gjsd.gile-edu.org/index.php/home/article/view/7-donald-duck-141-145?utm_source=Live+Audience&utm_campaign=a613a4b2c3-briefing-dy-20240416&utm_medium=email&utm_term=0_b27a691814-a613a4b2c3-51243076.
+* *Estilo*: Todo esto lo pueden tener manteniendo el estilo que ustedes quieran: (https://www.lastwordonnothing.com/2015/02/05/ye-olde-scientific-writing/), o esto https://gjsd.gile-edu.org/index.php/home/article/view/7-donald-duck-141-145.
 
 ## En relación al contenido
 En la cabeza del lector del Informe, van a aparecer estas preguntas, por lo que el informe tiene que en algún punto abordar alguna respuesta.
