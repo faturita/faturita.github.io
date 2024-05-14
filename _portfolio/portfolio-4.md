@@ -6,7 +6,7 @@ collection: portfolio
 
 ## Description
 
-We replicated an amazing experiment performed by Itubarre (Millan and Cheverriaga team) on a different settings.  We wanted to verify if we could use ErrP signals to train a very basic gaming agent.  We verified that is possible, even with a very basic and straightforward faulty classificiation pipeline.
+This project involves the usage of the ErrP ERP as a reward to train artificial intelligence agents to solve basic games.  Human subjects silently and quitely watch the agents play along the game, and by understanding the game itself, rewards signals are generated and used to train the agents using reinforcement learning.
 
 ## Scope
 

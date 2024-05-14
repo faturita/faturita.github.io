@@ -8,7 +8,7 @@ collection: portfolio
 
 ## Description
 
-KComplex are a very important neurophysiological marker with several implications in neurological diseases and sleep research.
+KComplex are a very important neurophysiological marker with several implications in neurological diseases and sleep research.  It is a strong signal present during stages S2 and S3.  They are very important to identify and recognize and particularly to accurately identify all its component.
 
 ## Scope
 

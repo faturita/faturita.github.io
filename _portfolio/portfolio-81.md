@@ -14,7 +14,7 @@ Online Banks are claiming for this.  They want to be able to identify that an ac
 
 * *Scope*:  the first steps towards the MVP is to have an application running either in a desktop app or in a mobile phone.
 
-## Details 
+## Objective 
 
 This problem has three sides.  The first one is this, the liveness detection.  This is an anti-spoofing tool that uses all the available transducers to get information that can give an idea that there is a real person on the other side.  This is similar to a captcha.  And this is an arms race.
 
@@ -22,67 +22,59 @@ The second axis is the authentication itself.  This is proving that THAT particu
 
 The final axis, is the verification that that ALIVE person over there, who has something that was originally registered in our systems, is actually a LEGAL person with a legal name and national id registered in a centralized manner in official government records.  This last part also connects this problem with UBI or worldcoin, which is a decentralized approach based on blockchain to do the same.
 
+## Details
 
+The initial onboarding registration processes require a first step where the physical person's identity is verified against government records. The goal is to confirm that the person registering is who they claim to be. This involves validating the data against government records, typically through consistency checks and biometric validation.
 
+Additionally, the advancement of cell phones and the ubiquity of cameras in tablets and notebooks have driven the widespread use of facial recognition-based mechanisms. After fingerprint identification, facial recognition is currently the most used method.
 
-# Spanish
-Los procesos de registro onboarding inicial, requieren un primer paso donde se realiza una identificación de la persona física contra los registros gubernamentales.  Se intenta verificar que quién está detrás del registro inicial es quien dice ser.  Para eso se busca realizar una validación contra los registros gubernamentales que suele ser mediante un chequeo y validación de consistencia de los datos, y una validación biométrica.
+In this context, biometric spoofing appears: a technique that attempts to deceive biometric systems into recognizing an illegitimate identity as genuine by presenting synthetic false alternatives based on the original directly to the biometric sensor.
 
-A su vez, el avance de los celulares así como también la ubicuidad de las cámaras en tablets y notebooks, empujó para que los mecanismos basados en reconocimiento faciales estén siendo ampliamente utilizados. Después de la identificación dactilar, el reconocimiento facial es el mecanismo actual más usado[1].
+This is an unresolved area, often categorized in security as side-channel attacks. These scenarios are the most challenging to address. For this reason, they are intensely researched both academically and from the technological perspective of developing commercial solutions.
 
-En este contexto, aparece el biometric spoofing: técnica que intenta confundir a los sistemas biométricos para reconocer a una identidad ilegítima como una genuina por medio de presentar al sistema alternativas sintéticas falsas basadas en el original, directamente sobre el sensor biométrico[1].
+In biometric identification or authentication mechanisms:
 
-Esta es una área no resuelta, que suele ser categorizada en seguridad como side-channel attacks.  Son los escenarios más complejos de resolver.  Por esa razón, es a su vez intensamente investigada[3] tanto desde el mundo académico como desde la perspectiva tecnológica de desarrollar una solución comercial.
+* Biometric information is public and cannot be modified.
+* The types of attacks that can be implemented require a low entry bar, turning many potential users into possible attackers.
+* Being side-channel attacks, digital protection systems are complementary but inherently insufficient.
 
-En los mecanismos de identificación o autenticación biométricos, 
+Therefore, solutions often involve implementing artificial intelligence or machine learning to infer characteristics of the acquisition process that allow for the identification of synthetic forgery.
 
-* La información biométrica es pública y no es modificable.
+The types of attacks that can be carried out include direct attacks or side-channel attacks on the capture device or directly on the biometric data (biometric sample).
 
-* Los tipos de ataques que se pueden implementar requieren una low-bar de ingreso, convirtiendo muchos posibles usuarios en posibles atacantes del sistema.
+Attacks on the biometric data involve intercepting the data once it has been captured. This includes altering the recognition pipeline, tampering with the transmission of the information, altering its storage, etc.
 
-* Al ser ataques side-channel los sistemas de protección digital son complementarios pero inherentemente insuficientes.
+Attacks on the capture device include tampering with the specific sensor (e.g., CCD cameras) or injecting non-fresh biometric material, implementing replay attacks.
 
-Por esta razón las alternativas de solución aparecen de la mano de implementaciones de inteligencia artificial, o machine-learning para inferir características del proceso de adquisición que permitan realizar la identificación de la falsificación sintética.
+However, both devices and storage and transmission media are often protected by cryptographic mechanisms that an attacker must overcome to gain access. Thus, as “the security chain is only as strong as its weakest link,” direct biometric spoofing attacks are currently the simplest direct alternative to apply.
 
-Los tipos de ataque que pueden realizarse son ataques directos o side-channel attacks, sobre el dispositivo de captura o directamente sobre el dato biométrico (biometric sample).
+Direct Biometric Face Spoofing attacks are typically classified into:
 
+* Photo Attack: presenting a 2D image to the CCD sensor, printed on a sheet of paper, or displayed on a tablet, attempting to deceive the system with the photo of the falsified subject.
+* Video Attack: presenting a 2D image that allows for a dynamic validation scenario, where, for example, blinking, lip movements, and head movements can be included. This includes challenge-response scenarios where a simple application allows the attacker to implement the different mechanisms requested by the application.
+* Masks: recently popular in the Hong Kong protests, ranging from printed sheets with fake faces placed over a real face profile (addressing depth checks) to 3D models with the texture of the face to be falsified printed on them.
 
-Los ataques sobre el dato biométrico requieren interceptar el dato una vez que la misma ya fue capturado.  Esto incluye alterar el pipeline de reconocimiento, alterar la transmisión de la información, alterar su almacenamiento, etc.
+Multifactor Biometrics: similar to multifactor authentication, biometric processes that explore different factors simultaneously, such as a fingerprint alongside facial recognition, assume that the attacker needs to synthesize that biometric information, which is usually in different channels.
 
+Specialized Sensors: "liveness detection" or "vitality detection" aims to detect intrinsic or involuntary information by measuring some biological process. For example, modifying the sensor to add infrared sensitivity to detect variations in red intensity corresponding to the pulse.
 
-Los ataques sobre el dispositivo de captura incluyen el tampering del sensor puntual (e.g. cámaras CCD), o la  inyección de material biométrico que no sea fresco, implementando ataques de replay.
+Digital: or based on the feature space. This is the most explored approach, addressing the problem as a machine learning classification problem. It can be static, dynamic, or implementing a challenge-response mechanism, generating interactivity with the subject (with a usability penalty).
 
+Scoring: traditional fraud detection mechanisms, very popular in credit card transaction scenarios or actuarial settings. Viewing each identification process as a transaction that is scored and added to a data corpus, then addressed by global data analysis (i.e., analytics or data science).
 
-Sin embargo, tanto los dispositivos como los medios de almacenamiento y transmisión, suelen estar protegidos por mecanismos criptográficos, que un atacante debe vulnerar para tener acceso.  Por ello, como “la cadena de la seguridad se suele romper por el eslabón más débil”[6], los ataques directos de spoofing biométrico son la alternativa directa más simple de aplicar (hoy x hoy).
+There is an old adage in computer security that it is a bad idea to develop your own computer security system. The incentive for this approach is when considering a long-term process of evolution and continuous maintenance, or being aware of the inherent vulnerabilities such a system can have, accepting them as a valid and tolerable risk for the system in question.
 
-Los ataques directos de Biometric Face Spoofing suelen clasificarse[4] en:
+Additionally, due to the nature of the problem, we see an innovative component in this development aiming to provide a technical solution that does not exist today or lacks the necessary maturity. This inevitably requires an iterative process and a long-term approach to the solution.
 
-* Photo Attack: se presenta una imagen 2D al sensor CCD, impresa en una hoja de papel, o desplegada en una tablet, y se intenta engañar al sistema con la foto del sujeto falsificado.
+We recommend the possibility of implementing a hybrid solution (offline/online) that leverages server-side processing capabilities. The ability to deploy hardware resources accessible to an entity like a bank allows for raising the security bar.
 
-* Video Attack: se presenta la imagen 2D pero que permite implementar un escenario de validación dinámico, donde por ejemplo se pueden incluir pestañeos, movimientos de labio, movimientos de la cabeza.  Esto incluye los escenarios challenge-response, donde una aplicación simple le permite al atacante implementar los diferentes mecanismos que solicita la aplicación.
+Thus, the offline implementation provides a feasible solution that primarily operates as a backup system. From a programming perspective, the system can study and implement a trade-off between latency and processing time, choosing the best option to offer the user the best experience in performance, speed, data usage, and usability.
 
-* Masks: muy populares recientemente en las protestas en Hong Kong, van desde hojas impresas con caras falsas que intentan ubicarse sobre el perfil de una cara real (abordan los chequeos de profundidad) hasta modelos en 3D con la textura de la cara a falsificar impresa.
+On the other hand, when implementing a security mechanism, it is necessary to understand what is being avoided. In this case, it is necessary to outline an initial Threat Model to understand the types of attacks, categorized by attack level.
 
-Biometría de varios factores: al igual que ocurre con la autenticación en varios factores, los procesos biométricos que exploran a la vez diferentes factores, como pueden ser una huella dactilográfico junto con un reconocimiento facial, asumen el supuesto que el atacante requiere a la vez, sintetizar esa información biométrica que suele estar en canales diferentes.
-Sensores especializados: el nombre “liveness detection” o “vitality detection” proviene justamente de intentar detectar información intrínseca o involuntaria, midiendo información de algún proceso biológico.  Por ejemplo, modificar el sensor para agregarle sensibilidad al infrarrojo para detectar la variación en la intensidad de rojos de una imágen que se corresponde con el pulso.
-Digitales: o basados en el espacio de las características o los features.  Este es el más explorado, donde se aborda la problemática como un problema de clasificación en machine-learning.  Puede ser estático, dinámico o implementando un mecanismo de challenge-response, generando una interactividad con el sujeto (y una penalidad en usabilidad).
-Scoring: mecanismos tradicionales de detección de fraude, muy populares en el mundo de transacciones de tarjeta de crédito o escenarios actuarios.  Visualizando cada proceso de identificación como una transacción que es scoreada y que suma a un corpus de datos que luego son abordados por análisis de datos globales (i.e. analytics o data science).
+To do this, it is necessary to understand the current state of productive systems: what types of attacks have been detected so far, under what contexts, and the system's current success in detecting them.
 
-Existe un viejo adagio de seguridad informática que establece que es una mala idea desarrollar por cuenta propia un sistema de seguridad informática[8].  El aliciente a este planteo es cuando se piensa en un proceso a largo plazo, de evolución y mantenimiento continuo, o cuando se es consciente de las inherentes vulnerabilidades que un sistema así puede tener, y se aceptan como un riesgo válido y tolerable para el sistema en cuestión.
-
-Adicionalmente, por el tipo de problema que se aborda, vemos en este desarrollo un componente de innovación que apunta a tener una solución técnica que hoy no existe, o no tiene el grado de madurez necesario.  Esto requiere inevitablemente de un proceso de iteración y un abordaje de la solución a largo plazo.
-
-Aconsejamos la posibilidad de implementar una solución híbrida (offline/online) que justamente aproveche las capacidades de procesamiento server-side. Justamente la capacidad de poder poner recursos de hardware, accesibles para una entidad como un banco, es lo que permite mover la barra hacia arriba.
-
-De este modo la implementación offline permite una solución factible que opera principalmente como un sistema de backup.  Desde el punto de vista de la propia programación el sistema puede estudiar e implementar un trade-off entre latencia vs. tiempo de procesamiento, y elegir la mejor opción de cara a ofrecerle al usuario la mejor experiencia en performance, velocidad, uso de datos, usabilidad.
-
-Por otro lado, al implementar un mecanismos de seguridad, es necesario conocer qué es lo que se intenta evitar. En este caso, se hace necesario esbozar en una etapa inicial, un modelado de amenazas, un Threat Model para entender qué tipos de ataques, escalonados según el nivel del ataque.  
-
-
-Para esto es necesario conocer cuál es la situación actual que tienen en los sistemas productivos: qué tipos de ataques son los que detectaron hasta el momento, bajo qué contextos, cuál fue el éxito actual del sistema en detectarlos.  
-
-
-Consideramos que este punto es clave más allá de un resultado obtenido con un conjunto de datasets puntuales, y que permite hacer el abordaje a la seguridad desde una perspectiva más general, que suele ser la recomendada (ya que la seguridad es una propiedad global que se implementa con mecanismos de chequeos locales).
+We consider this point crucial beyond the results obtained with a specific set of datasets, allowing for a more general approach to security, which is usually recommended (as security is a global property implemented with local checks).
 
 
 

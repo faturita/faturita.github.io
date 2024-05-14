@@ -23,7 +23,7 @@ EdgeAI, or ASIC technology specifically designed for video or image processing h
 
 ## Scope
 
-Iterate the idea first, trying to achieve some minor goal related to this.  This is a long term project.
+It is possible and quite straightforward to start detection the physiological response and start to iterate from there.
 
 * *Bachellor's Thesis*: 
 

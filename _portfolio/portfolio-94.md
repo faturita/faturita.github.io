@@ -21,16 +21,16 @@ Currently this project involves the manipulation of real faces to force them to 
 
 * Title: Use of Generative Adversarial Networks for the creation and manipulation of facial images in the context of studying false memories and its effects on wrongful conviction cases.
   * Link: https://ri.itba.edu.ar/entities/proyecto%20final%20de%20grado/5cbc8418-8b08-4f4f-a9d2-8d0ee94112ae
-  * Alumnos: Jimena Lozano, Maite Herrán
+  * Students: Jimena Lozano, Maite Herrán
   * Director: Rodrigo Ramele
 
-* Título: Controlling Face's Frame generation in StyleGAN's latent space operations, Modifying faces to deceive our memory
+* Title: Controlling Face's Frame generation in StyleGAN's latent space operations, Modifying faces to deceive our memory
   * Link: https://ri.itba.edu.ar/entities/proyecto%20final%20de%20grado/0ceaaf22-f870-402f-a905-994cd5e2a612
-  * Alumnos: Agustín roca, Nicolás Britos
+  * Student: Agustín roca, Nicolás Britos
   * Director: Rodrigo Ramele
 
 * Título: Face Generator: A Web-based Platform for Interactive Facial Image Generation and Manipulation, Unveiling StyleGAN in a Web-based Interface for Face Generation.
-  * Alumnos: Octavio Serpe, Agustín Jerusalinksy, Francisco Quesada
+  * Students: Octavio Serpe, Agustín Jerusalinksy, Francisco Quesada
   * Director: Rodrigo Ramele
 
 ## Talks

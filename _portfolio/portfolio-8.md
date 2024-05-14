@@ -32,14 +32,13 @@ The other part of the engine is the open dynamics engine.  This allows to perfor
 
 * Art: for instace how the water actually moves, how the wake of a boat is generated.  It can also include computer graphics problems like bounding boxes, colisions, 3D structures.
 
-
 Project: https://github.com/faturita/wakuseibokan, 
 Videos: https://www.youtube.com/watch?v=_LJj1x4orbU
 
 
 # Requirements
 
-OpenGL, CUDA, computer graphics, algebra, physics, numerical methods, fluid mechanics, navier-stokes equation (i am joking)
+OpenGL, CUDA, computer graphics, algebra, physics, numerical methods, fluid mechanics, navier-stokes equation.
 
 # Videos
 
