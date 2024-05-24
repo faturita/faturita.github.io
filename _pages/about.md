@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Brain Computer Interfaces and Assistive Robotics
+Brain-Computer Interfaces and Assistive Robotics
 ================================================
 ![Neurotronics](images/neurotronics.png){:height="450px" width="300px"}
 
