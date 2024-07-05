@@ -15,7 +15,7 @@ For instance, it is possible to infer a signal similar to PPG from the analysis 
 
 Another application is for physical videos. Physics require certain restrictions to be met in terms of possible masses, how they move, energy constraints and so on.  A video can be analyzed trying to understand if these constrainst are fulfilled and if not, flag the video as likely false.  This is exactly what we do when we see a video and we apply our understanding of how things work in the world to see if what is happening in the video is plausible or not.
 
-<iframe width="560" height="315" src="https://twitter.com/i/status/1703720519995134023" title="Twitter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://x.com/Rainmaker1973/status/1703720519995134023" title="Twitter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Methodology
 
@@ -24,8 +24,3 @@ EdgeAI, or ASIC technology specifically designed for video or image processing h
 ## Scope
 
 It is possible and quite straightforward to start detection the physiological response and start to iterate from there.
-
-* *Bachellor's Thesis*: 
-
-* ITBA Students: 
- * N/A
