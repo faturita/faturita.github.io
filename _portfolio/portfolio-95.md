@@ -1,19 +1,19 @@
 ---
-title: "Lab Neurotronic"
-excerpt: "We need you !"
+title: "JS"
+excerpt: "Robotic platform to study young toddlers behaviour"
 collection: portfolio
 ---
 
 
-The Neurotronics Lab S206 is an interdisciplinary experimental laboratory at ITBA. Here are some of the devices we have available for all students:
+## Description 
 
-* g.Tec g.Nautilus 8 channels: A high-quality wireless EEG device tailored for BCI applications.
-* EPOC Emotiv 14 channels: The first version of this headset. It is excellent for implementing basic EEG paradigms, even though the signal * quality is not the best. It is easy to wear and handle.
-* Mindwave NeuroSky Mobile: Very easy to wear, good for detecting EOG.
-* Muse 3 channels: Good for detecting facial movements.
-* OpenBCI/Ganglion: 8 channels. Excellent for exploring electrophysiology issues.
-* OpenEEG Olimex: Good for EKG.
-* Bitalino: Good for EDA and GSR.
-* Additional devices: Sip-and-Puff air volumetric sensors, SpO2 sensors, switch buttons.
-* Robot Prototyping: Aluminum rods and beams, 3D printer.
+This project aims to create a platform to perform experiments to study how to characterize a robot pet to achieve different reactions on kids, and to study how kids react to ECAs (Embodied Conversational Agent)s.
+
+## Methodology
+
+The first iteration we will create the platform that will allow us to perform the experiments.
+
+## Scope
+
+At the beginning is just the robot itself, based on Parrot Jumping Sumo.   Then we will try to use the robot to perform the first experiments.
 
