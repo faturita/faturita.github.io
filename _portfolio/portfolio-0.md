@@ -31,7 +31,6 @@ collection: portfolio
 * En el Informe NO SE ESCRIBE SOBRE EL INFORME.  Por ejemplo, el informe no contiene informacion de los pasos que se dieron para construir el propio informe.  Dependiendo del trabajo, se pueden describir lecciones aprendidas, pero se escribe una historia y no el detalle punto a punto de lo que se se fue haciendo.  Por ejemplo, algo asi NO HAY QUE PONERLO: "Para el desarrollo de este informe, primero visitamos un investigador que lamentablemente no nos contestó.  Luego fuimos a ver otro investigador que nos contestó al principio, pero luego no nos contestó mas.  Finalmente hablamos con un tercero que sí nos contestó." 😖
 * En el Informe NO SE HABLA SOBRE LOS ALUMNOS QUE CONSTRUYERON EL INFORME.  Por ejemplo, "Este trabajo me ayudó a comprender cómo llevar adelante un proyecto de investigación." 😒
 
-
 ## En relación al Informe - ¿De qué SI se trata?
 * Como pensarlo:  una manera es pensar una pregunta e intentar que el informe la responda, en sus propios términos. Así entonces, al informe hay que considerarlo como lo que saldría en google cuando alguién hace esa pregunta.  El informe contesta esa pregunta.
 * Secciones:
@@ -45,7 +44,7 @@ collection: portfolio
 * Cada vez que se pone un gráfico hay que explicarlo y tiene que tener una razón para estar ahí.  Gráficos de relleno no sirven para nada.  No está bueno poner capturas de salidas de pantalla, a no ser que sea estrictamente importante.
 * Cada vez que se menciona algo que existe, hay que citarlo.
 * En el informe no van las actividades que se hicieron para construir el informe.
-* VERIFICAR la ortografía !!!!!!
+* VERIFICAR la ortografía !!!!!!  Traten sobre todo de evitar los errores bestiales.
 * Verificar bien las secciones.  Otra vez:  Intro, Materials and Methods, Results, Discussion, Conclussion, Future Work
 * El siguiente gráfico muestra bien los pasos necesarios para escribir un paper, que son similares a los necesarios para el trabajo
 
@@ -59,6 +58,13 @@ El informe no tiene que ser ni largo ni corto.  Tiene que ser:
 * *Resonante*: que se encuentre pertinente en el tiempo y en el espacio donde se crea, que aborde los problemas actuales y relevantes.
 * *Estilo*: Todo esto lo pueden tener manteniendo el estilo que ustedes quieran: (https://www.lastwordonnothing.com/2015/02/05/ye-olde-scientific-writing/), o esto https://gjsd.gile-edu.org/index.php/home/article/view/7-donald-duck-141-145.
 
+## En relación al proceso de escritura
+
+* Se llama *Síndrome de la Hoja en blanco*: es el efecto de bloquearse cuando hay que escribir todo lo que se hizo para el informe.
+* Dos buenas ideas: (1) arranquen sobre el documento en latex directamente y vayan agregando todas las referencias que fueron encontrando y TIRAN en el texto sin ningún cuidado gramatical una breve oración de lo que esa referencia dice y la citan en el texto.  Lo (2) que pueden hacer es sobre esa hoja en blanco empezar a tirar las ideas directamente, una abajo de la otra, como si fuera un anotador sin sentido.  Lo que importa es empezar a tener la arcilla con la que luego se va a editar, iterar y refinar en pasos sucesivos hasta que se le va dando forma.
+* Pueden encontrar muchos más tips acá: https://www.nature.com/articles/d41586-024-02013-4
+
+
 ## En relación al contenido
 En la cabeza del lector del Informe, van a aparecer estas preguntas, por lo que el informe tiene que en algún punto abordar alguna respuesta.
 * ¿De qué se trata el trabajo? ¿Qué es lo que puntualmente quieren resolver, cuál es el problema principal?  Yo no sé NADA de este tema que presentan, denme una mini intro general para que entienda y denme referencias para aprender más o ver el detalle.
@@ -69,10 +75,11 @@ En la cabeza del lector del Informe, van a aparecer estas preguntas, por lo que 
 * El título del trabajo, y el alcance, hacen referencia al tema principal que se presenta.  Eso justamente es lo principal y en general es lo que demanda del trabajo mayor atención, reflejada en por ejemplo, cuántas hojas se usan para esa parte.  El resto del contenido está POR Y PARA esa parte.  Por ejemplo, en un trabajo que involucra una implementación de rede neuronales recurrentes para predecir el valor de bitcoin, no tiene sentido en la intro poner 3 carillas de redes convolucionales !
 
 
-
 ## En relación a cuando está terminado
 Este es el trabajo final de todo el esfuerzo de toda la carrera.  Se lo quieren sacar de encima, pero que lo que quede en el documento los haga sentir orgullosos y sientan que refleja bien todos estos años de esfuerzo. Una buena manera de pensarlo es si se lo enviarías a un posible empleador en una entrevista, como muestra de cómo podés trabajar. Si esa respuesta es positiva, entonces es porque el trabajo está terminado.
 
+## En relación a la entrega del informe
+El informe *tiene que entregarse al menos un mes, es decir 30 días antes de la fecha estimada o requerida de defensa*.  Tengan en cuenta muy bien cuándo son las fechas limites que hay que defender para poder entrar en las colaciones correspondientes.  ESTA ES UNA RESPONSABILIDAD DE LOS ALUMNOS DE CONTROLAR, ya que son ellos los que tienen la necesidad.  El proceso es iterativo entre el tutor y el grupo de alumnos.  Las devoluciones pueden demorar entre una hora o una semana aproximadamente, y de haber una demora particular será comunicada.  Leer y corregir el proyecto requiere tiempo.
 
 ## En relación a las devoluciones de los jurados
 Las devoluciones de los jurados/revisores hay que usarlas a favor, siempre, al igual que se hace en el Aikido donde la energia del contrincante se usa para nuestro propio beneficio.  Acá es igual, porque detrás de cualquier crítica siempre hay espacio para generar una mejora.
@@ -80,10 +87,12 @@ Para hacer el abordaje es necesario tener presente el scope del proyecto: que va
 
 En general se suele seguir un modelo de respuestas similar a   [este](https://raw.githubusercontent.com/faturita/faturita.github.io/master/files/response.letter.sample.tex)
 
+
 ## En relación a algunas herramientas
 
 * (https://github.com/HarisIqbal88/PlotNeuralNet): Para hacer gráficos de arquitecturas de redes neuronales.
-* (https://www.mathcha.io/): Excellent tool to get nice latex tikz graphs.
+* (https://www.mathcha.io/): Excelente herramienta para generar gráficos simples, y suficientemente buenos en tikz para Latex.
+* (https://openart.ai/home): Buenísima herramienta generativa para imágenes, a buen precio.
 
 ## En relación a la propia DEFENSA 
 * La presentación es con slides y se muestra en el dia de la defensa.   
