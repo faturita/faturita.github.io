@@ -63,6 +63,7 @@ El informe no tiene que ser ni largo ni corto.  Tiene que ser:
 * Se llama *Síndrome de la Hoja en blanco*: es el efecto de bloquearse cuando hay que escribir todo lo que se hizo para el informe.
 * Dos buenas ideas: (1) arranquen sobre el documento en latex directamente y vayan agregando todas las referencias que fueron encontrando y TIRAN en el texto sin ningún cuidado gramatical una breve oración de lo que esa referencia dice y la citan en el texto.  Lo (2) que pueden hacer es sobre esa hoja en blanco empezar a tirar las ideas directamente, una abajo de la otra, como si fuera un anotador sin sentido.  Lo que importa es empezar a tener la arcilla con la que luego se va a editar, iterar y refinar en pasos sucesivos hasta que se le va dando forma.
 * Pueden encontrar muchos más tips acá: https://www.nature.com/articles/d41586-024-02013-4
+* Excelente guía con 10 reglas para tener en cuenta: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619
 
 
 ## En relación al contenido
