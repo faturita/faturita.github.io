@@ -13,7 +13,7 @@ collection: portfolio
 ## Tips
 
 * El documento en Overleaf/Latex tiene que estar desde el primer día y hay que usarlo como un repositorio de referencias, tirar texto ahí, poner enlaces.  Hay que ir acumulando y documentando todo el material que se va juntando, incluso aquel que no prospera.
-* Prolijo con los datos:  Un entregable de valor en un PF es el/los dataset completo en Cloud Ocean o IEEE Dataport o Kaggle.  Tiene que estar super claro como acceder a los datos, que es lo que contienen y el speech de como fueron tomados.  Esto puede incluir la solicitud al Comité de Etica del Departamento de Investigación y Doctorado de la Universidad, con la aprobación.
+* Prolijo con los datos:   Tiene que estar super claro como acceder a los datos, que es lo que contienen y el speech de como fueron tomados.  Esto puede incluir la solicitud al Comité de Etica del Departamento de Investigación y Doctorado de la Universidad, con la aprobación.
 * Armar scripts basados en esos datos para poder regenerar todos los gráficos.
 * Los gráficos tienen que tener los ejes bien marcados y en tamaños grandes bien visibles, generalmente sin títulos.  Todos los gráficos tienen que ser en formato EPS.
 * Armar un apartado que resuma las contribuciones del trabajo, explicitadas una a una.
@@ -25,6 +25,15 @@ collection: portfolio
 * *Reliability*: Que los resultados o el funcionamiento se sostenga y que no sea producto de azar puro.
 * *Robustness*: Que ese funcionamiento o resultados permitan tolerar argumentos que lo debatan, o en el caso de desarrollos que permitan tolerar pequeñas variaciones en su uso DENTRO del propio alcance.  Por ejemplo, un auto que se detiene repentinamente a los 20 km por hora no es robusto.
 * *Transparency*: que toda la información esté visible, accesible.
+
+## En relación a los Experimentos y los Datos
+* El Informe es muchas veces la única evidencia que queda del trabajo realizado y del proyecto encarado.  Por lo tanto tiene que ofrecer evidencias abundantes para PROBAR que se trabajó, y además probar qué se obtuvo.
+* Los **Experimentos** o las validaciones de funcionamiento, tienen que estar bien claros y determinados.  Tiene que detallarse con precisión quienes son los sujetos y qué y cómo se estudio algo del mundo real. Esto debe incluir la solicitud al Comité de Etica del Departamento de Investigación y Doctorado o similar de la Universidad o institución, con su aprobación.  Por ejemplo, "Los experimentos son el 1,2,3,4 y a continuacón se describen en detalle.". 
+* Un entregable de valor en un PF es el/los dataset completo en un repositorio público de datos como Cloud Ocean o IEEE Dataport o Kaggle.
+* Es importante poder tener no sólo los datos bien resguardados, sino también todos los datos de postcálculo posteriores y también el pipeline de procesamiento y todo el **setup** armado para poder regenerarlo en cualquier momento.  Esto hay que mantenerlo durante todo el proyecto (y después también si el proyecto continúa con una publicación posterior).
+* Incluso en aras de mantener una alta reproducibilidad de los resultados, diferentes revistas científicas obligan a los autores a subir el código a una plataforma como Code Ocean o incluso github.
+* Asociado a los datos, es importante tener resguardados todos los scripts y el pipeline para la generación de los gráficos que explotan justamente esos datos.
+
 
 ## En relación al Informe - ¿Qué cosas NO van?
 * El informe NO ES el Research Proposal que es la propuesta de trabajo.  Es un documento totalmente independiente. Idealmente un buen informe, tiene un título, y el informe habla de ese título y del tema, y el hecho de que se haya usado como una tesis, proyecto final o similar apenas se menciona al principio y nunca más.  Los temas epistemológicos no tienen que estar en el Informe.
