@@ -84,6 +84,13 @@ En la cabeza del lector del Informe, van a aparecer estas preguntas, por lo que 
 * ¿Cómo sigue la cosa después? ¿Qué harían ustedes si tuviesen todo el dinero, tiempo, ganas del mundo para seguir con este proyecto?
 * El título del trabajo, y el alcance, hacen referencia al tema principal que se presenta.  Eso justamente es lo principal y en general es lo que demanda del trabajo mayor atención, reflejada en por ejemplo, cuántas hojas se usan para esa parte.  El resto del contenido está POR Y PARA esa parte.  Por ejemplo, en un trabajo que involucra una implementación de rede neuronales recurrentes para predecir el valor de bitcoin, no tiene sentido en la intro poner 3 carillas de redes convolucionales !
 
+## En relación al ABSTRACT
+El Abstract normalmente se escribe al final.  No es la introducción al tema, eso es justamente la **Introducción**.  El Abstract (o Resumen) es el resumen del trabajo, por lo tanto tiene que detallarle a un lector lo que el trabajo tiene de una manera concisa.  No tiene sentido que sea largo, debe ser corto porque es un TL;DR (Too Long, Don't Read). 
+
+![¿Cómo escribir un Abstract?](/images/natureabstractwriting.png){:height="450px" width="300px"}
+
+El Abstract arranca describiendo el contexto general y de ahí la necesidad puntual **de la humanidad** que este trabajo aborda.  Luego se describe el objetivo que empujó el trabajo, y el detalle metodológico general, enfatizando el aspecto experimental (que experimento se hizo y cómo).  Luego se mencionan los resultados, la frutilla de lo que presenta este trabajo.  Finalmente se establece la conclusión ''che, con esto que hicimos probamos que si juntamos nitrato de potasio, carbón  y azufre la cosa explota'', para finalmente destacar eventualmente las implicancias de eso: ''tendremos fuegos artificiales''.
+
 
 ## En relación a cuando está terminado
 Este es el trabajo final de todo el esfuerzo de toda la carrera.  Se lo quieren sacar de encima, pero que lo que quede en el documento los haga sentir orgullosos y sientan que refleja bien todos estos años de esfuerzo. Una buena manera de pensarlo es si se lo enviarías a un posible empleador en una entrevista, como muestra de cómo podés trabajar. Si esa respuesta es positiva, entonces es porque el trabajo está terminado.
