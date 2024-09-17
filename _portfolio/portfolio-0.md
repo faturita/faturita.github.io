@@ -59,7 +59,7 @@ collection: portfolio
 
 ![Neurotronics](/images/howtowritepaper.png){:height="450px" width="300px"}
 
-## En relación a la propia escritura
+## En relación al Informe - La Escritura
 El informe no tiene que ser ni largo ni corto.  Tiene que ser:
 * *Consistente*: tiene que introducir adecuadamente los términos, conceptos que utiliza ANTES de utilizarlos.  Por ejemplo, si detalla un método de procesar señales, antes tiene que hablar de qué son esas señales.
 * *Autocontenido*: que puede leerse de principio a fin dejando claro el mensaje que intenta transmitir sin tener que forzar al lector obligatoriamente a leer otra cosa.  Por ejemplo, si el mensaje es sobre un nuevo método para resolver un problema de optimización, entonces los problemas de optimización merecen bastante lugar dentro del informe, no se pueden explicar en una linea.
@@ -67,7 +67,7 @@ El informe no tiene que ser ni largo ni corto.  Tiene que ser:
 * *Resonante*: que se encuentre pertinente en el tiempo y en el espacio donde se crea, que aborde los problemas actuales y relevantes.
 * *Estilo*: Todo esto lo pueden tener manteniendo el estilo que ustedes quieran: (https://www.lastwordonnothing.com/2015/02/05/ye-olde-scientific-writing/), o esto https://gjsd.gile-edu.org/index.php/home/article/view/7-donald-duck-141-145.
 
-## En relación al proceso de escritura
+## En relación al Informe - El Proceso de Escritura
 
 * Se llama *Síndrome de la Hoja en blanco*: es el efecto de bloquearse cuando hay que escribir todo lo que se hizo para el informe.
 * Dos buenas ideas: (1) arranquen sobre el documento en latex directamente y vayan agregando todas las referencias que fueron encontrando y TIRAN en el texto sin ningún cuidado gramatical una breve oración de lo que esa referencia dice y la citan en el texto.  Lo (2) que pueden hacer es sobre esa hoja en blanco empezar a tirar las ideas directamente, una abajo de la otra, como si fuera un anotador sin sentido.  Lo que importa es empezar a tener la arcilla con la que luego se va a editar, iterar y refinar en pasos sucesivos hasta que se le va dando forma.
@@ -75,7 +75,7 @@ El informe no tiene que ser ni largo ni corto.  Tiene que ser:
 * Excelente guía con 10 reglas para tener en cuenta: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619
 
 
-## En relación al contenido
+## En relación al Informe - El Contenido
 En la cabeza del lector del Informe, van a aparecer estas preguntas, por lo que el informe tiene que en algún punto abordar alguna respuesta.
 * ¿De qué se trata el trabajo? ¿Qué es lo que puntualmente quieren resolver, cuál es el problema principal?  Yo no sé NADA de este tema que presentan, denme una mini intro general para que entienda y denme referencias para aprender más o ver el detalle.
 * ¿Cómo es lo que están presentando? ¿De qué se trata el método, algoritmo, solución, etc? ¿O qué es lo que quieren saber que hoy no se sabe?
@@ -84,7 +84,7 @@ En la cabeza del lector del Informe, van a aparecer estas preguntas, por lo que 
 * ¿Cómo sigue la cosa después? ¿Qué harían ustedes si tuviesen todo el dinero, tiempo, ganas del mundo para seguir con este proyecto?
 * El título del trabajo, y el alcance, hacen referencia al tema principal que se presenta.  Eso justamente es lo principal y en general es lo que demanda del trabajo mayor atención, reflejada en por ejemplo, cuántas hojas se usan para esa parte.  El resto del contenido está POR Y PARA esa parte.  Por ejemplo, en un trabajo que involucra una implementación de rede neuronales recurrentes para predecir el valor de bitcoin, no tiene sentido en la intro poner 3 carillas de redes convolucionales !
 
-## En relación al ABSTRACT
+## En relación al Informe - El ABSTRACT
 El Abstract normalmente se escribe al final.  No es la introducción al tema, eso es justamente la **Introducción**.  El Abstract (o Resumen) es el resumen del trabajo, por lo tanto tiene que detallarle a un lector lo que el trabajo tiene de una manera concisa.  No tiene sentido que sea largo, debe ser corto porque es un TL;DR (Too Long, Don't Read). 
 
 ![¿Cómo escribir un Abstract?](/images/natureabstractwriting.jpeg){:height="450px" width="300px"}
@@ -111,7 +111,9 @@ En general se suele seguir un modelo de respuestas similar a   [este](https://ra
 * (https://www.mathcha.io/): Excelente herramienta para generar gráficos simples, y suficientemente buenos en tikz para Latex.
 * (https://openart.ai/home): Buenísima herramienta generativa para imágenes, a buen precio.
 
-## En relación a la propia DEFENSA 
+## En relación a la DEFENSA 
+Una vez entregado el Informe, aplicadas las devoluciones de los jurados, se hace una defensa, también llamada VIVA, donde los tesistas defienden su trabajo ante sus tutores, sus jurados, y el público eventualmente.  Para ello elaboran una presentación que luego culmina con un espacio de Q&A.
+
 * La presentación es con slides y se muestra en el dia de la defensa.   
 * Una presentación de 40 minutos es siempre más que suficiente.
 * Es importante que sea concreta, acotada al tiempo (super importante), que sean claros con el mensaje que dan.  Que muestren el trabajo que hicieron, que muestre el esfuerzo.
