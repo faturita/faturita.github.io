@@ -6,7 +6,26 @@ tags:
   - mobile
 ---
 
-Aprendizaje automático, avance de la frontera digital.
+# TL;DR
+
+Estas son todas las clases: https://www.youtube.com/playlist?list=PLJHMIS4ekxNRJlqsVzpmh6pWqBsI2FOGd
+
+El repo de la materia al que les acabo de dar acceso (solo para sus ojos): https://bitbucket.org/itba/sia-2020/
+* Neurotronics(https://youtu.be/xYMkff8yTp0):  Esto te puede servir para ver una intro a temas de biología (la inspiración de redes neuronales).
+* Scientific Data and Time Series(https://youtu.be/3tur13do_8Y):  Una introducción a cómo procesar series de tiempo con una visión muy desde el área de aprendizaje automático.  Es muy de nicho enfocado en procesamiento de datos de Neuro (EEG ECoG sobre todo).
+* Scientific Time Series(https://youtu.be/wIxdcJSREuo): Un resumen tipo cheatsheet con la teoría detrás de esto.
+* Descripción del Repo Python-Scientific(https://youtu.be/t-iyhEC2ewQ):  Esto es una guía por si querés clonarte ese repo para trabajar con temas de procesamiento de señales.  Por ahí no lo necesitas ahora.
+* Python-Scientific: Walkthrough 1(https://youtu.be/qibkedSQoek): Paso a paso de una recorrida por el código.  
+* Python-Scientific: Walkthrough 2(https://youtu.be/U75ALTYedhE): Continuación.
+* Optimización No Lineal (https://www.youtube.com/watch?v=le3o5ntjkfg): Clase de Juan/Juliana sobre el tema.
+* Guía de Deep Learning 1(https://youtu.be/htp8VifLrL8): Intro a Deep Learning 1
+* Deep Learning 2(https://youtu.be/OfcddWfDGAw) : La segunda parte
+* Redes Convolucionales(https://youtu.be/0BKZtpzf4LE): Una guía e intro sobre qué son las redes convolucionales.
+* Transformers (https://www.youtube.com/watch?v=LI4lFz6sLUo): clase buenísima de Eugenia.
+* GANs (https://www.youtube.com/watch?v=bt6T6-JY7LY): Clase de Marina y Francisco sobre GANs.
+* Autoencoder (https://www.youtube.com/watch?v=bDzC0vlN8C4): Clase de Autoencoders lineales.
+* Autoencoder Variacionales (https://www.youtube.com/watch?v=VHVUKNbBR_Q): VAE en más detalle.
+
 
 # Aprendizaje Automático
 
