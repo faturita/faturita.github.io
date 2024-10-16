@@ -9,7 +9,7 @@ collection: portfolio
 
 ## Description
 
-This is a very basic 6-DOF DIY manipulator.  It is currently prototyped with aluminium rods from Makeblock.  It has the typical configuration of the old PUMA manipulator. 
+This is a very basic prototype of a 6-DOF DIY manipulator.  It is currently prototyped with aluminium rods from Makeblock.  It has the typical configuration of the old PUMA manipulator. 
 
 * 1st Joint: Vertical, axial with the whole arm. 12 V DC motor with a 20 step encoder.
 * 2nd Joint: On X axis, 12 V DC motor with a 20 step encoder. 
@@ -20,16 +20,30 @@ This is a very basic 6-DOF DIY manipulator.  It is currently prototyped with alu
 
 ## Goals
 
-* Testbed
-* Test RL scenarios, particularly Meta World Dataset tasks, implemented in the real world.
+* Manipulator Testbed
+* Test Eye-Hand coordination.
+* Test RL scenarios, particularly Meta World Dataset tasks, transfered into the real world.
 
 ## Methodology
 
 First complete the basic testbed.  There are several things missing from the manipulator.  For instance, current encoders are very coarse and should be improved in terms of precision.  There are also several aspects of the manipulator that can be improved like the connection between the first joint and the rest of the arm. 
 
-## Scope
 
-Improve the maniupulator, train any model on Meta World, and port that into the real manipulator.
+## TODO List
+* Improve the current motor driver to allow better handling of input messages.
+* Improve the motor driver message protocol.
+* Put in place the code to handle the frequency update and the reception of the state of the arm.
+* Use trajectory planning to update the setpoint for each joint.
+* Add IMUs on the end effector.
+* Add sensors on the grip to allow better gripping.
+* Calculate the forward kinematics and inverse kinematics.
+* Build a power source.
+* Change completely the mechanics.
+* Soft robotics on the grip.
+* Use CV from a RPi or Jetson Nano to identify the position of an object and handle the manipulator to pick it up (eye-hand coordination)
+
 
 ## Links
 * Repository: https://github.com/faturita/MotorUnitBot
+* MetaWorld Challenge: https://meta-world.github.io/
+* Related paper: https://arxiv.org/abs/2407.21546
