@@ -30,8 +30,8 @@ This is a very basic prototype of a 6-DOF DIY manipulator.  It is currently prot
 
 First complete the basic testbed.  There are several things missing from the manipulator.  For instance, current encoders are very coarse and should be improved in terms of precision.  There are also several aspects of the manipulator that can be improved like the connection between the first joint and the rest of the arm. 
 
+## TODO List
 
-## TODO List
 * Improve the current motor driver to allow better handling of input messages.
 * Improve the motor driver message protocol.
 * Put in place the code to handle the frequency update and the reception of the state of the arm.
@@ -45,7 +45,8 @@ First complete the basic testbed.  There are several things missing from the man
 * Use CV from a RPi or Jetson Nano to identify the position of an object and handle the manipulator to pick it up (eye-hand coordination)
 
 
-## Links
+## Links
+
 * Repository: https://github.com/faturita/MotorUnitBot
 * MetaWorld Challenge: https://meta-world.github.io/
 * Related paper: https://arxiv.org/abs/2407.21546
