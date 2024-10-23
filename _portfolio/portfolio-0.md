@@ -45,6 +45,8 @@ collection: portfolio
 * Secciones:
     * Abstract: El abstract se escribe AL FINAL y es un resumen en un párrafo chiquito (no más de 200 palabras) de lo que el trabajo hace, destacando el problema general (porque se hace esto), como se aborda resolver ese problema, y que se concluye al final.
     * Introducción: va desde lo general, desde los problemas de la humanidad, haciendose cada vez más específico hasta plantear el problema que existe, que no fue resuelto por nadie, y que este trabajo viene a solucionar.  Al final requiere poner contribuciones/objetivos.  Después un walkthrough que detalle que es lo que hay en cada parte del propio informe.
+    * Background:  en esta parte se introduce al lector los temas necesarios para que pueda entender de que se trata el tema presentado.  Esto es explicar los temas de base, con citas y referencias, y por supuesto siempre alrededor del problema abordado en el trabajo.   ¿Qué hay que saber para entender esto?
+    * State-Of-The-Art:  esto es el SOTA, el "literature review".  En esta parte se describen los trabajos de la literatura que quieren, más o menos, hacer lo mismo que se presenta en este trabajo.  Es la descripción de los trabajos que son competidores con este trabajo.
     * Materials and Methods: Esta sección, generalmente en capítulos describen el meollo de la solución.  Cómo se intenta responder a las preguntas establecidas en la introducción.  Si hay experimentos, se describen los mismos.  Cuanto más reproducible sea la descripción, en general se considera más formal.
     * Results: Se muestran los resultados obtenidos.
     * Discussion: Se discuten y se explican los resultados obtenidos.  Esta sección suele estar mezclada con la anterior en una sola.
