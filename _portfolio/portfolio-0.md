@@ -26,14 +26,17 @@ collection: portfolio
 * *Robustness*: Que ese funcionamiento o resultados permitan tolerar argumentos que lo debatan, o en el caso de desarrollos que permitan tolerar pequeñas variaciones en su uso DENTRO del propio alcance.  Por ejemplo, un auto que se detiene repentinamente a los 20 km por hora no es robusto.
 * *Transparency*: que toda la información esté visible, accesible.
 
-## En relación a los Experimentos y los Datos
+## En relación a los Experimentos, los Datos y las Figuras
 * El Informe es muchas veces la única evidencia que queda del trabajo realizado y del proyecto encarado.  Por lo tanto tiene que ofrecer evidencias abundantes para PROBAR que se trabajó, y además probar qué se obtuvo.
 * Los **Experimentos** o las validaciones de funcionamiento, tienen que estar bien claros y determinados.  Tiene que detallarse con precisión quienes son los sujetos y qué y cómo se estudio algo del mundo real. Esto debe incluir la solicitud al Comité de Etica del Departamento de Investigación y Doctorado o similar de la Universidad o institución, con su aprobación.  Por ejemplo, "Los experimentos son el 1,2,3,4 y a continuacón se describen en detalle.". 
 * Un entregable de valor en un PF es el/los dataset completo en un repositorio público de datos como Cloud Ocean o IEEE Dataport o Kaggle.
 * Es importante poder tener no sólo los datos bien resguardados, sino también todos los datos de postcálculo posteriores y también el pipeline de procesamiento y todo el **setup** armado para poder regenerarlo en cualquier momento.  Esto hay que mantenerlo durante todo el proyecto (y después también si el proyecto continúa con una publicación posterior).
 * Incluso en aras de mantener una alta reproducibilidad de los resultados, diferentes revistas científicas obligan a los autores a subir el código a una plataforma como Code Ocean o incluso github.
-* Asociado a los datos, es importante tener resguardados todos los scripts y el pipeline para la generación de los gráficos que explotan justamente esos datos.
+* Es importante tener resguardados todos los scripts y el pipeline para la generación de los gráficos que explotan justamente esos datos.
+* Las figuras son clave, porque es la manera más concreta de transmitir información compleja.
+* Tienen que poder leerse bien los ejes de la figuras, con un font grande que pueda leerse.
 
+![Neurotronics](/images/designprinciples.png){:height="450px" width="300px"}
 
 ## En relación al Informe - ¿Qué cosas NO van?
 * El informe NO ES el Research Proposal que es la propuesta de trabajo.  Es un documento totalmente independiente. Idealmente un buen informe, tiene un título, y el informe habla de ese título y del tema, y el hecho de que se haya usado como una tesis, proyecto final o similar apenas se menciona al principio y nunca más.  Los temas epistemológicos no tienen que estar en el Informe.
