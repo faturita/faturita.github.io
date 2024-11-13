@@ -34,7 +34,7 @@ collection: portfolio
 * Incluso en aras de mantener una alta reproducibilidad de los resultados, diferentes revistas científicas obligan a los autores a subir el código a una plataforma como Code Ocean o incluso github.
 * Es importante tener resguardados todos los scripts y el pipeline para la generación de los gráficos que explotan justamente esos datos.
 * Las figuras son clave, porque es la manera más concreta de transmitir información compleja.
-* Tienen que poder leerse bien los ejes de la figuras, con un font grande que pueda leerse.
+* Tienen que poder leerse bien los ejes de la figuras, con un font grande que pueda leerse (ver principios de diseño de Amanda Heidt)
 
 ![Neurotronics](/images/designprinciples.png){:height="450px" width="300px"}
 
@@ -63,6 +63,9 @@ collection: portfolio
 * El siguiente gráfico muestra bien los pasos necesarios para escribir un paper, que son similares a los necesarios para el trabajo
 
 ![Neurotronics](/images/howtowritepaper.png){:height="450px" width="300px"}
+
+## En relación al Informe - La plataforma
+Hay que usar Latex.  Cualquier otra cosa merece el quinto anillo.  Cuando arrancan el proyecto van a arrancar con un template básico en Latex sobre la plataforma de Overleaf.  La curva de aprendizaje es compleja, pero el documento sale perfecto y Latex fuerza a escribir de una manera particular.  Elimina más fácilmente vicios que en otra plataforma son naturales.  Pueden utilizar esta guía también excelente https://github.com/guanyingc/latex_paper_writing_tips.
 
 ## En relación al Informe - La Escritura
 El informe no tiene que ser ni largo ni corto.  Tiene que ser:

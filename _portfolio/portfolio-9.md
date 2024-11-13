@@ -1,5 +1,5 @@
 ---
-title: "SAR Q.Bo for Gerontology"
+title: "SAR Tooly for Gerontology"
 excerpt: "Robotic Platform for Gerontology"
 collection: portfolio
 ---
