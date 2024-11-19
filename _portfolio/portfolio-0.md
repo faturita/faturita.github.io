@@ -117,6 +117,7 @@ En general se suele seguir un modelo de respuestas similar a   [este](https://ra
 
 * (https://github.com/HarisIqbal88/PlotNeuralNet): Para hacer gráficos de arquitecturas de redes neuronales.
 * (https://www.mathcha.io/): Excelente herramienta para generar gráficos simples, y suficientemente buenos en tikz para Latex.
+* (https://ipe-web.otfried.org/index.html): Creación de elementos gráficos para Latex
 * (https://openart.ai/home): Buenísima herramienta generativa para imágenes, a buen precio.
 
 ## En relación a la DEFENSA 

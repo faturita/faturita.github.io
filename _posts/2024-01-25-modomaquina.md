@@ -6,11 +6,21 @@ tags:
   - mobile
 ---
 
+This is the final guide to Machine Learning !!!!
+
+# Preliminares
+* [Mathematics for Machine Learning de Garret Thomas](https://gwthomas.github.io/docs/math4ml.pdf): Excelente Resumen paso a paso de matemáticas para ML.  Esto sirve para aquellos que busquen un repaso de algebra lineal, calculo multivariado, proba, etc.
+* [Mathematics for Machine Learning, Diesendorth](https://mml-book.github.io/): Idem anterior, un poco más formal.  Hiper actualizado.
+* [Introduction to Applied Linear Algebra](https://www.amazon.com/Introduction-Applied-Linear-Algebra-Matrices/dp/1316518965):  algebra lineal aplicada, con foco en las técnicas que se usan en ML. 
+* [A beginner guide to neural network mathematics](https://nms.kcl.ac.uk/ton.coolen/published/1998/summerschool98.pdf):  Detrás del aprendizaje en las redes neuronales, están las ténicas de optimizació.  Este libro tiene todo lo que hace falta para entender esas técnicas de optimización detrás de las redes neuronales.
+* [Linear algebra for Computer Vision](https://www.seas.upenn.edu/~cis515/linalg-I.pdf): Extraordinario resumen de la matemática que se usa en CV.
+* Linear algebra and optimization for machine learning(Charu Aggarwal): Buenísimo libro, el autor es hiper didáctico.
+
+
 # TL;DR
 
 Estas son todas las clases: https://www.youtube.com/playlist?list=PLJHMIS4ekxNRJlqsVzpmh6pWqBsI2FOGd
 
-El repo de la materia al que les acabo de dar acceso (solo para sus ojos): https://bitbucket.org/itba/sia-2020/
 * Neurotronics(https://youtu.be/xYMkff8yTp0):  Esto te puede servir para ver una intro a temas de biología (la inspiración de redes neuronales).
 * Scientific Data and Time Series(https://youtu.be/3tur13do_8Y):  Una introducción a cómo procesar series de tiempo con una visión muy desde el área de aprendizaje automático.  Es muy de nicho enfocado en procesamiento de datos de Neuro (EEG ECoG sobre todo).
 * Scientific Time Series(https://youtu.be/wIxdcJSREuo): Un resumen tipo cheatsheet con la teoría detrás de esto.
@@ -25,21 +35,6 @@ El repo de la materia al que les acabo de dar acceso (solo para sus ojos): http
 * GANs (https://www.youtube.com/watch?v=bt6T6-JY7LY): Clase de Marina y Francisco sobre GANs.
 * Autoencoder (https://www.youtube.com/watch?v=bDzC0vlN8C4): Clase de Autoencoders lineales.
 * Autoencoder Variacionales (https://www.youtube.com/watch?v=VHVUKNbBR_Q): VAE en más detalle.
-
-
-# Aprendizaje Automático
-
-* [El Drive de ML](https://drive.google.com/file/d/1sJvLQwxMyu89t2z4Zf9tD7O7efnbIUyB/view)
-
-
-# Preliminares
-* [Mathematics for Machine Learning de Garret Thomas](https://gwthomas.github.io/docs/math4ml.pdf): Excelente Resumen paso a paso de matemáticas para ML.  Esto sirve para aquellos que busquen un repaso de algebra lineal, calculo multivariado, proba, etc.
-* [Mathematics for Machine Learning, Diesendorth](https://mml-book.github.io/): Idem anterior, un poco más formal.  Hiper actualizado.
-* [Introduction to Applied Linear Algebra](https://www.amazon.com/Introduction-Applied-Linear-Algebra-Matrices/dp/1316518965):  algebra lineal aplicada, con foco en las técnicas que se usan en ML. 
-* [A beginner guide to neural network mathematics](https://nms.kcl.ac.uk/ton.coolen/published/1998/summerschool98.pdf):  Detrás del aprendizaje en las redes neuronales, están las ténicas de optimizació.  Este libro tiene todo lo que hace falta para entender esas técnicas de optimización detrás de las redes neuronales.
-* [Linear algebra for Computer Vision](https://www.seas.upenn.edu/~cis515/linalg-I.pdf): Extraordinario resumen de la matemática que se usa en CV.
-* Linear algebra and optimization for machine learning(Charu Aggarwal): Buenísimo libro, el autor es hiper didáctico.
-
 
 
 ## Algunos temas de matemáticas específicos
