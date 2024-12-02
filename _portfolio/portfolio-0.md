@@ -46,15 +46,15 @@ collection: portfolio
 ## En relación al Informe - ¿De qué SI se trata?
 * Como pensarlo:  una manera es pensar una pregunta e intentar que el informe la responda, en sus propios términos. Así entonces, al informe hay que considerarlo como lo que saldría en google cuando alguién hace esa pregunta.  El informe contesta esa pregunta.
 * Secciones:
-    * Abstract: El abstract se escribe AL FINAL y es un resumen en un párrafo chiquito (no más de 200 palabras) de lo que el trabajo hace, destacando el problema general (porque se hace esto), como se aborda resolver ese problema, y que se concluye al final.
-    * Introducción: va desde lo general, desde los problemas de la humanidad, haciendose cada vez más específico hasta plantear el problema que existe, que no fue resuelto por nadie, y que este trabajo viene a solucionar.  Al final requiere poner contribuciones/objetivos.  Después un walkthrough que detalle que es lo que hay en cada parte del propio informe.
-    * Background:  en esta parte se introduce al lector los temas necesarios para que pueda entender de que se trata el tema presentado.  Esto es explicar los temas de base, con citas y referencias, y por supuesto siempre alrededor del problema abordado en el trabajo.   ¿Qué hay que saber para entender esto?
-    * State-Of-The-Art:  esto es el SOTA, el "literature review".  En esta parte se describen los trabajos de la literatura que quieren, más o menos, hacer lo mismo que se presenta en este trabajo.  Es la descripción de los trabajos que son competidores con este trabajo.
-    * Materials and Methods: Esta sección, generalmente en capítulos describen el meollo de la solución.  Cómo se intenta responder a las preguntas establecidas en la introducción.  Si hay experimentos, se describen los mismos.  Cuanto más reproducible sea la descripción, en general se considera más formal.
-    * Results: Se muestran los resultados obtenidos.
-    * Discussion: Se discuten y se explican los resultados obtenidos.  Esta sección suele estar mezclada con la anterior en una sola.
-    * Conclussions: Se detallan las conclusiones en base a información aportada por este trabajo.
-    * Future Work: Se detalla como se continuaría el trabajo de contar con tiempo infinito.
+    * **Abstract**: El abstract se escribe AL FINAL y es un resumen en un párrafo chiquito (no más de 200 palabras) de lo que el trabajo hace, destacando el problema general (porque se hace esto), como se aborda resolver ese problema, y que se concluye al final.
+    * **Introducción**: va desde lo general, desde los problemas de la humanidad, haciendose cada vez más específico hasta plantear el problema que existe, que no fue resuelto por nadie, y que este trabajo viene a solucionar.  Al final requiere poner contribuciones/objetivos.  Después un walkthrough que detalle que es lo que hay en cada parte del propio informe.
+    * **Background**:  en esta parte se introduce al lector los temas necesarios para que pueda entender de que se trata el tema presentado.  Esto es explicar los temas de base, con citas y referencias, y por supuesto siempre alrededor del problema abordado en el trabajo.   ¿Qué hay que saber para entender esto?
+    * **State-Of-The-Art**:  esto es el SOTA, el "literature review".  En esta parte se describen los trabajos de la literatura que quieren, más o menos, hacer lo mismo que se presenta en este trabajo.  Es la descripción de los trabajos que son competidores con este trabajo.
+    * **Materials and Methods**: Esta sección, generalmente en capítulos describen el meollo de la solución.  Cómo se intenta responder a las preguntas establecidas en la introducción.  Si hay experimentos, se describen los mismos.  Cuanto más reproducible sea la descripción, en general se considera más formal.
+    * **Results**: Se muestran los resultados obtenidos.
+    * **Discussion**: Se discuten y se explican los resultados obtenidos.  Esta sección suele estar mezclada con la anterior en una sola.
+    * **Conclussions**: Se detallan las conclusiones en base a información aportada por este trabajo.
+    * **Future Work**: Se detalla como se continuaría el trabajo de contar con tiempo infinito.
 * Cada vez que se pone un gráfico hay que explicarlo y tiene que tener una razón para estar ahí.  Gráficos de relleno no sirven para nada.  No está bueno poner capturas de salidas de pantalla, a no ser que sea estrictamente importante.
 * Cada vez que se menciona algo que existe, hay que citarlo.
 * En el informe no van las actividades que se hicieron para construir el informe.
@@ -66,6 +66,11 @@ collection: portfolio
 
 ## En relación al Informe - La plataforma
 Hay que usar Latex.  Cualquier otra cosa merece el quinto anillo.  Cuando arrancan el proyecto van a arrancar con un template básico en Latex sobre la plataforma de Overleaf.  La curva de aprendizaje es compleja, pero el documento sale perfecto y Latex fuerza a escribir de una manera particular.  Elimina más fácilmente vicios que en otra plataforma son naturales.  Pueden utilizar esta guía también excelente https://github.com/guanyingc/latex_paper_writing_tips.
+
+## En relación al Informe - La búsqueda bibliográfica
+La búsqueda bibliográfica o armado del SOTA, **State of the Art** implica recorrer las bases de datos bibliográficas buscando proyectos que sean COMPETIDORES del que se está construyendo, en menor o mayor medida.  Tratar de entender dónde está el mundo en relación a este problema, y en base a eso qué lugar ocupará esta investigación/informe.  Esta es una búsqueda compleja porque en el límite de la ciencia, que es justamente donde cualesquiera de estos trabajos idealmente gustaría ocupar, la nomeclatura no está acordada y las cosas se suelen llamar de muchas maneras diferentes.  La clave está en identificar buenos keywords que ayuden a ir acercando el concepto lo más posible.  La mejor herramienta actualmente es scholar.google.com.  Primero hay que tratar de buscar algún buen REVIEW del tema.  Estos son artículos especiales que justamente hacen una revisión del estado del arte en el tema.  Y desde ahí ir para atrás y para adelante en relación a las citas.  Google scholar permite ver los papers que son citados por un artículo así también los paper que cita, con lo cual de los review se pueden ir buscando los papers más importantes hacía atrás y lo más recientes hacia adelante (que por lo general van a referenciar algún buen review).  Otras herramientas excelentes para buscar información bibliográfica es: Web of Science o Scopus (si tenés acceso), https://www.semanticscholar.org/,https://www.undermind.ai/home/, https://consensus.app/,https://openalex.org/, con estas últimas haciendo uso de modelos de lenguaje de IA.
+
+
 
 ## En relación al Informe - La Escritura
 El informe no tiene que ser ni largo ni corto.  Tiene que ser:
