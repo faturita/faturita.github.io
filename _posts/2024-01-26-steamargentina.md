@@ -27,9 +27,8 @@ Existen también cursos puntuales, de un día de duración, o de dos o tres día
 * [TUMO](https://www.cronista.com/economia-politica/centros-tumo-programacion-y-robotica-las-claves-del-nuevo-sistema-educativo-en-caba/)  Tumo es una propuesta internacional de actividades extracurriculares orientadas a STEAM que está siendo promovida por el gobierno de la ciudad de buenos aires.  Hay tres centros y activos y algunos más en construcción.
 
 En Argentina también existen algunos (lamentablemente aún pocos) espacios abiertos de innovación e intercambio, pensados para que cualquier persona, incluyendo chicos, se reunan justamente con la idea de materializar sus proyectos.  Se denominan Hackerspaces .  Similares a talleres de cerámica o de pintura, pero orientados a temas de tecnología, robótica, etc.  Hay en muchas ciudades del mundo, con este mismo espíritu. Hasta hace un año no había en Buenos Aires, o no estaban muy difundidos, pero algunos remanentes son:
-
-* [https://laboratoriodejuguete.com/acerca-de/]
-* [https://rlab.be/como-llegar/]
+* [Laboartorio del Juguete](https://laboratoriodejuguete.com/acerca-de/)
+* [RLAB](https://rlab.be/como-llegar/)
 
 STEM es una disciplina en auge en el mundo, por lo que hay varias empresas que se dedican específicamente a construir equipamiento y kits para llevarlos adelante.  Makeblock es una empresa China que está desembarcando en Argentina y que fabrica piezas de extrusiones de aluminio de alta calidad para la fabricación de los robots.
 Makeblock organiza internacionalmente este tipo de cursos.  Tienen unos robots llamados Codey&Rocky que son específico para chicos de primaria.  El tema es que esta empresa es muy grande y le rinde cuando es un colegio grande que se suma.  Ellos actualmente en Argentina están haciendo poco.
@@ -47,7 +46,7 @@ Qué comprar:
 
 Donde se consiguen en Argentina:
 
-* Mercado Libre
+* Mercado Libre: hay de todo.  Buscarlos como "Robótica Kit","Arduino Kit Básico IoT", "Makeblock Kit".
 * [PatagoniaTec](www.patagoniatec.com.ar)
 * [OpenHacks](www.openhacks.com.ar)
 * [RobotShop](https://www.robotshop.com): Tienda internacional con cientos de kits específicos para alumnos primarios/secundarios.  
