@@ -19,6 +19,11 @@ collection: portfolio
 * Armar un apartado que resuma las contribuciones del trabajo, explicitadas una a una.
 * Las fotos tienen que tener la cara tapada, buena iluminación, mostrar los elementos importantes destacados de forma que se visualicen de manera correcta.
 
+## En relación a las Iteraciones
+* No tiene sentido empezar todo de cero todo el tiempo.  Por eso, siempre es mejor **construir sobre los hombros de los gigantes** y avanzar en iteraciones trabajos previos haciendo aportes.
+* Pero el trabajo realizado tiene que ser AUTOCONTENIDO.  Es decir, debe establecer claramente el objetivo y el alcance, dentro del marco de un proyecto más abarcativo y a largo plazo, y ofrecer todo lo necesario para que sea comprensible en sí mismo.  Esto siempre es posible.
+* Por ejemplo, los trabajos no pueden tener como título "Proyecto 2", sino que tienen que centrarse en cuál fue el aporte implementado en esa iteración.  Esto jerarquiza además al trabajo y le da su justa medida en relación a los aportes, además de que lo focaliza y ayuda a que el informe, que es la evidencia de todo el trabajo realizado, tenga un estructura mucho más adecuada.
+
 ## En relación al Trabajo
 * Cuatro palabras: Rigor, reliability, robustness, and transparency
 * *Rigor*: Se refiere a que el trabajo no saltee paso, no corner-cut (o si lo hace que lo aclare como limitación).
