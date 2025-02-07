@@ -6,9 +6,6 @@ collection: portfolio
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6826133081758408704" height="879" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6826133081758408704" height="879" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_1rzOGQBSo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
