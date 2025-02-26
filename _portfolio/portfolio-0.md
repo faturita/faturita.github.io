@@ -127,6 +127,7 @@ En general se suele seguir un modelo de respuestas similar a [este](https://raw.
 
 * [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet): Para hacer gráficos de arquitecturas de redes neuronales.
 * [MatchaIO](https://www.mathcha.io/): Excelente herramienta para generar gráficos simples, y suficientemente buenos en tikz para Latex.
+* [IPE-Web](https://ipe-web.otfried.org/index.html) Excelente para edición de gráficos también para Latex.
 * [Latex UI Elements](https://ipe-web.otfried.org/index.html): Creación de elementos gráficos para Latex
 * [OpenArt](https://openart.ai/home): Buenísima herramienta generativa para imágenes, a buen precio.
 
@@ -170,10 +171,17 @@ Una vez entregado el Informe, aplicadas las devoluciones de los jurados, se hace
    * Do not confuse "imply" to "infer"
    * Non is not a word, then it should be joined to the word it modifies without a hyphen (because the hyphen is used to create words based on two or more already existing words).
    
-## Disclaimer Final
+## En relación al Disclaimer Final
 
 Este tipo de proyectos requieren ciertas características en cuánto a las intenciones del equipo de trabajo que lo van a llevar adelante.
 
 * Si lo que quieren es sacarse la materia de encima, NO HAGAN NI SE EMBARQUEN EN ESTOS PROYECTOS.
 * Tienen que tener ganas de hacerlo, les tiene que copar.  Hay que aprender temas nuevos, quizás hasta incluso alejados del área específica de cada uno.  Por lo tanto, para que funcione eso, es importante que haya una buena motivación para encarar el tema.
 * Es importante que el grupo de trabajo tenga una buena dinámica y empuje el tema por motus propia.  Las tesis o proyectos finales son proyectos de alumnos que requieren que los administren de manera adecuada ejecutandolos.
+
+## En relación a las Referencias y a Ver Más
+
+* Rocco S., Hatcher T., 2011, "The handbook of scholarly writing and publishing"
+* Samaja J., 1999, "Epistemología y Metodología"
+* Osmond A., 2013, "Academic Writing and Grammar for Students"
+* Gastel B., Day R.A., "How to Write and Publish a Scientific Paper"
