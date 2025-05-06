@@ -1,6 +1,6 @@
 ---
-title: "JS"
-excerpt: "Robotic platform to study young toddlers behaviour"
+title: "MIA"
+excerpt: "Robotic Platform to Study Affective Perception of Children"
 collection: portfolio
 ---
 
@@ -17,7 +17,7 @@ During several open-campus presentations we were surprised how kids reacted to s
 
 Then the following question was posed: Is there a set of behaviours that are universally understood in a small robot-pet by kids that carry affective information?
 
-This project aims to create a platform to perform experiments to study this question and how to characterize a robot-pet to achieve different reactions on kids, and concordently to study how kids react pet-robots and to ECAs (Embodied Conversational Agent)s.
+This project, MIA Movement to Inspire Affection, aims to explore Human Robot Interaction from the perspective of the Theory of Mind and the Animism, the children understanding of what other entities might be thinking and feeling, and their assumption of objects to being alive.  We also explore the ideas of kinesics and proxemics, on how to communicate messages by non-verbal movements and actions.
 
 ## Methodology
 

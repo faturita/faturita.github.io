@@ -75,6 +75,17 @@ Hay que usar Latex.  Cualquier otra cosa merece el quinto anillo.  Cuando arranc
 ## En relación al Informe - La búsqueda bibliográfica
 La búsqueda bibliográfica o armado del SOTA, **State of the Art** implica recorrer las bases de datos bibliográficas buscando proyectos que sean COMPETIDORES del que se está construyendo, en menor o mayor medida.  Tratar de entender dónde está el mundo en relación a este problema, y en base a eso qué lugar ocupará esta investigación/informe.  Esta es una búsqueda compleja porque en el límite de la ciencia, que es justamente donde cualesquiera de estos trabajos idealmente gustaría ocupar, la nomeclatura no está acordada y las cosas se suelen llamar de muchas maneras diferentes.  La clave está en identificar buenos keywords que ayuden a ir acercando el concepto lo más posible.  La mejor herramienta actualmente es [Google Scholar](https://scholar.google.com).  Primero hay que tratar de buscar algún buen REVIEW del tema.  Estos son artículos especiales que justamente hacen una revisión del estado del arte en el tema.  Y desde ahí ir para atrás y para adelante en relación a las citas.  Google scholar permite ver los papers que son citados por un artículo así también los paper que cita, con lo cual de los review se pueden ir buscando los papers más importantes hacía atrás y lo más recientes hacia adelante (que por lo general van a referenciar algún buen review).  [PubMed](https://pubmed.ncbi.nlm.nih.gov/) es otra base de datos importante porque identifica aquellos trabajos científicos que tienen relevancia médica. Otras herramientas excelentes para buscar información bibliográfica es: Web of Science o Scopus (si tenés acceso), [ResearchGate](https://researchgate.net), [Semantic Scholar](https://www.semanticscholar.org/) ,[Undermind](https://www.undermind.ai/home/), [Consensus](https://consensus.app/),[OpenAlex](https://openalex.org/), con estas últimas haciendo uso de modelos de lenguaje de IA.  Si buscan papers de [ArXiv](https://arxiv.org/) fijense los comentarios en [AlphaXiv](https://alphaxiv.org).
 
+En resumen,
+
+* [Google Scholar](https://scholar.google.com)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
+* [ResearchGate](https://researchgate.net)
+* [Semantic Scholar](https://www.semanticscholar.org/)
+* [Undermind](https://www.undermind.ai/home/)
+* [Consensus](https://consensus.app/)
+* [Open Alex](https://openalex.org): Base de datos de papers con sus métricas.
+* [ArXiv](https://arxiv.org/): Repositorio de preprints. Muchos papers de IA y de tecnología.
+* [AlphaXiv](https://alphaxiv.org)
 
 
 ## En relación al Informe - La Escritura
