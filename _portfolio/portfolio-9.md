@@ -17,6 +17,10 @@ This is a Social Assistive Robot built on top of the Open Hardware Q-BO project 
 
 This project involves the development of a Embodied Conversational Agent (ECA), a SAR robot to assist in gerontology settings.  It can be used to research to build a workable product for elderly assistance, either from the point of view of caregivers or from homecare therapy.  We implemented the ECA using Meta Llama2 model, which is customized to act like a robot companion for elderly care.
 
+## Awards
+
+* Tooly received a recognition from the Deputy Chamber of the City of Buenos Aires: https://www.legislatura.gob.ar/posts/la-legislatura-de-la-ciudad-declaro-de-interes-al-robot-tooly-creado-para-ayudar-a-los-adultos-mayores.html
+
 
 ## Scope
 
