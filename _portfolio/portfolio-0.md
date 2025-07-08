@@ -69,6 +69,8 @@ collection: portfolio
 
 ![Neurotronics](/images/howtowritepaper.png){:height="450px" width="300px"}
 
+![Neurotronics](/images/abstract.jpeg){:height="450px" width="300px"}
+
 ## En relación al Informe - La plataforma
 Hay que usar Latex.  Cualquier otra cosa merece el quinto anillo.  Cuando arrancan el proyecto van a arrancar con un template básico en Latex sobre la plataforma de Overleaf.  La curva de aprendizaje es compleja, pero el documento sale perfecto y Latex fuerza a escribir de una manera particular.  Elimina más fácilmente vicios que en otra plataforma son naturales.  Pueden utilizar esta guía también excelente [Latex Paper Writing Tips](https://github.com/guanyingc/latex_paper_writing_tips).
 
@@ -163,6 +165,8 @@ Una vez entregado el Informe, aplicadas las devoluciones de los jurados, se hace
     * Jurado malvado: "Creen ustedes que este método que están proponiendo puede llegar a utilizarse o que es relevante en el estado del arte sobre este tema?".
     * ❌: "El tema es muy complejo, nosotros no sabemos muchos, somos solo estudiantes, no sabemos si puede utilizarse o no, hay cosas muy avanzadas."
     * ✅: "Dentro del marco de las limitaciones que nosotros especificamos en nuestro informe y en esta defensa, este método puede utilizarse de manera adecuada y puede ser útil para solucionar el problema en cuestión."
+
+![Neurotronics](/images/oralpresentations.jpeg){:height="450px" width="300px"}
 
 
 ## En relación al English
