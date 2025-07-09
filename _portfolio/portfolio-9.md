@@ -1,13 +1,10 @@
 ---
-title: "SAR Tooly for Gerontology"
+title: "SAR Robot for Gerontology"
 excerpt: "Robotic Platform for Gerontology"
 collection: portfolio
 ---
 
 ![Descriptor](/images/qbo.png){:height="450px" width="300px"}
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7257089750354804737" height="1146" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
 
 ## Description
 
@@ -16,10 +13,6 @@ This is a Social Assistive Robot built on top of the Open Hardware Q-BO project 
 ## Project
 
 This project involves the development of a Embodied Conversational Agent (ECA), a SAR robot to assist in gerontology settings.  It can be used to research to build a workable product for elderly assistance, either from the point of view of caregivers or from homecare therapy.  We implemented the ECA using Meta Llama2 model, which is customized to act like a robot companion for elderly care.
-
-## Awards
-
-* Tooly received a recognition from the Deputy Chamber of the City of Buenos Aires: https://www.legislatura.gob.ar/posts/la-legislatura-de-la-ciudad-declaro-de-interes-al-robot-tooly-creado-para-ayudar-a-los-adultos-mayores.html
 
 
 ## Scope
