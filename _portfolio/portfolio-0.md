@@ -192,7 +192,7 @@ Este tipo de proyectos requieren ciertas características en cuánto a las inten
 
 * Si lo que quieren es sacarse la materia de encima, NO HAGAN NI SE EMBARQUEN EN ESTOS PROYECTOS.
 * Tienen que tener ganas de hacerlo, les tiene que copar.  Hay que aprender temas nuevos, quizás hasta incluso alejados del área específica de cada uno.  Por lo tanto, para que funcione eso, es importante que haya una buena motivación para encarar el tema.
-* Es importante que el grupo de trabajo tenga una buena dinámica y empuje el tema por motus propia.  Las tesis o proyectos finales son proyectos de alumnos que requieren que los administren de manera adecuada ejecutandolos.
+* Es importante que el grupo de trabajo tenga una buena dinámica y empuje el tema por motus propia.  Las tesis o proyectos finales son proyectos de alumnos que requieren que los administren de manera adecuada ejecutandolos.  Tienen que tener el ownership del proyecto y hacerse cargo.
 
 ## En relación a las Referencias y a Ver Más
 
