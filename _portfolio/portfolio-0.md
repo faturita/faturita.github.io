@@ -79,15 +79,16 @@ La búsqueda bibliográfica o armado del SOTA, **State of the Art** implica reco
 
 En resumen,
 
-* [Google Scholar](https://scholar.google.com)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
-* [ResearchGate](https://researchgate.net)
-* [Semantic Scholar](https://www.semanticscholar.org/)
+* [Google Scholar](https://scholar.google.com): El buscador por default y además métrica más objetiva de credenciales científicas.
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/): Si el paper está acá, tiene alguna conexión con salud.
+* [ResearchGate](https://researchgate.net): la red social científica.
+* [Semantic Scholar](https://www.semanticscholar.org/): Pre-LLM para una búsqueda más precisa de papers.
 * [Undermind](https://www.undermind.ai/home/)
 * [Consensus](https://consensus.app/)
+* [Perplexity](https://www.perplexity.ai/): LLM que combina varios papers y permite seguir trazos de lineas apuntando las referencias.  Es excelente.
 * [Open Alex](https://openalex.org): Base de datos de papers con sus métricas.
 * [ArXiv](https://arxiv.org/): Repositorio de preprints. Muchos papers de IA y de tecnología.
-* [AlphaXiv](https://alphaxiv.org)
+* [AlphaXiv](https://alphaxiv.org): Muestra los papers de arxiv con comentarios agregados por la comunidad.
 
 
 ## En relación al Informe - La Escritura
