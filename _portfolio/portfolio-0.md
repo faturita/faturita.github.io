@@ -89,6 +89,8 @@ En resumen,
 * [Open Alex](https://openalex.org): Base de datos de papers con sus métricas.
 * [ArXiv](https://arxiv.org/): Repositorio de preprints. Muchos papers de IA y de tecnología.
 * [AlphaXiv](https://alphaxiv.org): Muestra los papers de arxiv con comentarios agregados por la comunidad.
+* [ResearchRabbit](https://app.researchrabbit.ai/):  Permite organizar la búsqueda de bibliografía con LLMs.
+
 
 
 ## En relación al Informe - La Escritura
@@ -115,6 +117,11 @@ En la cabeza del lector del Informe, van a aparecer estas preguntas, por lo que 
 * ¿Qué limitaciones tiene lo que presentan? ¿En qué casos no anda bien, o como van corrigiendo o aplicando mejoras para lidear con cada una de esas limitaciones?
 * ¿Cómo sigue la cosa después? ¿Qué harían ustedes si tuviesen todo el dinero, tiempo, ganas del mundo para seguir con este proyecto?
 * El título del trabajo, y el alcance, hacen referencia al tema principal que se presenta.  Eso justamente es lo principal y en general es lo que demanda del trabajo mayor atención, reflejada en por ejemplo, cuántas hojas se usan para esa parte.  El resto del contenido está POR Y PARA esa parte.  Por ejemplo, en un trabajo que involucra una implementación de rede neuronales recurrentes para predecir el valor de bitcoin, no tiene sentido en la intro poner 3 carillas de redes convolucionales !
+
+
+![Ask Your Papers](/images/AskYourPapers.png){:height="450px" width="300px"}
+
+
 
 ## En relación al Informe - El ABSTRACT
 El Abstract normalmente se escribe al final.  No es la introducción al tema, eso es justamente la **Introducción**.  El Abstract (o Resumen) es el resumen del trabajo, por lo tanto tiene que detallarle a un lector lo que el trabajo tiene de una manera concisa.  No tiene sentido que sea largo, debe ser corto porque es un TL;DR (Too Long, Don't Read). 
