@@ -61,9 +61,6 @@ The project is structured in three successive stages:
 
 ---
 
-## Authors
-
-Franco Paviotti · Esteban Buniak · Orestes Freixes · Juan Miguel Santos · Rodrigo Ramele
 
 ## Collaborators
 
@@ -100,8 +97,6 @@ Franco Paviotti · Esteban Buniak · Orestes Freixes · Juan Miguel Santos · Ro
 <summary><strong>Updates log</strong></summary>
 <br>
 <ul>
-  <li><strong>2025</strong> — Three academic theses completed on Equilivest (BS and graduate level). Collaborators Eng. Nicolás Vargas Alice, Eng. Marina Cristina Perez Gaido, and Tasos Papastylonou (University of Essex, UK) formally acknowledged.</li>
   <li><strong>2023</strong> — arXiv preprint published (2301.06528); work presented at IROS 2022 Assistive Robotics Workshop.</li>
-  <li><strong>2022</strong> — First prototype tested; Stage 1 clinical hypothesis under validation.</li>
 </ul>
 </details>
