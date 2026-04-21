@@ -34,6 +34,7 @@ The project has already been built and we are currently working towards creating
 
 ## Media
 
+* https://misti.mit.edu/student-story-panel-daniel-lobelo
 * [Vorterix](https://www.youtube.com/watch?v=BZTxHlfgG18)
 * [TN](https://tn.com.ar/salud/noticias/2021/08/11/crearon-un-robot-para-ayudar-a-los-pacientes-en-rehabilitacion-pulmonar/)
 * [Experimento](https://www.youtube.com/watch?v=_1rzOGQBSo4)
