@@ -102,8 +102,9 @@ Current work focuses on **obstacle avoidance** — enabling the robot to navigat
 
 **Theses**
 
-- [BS Thesis — ALPIBot Undergraduate Project](/portfolio/00_Main_rev.pdf)
-- [MS Thesis — Marius Carrier (ITBA–KIT Joint Program)](/portfolio/Marius Carrier - ITBA-KIT Thesis.pdf)
+- [BS Thesis - Controller Design Undergrad Project](https://ri.itba.edu.ar/entities/publication/eb639b1e-3bb4-4228-8e6e-41c63040b5a7)
+- [BS Thesis — ALPIBot Undergraduate Project](https://ri.itba.edu.ar/entities/publication/02a81ff5-7abc-4bda-9394-cd1c2c244693)
+- [MS Thesis — Marius Carrier (ITBA–KIT Joint Program)](https://ri.itba.edu.ar/entities/publication/02a81ff5-7abc-4bda-9394-cd1c2c244693)
 
 ---
 
