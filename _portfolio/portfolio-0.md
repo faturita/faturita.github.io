@@ -177,6 +177,9 @@ Una vez entregado el Informe, aplicadas las devoluciones de los jurados, se hace
 ![Neurotronics](/images/oralpresentations.jpeg){:height="450px" width="300px"}
 
 
+![Bad Talks](/images/badtalk.jpeg){:height="450px" width="300px"}
+
+
 ## En relación al English
 * Particularly when students are interested in broadcasting their work to international companies, it is advised to write their PF in English.
 * Keep sentences simple, straightforward.  Try to avoid very complicated indirect speeches, or very complicated subjective sentences.
