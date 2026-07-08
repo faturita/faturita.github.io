@@ -12,6 +12,7 @@ collection: portfolio
 
 ## Tips
 
+* Las tesis se escriben en Latex.  [Date un tiempo para mirar este video si no tenés idea que es](https://youtu.be/KhWwuQ7qf5A?si=pdaq11w0ieBtnNqc&t=96).  Con las herramientas generativas hoy es mucho más simple de escribir documentos en Latex.
 * El documento en Overleaf/Latex/OpenAI Prism tiene que estar desde el primer día y hay que usarlo como un repositorio de referencias, tirar texto ahí, poner enlaces.  Hay que ir acumulando y documentando todo el material que se va juntando, incluso aquel que no prospera.  Pueden arrancar con este [template](https://raw.githubusercontent.com/faturita/faturita.github.io/master/files/Template_PF_2024.zip).
 * Prolijo con los datos:   Tiene que estar super claro como acceder a los datos, que es lo que contienen y el speech de como fueron tomados.  Esto puede incluir la solicitud al Comité de Etica del Departamento de Investigación y Doctorado de la Universidad, con la aprobación.
 * Armar scripts basados en esos datos para poder regenerar todos los gráficos.
