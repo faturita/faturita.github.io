@@ -23,11 +23,11 @@ collection: portfolio
 ## En relación a las Iteraciones
 * No tiene sentido empezar todo de cero todo el tiempo.  Por eso, siempre es mejor **construir sobre los hombros de los gigantes** y avanzar en iteraciones trabajos previos haciendo aportes.
 * Pero el trabajo realizado tiene que ser AUTOCONTENIDO.  Es decir, debe establecer claramente el objetivo y el alcance, dentro del marco de un proyecto más abarcativo y a largo plazo, y ofrecer todo lo necesario para que sea comprensible en sí mismo.  Esto siempre es posible.
-* Por ejemplo, los trabajos no pueden tener como título "Proyecto 2", sino que tienen que centrarse en cuál fue el aporte implementado en esa iteración.  Esto jerarquiza además al trabajo y le da su justa medida en relación a los aportes, además de que lo focaliza y ayuda a que el informe, que es la evidencia de todo el trabajo realizado, tenga un estructura mucho más adecuada.
+* Por ejemplo, los trabajos no pueden tener como título "Proyecto 2", sino que tienen que centrarse en cuál fue el aporte implementado en esa iteración: "Algoritmo de detección de ondas para el proyecto OndaWave".  Esto jerarquiza además al trabajo y le da su justa medida en relación a los aportes, además de que lo focaliza y ayuda a que el informe, que es la evidencia de todo el trabajo realizado, tenga un estructura mucho más adecuada.
 
 ## En relación al Trabajo
 * Cuatro palabras: Rigor, reliability, robustness, and transparency
-* *Rigor*: Se refiere a que el trabajo no saltee paso, no corner-cut (o si lo hace que lo aclare como limitación).
+* *Rigor*: Se refiere a que el trabajo no saltee pasos, no haga corner-cut (o si lo hace que lo aclare como limitación).
 * *Reliability*: Que los resultados o el funcionamiento se sostenga y que no sea producto de azar puro.
 * *Robustness*: Que ese funcionamiento o resultados permitan tolerar argumentos que lo debatan, o en el caso de desarrollos que permitan tolerar pequeñas variaciones en su uso DENTRO del propio alcance.  Por ejemplo, un auto que se detiene repentinamente a los 20 km por hora no es robusto.
 * *Transparency*: que toda la información esté visible, accesible.
@@ -172,7 +172,7 @@ Una vez entregado el Informe, aplicadas las devoluciones de los jurados, se hace
 * Es importante que tengan bien en cuenta quienes son los jurados, a qué se dedican, qué hacen.  Stalkeenlos un poco para ver cuáles son sus especialidades porque justamente las preguntas que hagan van a girar alrededor de eso.
 * Super importante: Demuestren confianza en su trabajo y en su conocimiento de la materia.  Siempre hay alguién que sabe más, siempre hay más tema para aprender.  Ustedes estudiaron y trabajaron muchísimo, y sobre ese tema, más que nadie en toda la defensa seguramente.   Por lo tanto, sientanse con total confianza en su conocimiento sobre el tema.  Si llegan a la defensa es porque ya son expertos.  Defiendanlo así.  Por ejemplo
     * Jurado malvado: "Creen ustedes que este método que están proponiendo puede llegar a utilizarse o que es relevante en el estado del arte sobre este tema?".
-    * ❌: "El tema es muy complejo, nosotros no sabemos muchos, somos solo estudiantes, no sabemos si puede utilizarse o no, hay cosas muy avanzadas."
+    * ❌: "El tema es muy complejo, nosotros no sabemos mucho, somos solo estudiantes, no sabemos si puede utilizarse o no, hay cosas muy avanzadas."
     * ✅: "Dentro del marco de las limitaciones que nosotros especificamos en nuestro informe y en esta defensa, este método puede utilizarse de manera adecuada y puede ser útil para solucionar el problema en cuestión."
 
 ![Neurotronics](/images/oralpresentations.jpeg){:height="450px" width="300px"}
