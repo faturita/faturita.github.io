@@ -23,10 +23,10 @@ collection: portfolio
 ## En relación a las Materias de Proyecto Asociadas
 
 * Las materias de proyecto final de grado o los talleres de tesis están pensadas para capacitarlos en los detalles de cómo llevar adelante el proyecto, así como también en detalles de presentación y escritura.  
-* Además, los ayudan a lo más dificil que es mantener el impetú y el compromiso requerido para terminar este emprestito.  Esto es fundamental.
+* Además, los ayudan a lo más difícil que es mantener el impetú y el compromiso requerido para terminar este empréstito.  Esto es fundamental.
 * Sin embargo, la dinámica del proyecto no siempre coincide con la de esas materias.  Quizás ustedes trabajen antes, o después de la cursadas, o quizás el proyecto depende de algo externo que no coincide con la estructura de estas materias.
-* Por ello, es responsabilidad DEL TUTOREADO ajustar, preparar, adaptar cualquier tipo de material para cumplir con las entregas o con los requerimientos que correspondan a las cursadas de estas materias.  
-* Ese tipo de material, las entregas, presentaciones no son parte del proyecto y son algo que el TUTOREADO debe administrar por su cuenta en el cursado de la materia.
+* Por ello, es responsabilidad del ALUMNO ajustar, preparar, adaptar cualquier tipo de material para cumplir con las entregas o con los requerimientos que correspondan a las cursadas de estas materias.  
+* Ese tipo de material, las entregas, presentaciones no son parte del proyecto y son algo que el ALUMNO debe administrar por su cuenta en el cursado de la materia.
 
 
 ## En relación a las Iteraciones
