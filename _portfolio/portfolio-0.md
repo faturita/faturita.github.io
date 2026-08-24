@@ -20,6 +20,15 @@ collection: portfolio
 * Armar un apartado que resuma las contribuciones del trabajo, explicitadas una a una.
 * Las fotos tienen que tener la cara tapada, buena iluminación, mostrar los elementos importantes destacados de forma que se visualicen de manera correcta.
 
+## En relación a las Materias de Proyecto Asociadas
+
+* Las materias de proyecto final de grado o los talleres de tesis están pensadas para capacitarlos en los detalles de cómo llevar adelante el proyecto, así como también en detalles de presentación y escritura.  
+* Además, los ayudan a lo más dificil que es mantener el impetú y el compromiso requerido para terminar este emprestito.  Esto es fundamental.
+* Sin embargo, la dinámica del proyecto no siempre coincide con la de esas materias.  Quizás ustedes trabajen antes, o después de la cursadas, o quizás el proyecto depende de algo externo que no coincide con la estructura de estas materias.
+* Por ello, es responsabilidad DEL TUTOREADO ajustar, preparar, adaptar cualquier tipo de material para cumplir con las entregas o con los requerimientos que correspondan a las cursadas de estas materias.  
+* Ese tipo de material, las entregas, presentaciones no son parte del proyecto y son algo que el TUTOREADO debe administrar por su cuenta en el cursado de la materia.
+
+
 ## En relación a las Iteraciones
 * No tiene sentido empezar todo de cero todo el tiempo.  Por eso, siempre es mejor **construir sobre los hombros de los gigantes** y avanzar en iteraciones trabajos previos haciendo aportes.
 * Pero el trabajo realizado tiene que ser AUTOCONTENIDO.  Es decir, debe establecer claramente el objetivo y el alcance, dentro del marco de un proyecto más abarcativo y a largo plazo, y ofrecer todo lo necesario para que sea comprensible en sí mismo.  Esto siempre es posible.
